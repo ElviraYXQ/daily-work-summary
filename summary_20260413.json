@@ -1,321 +1,60 @@
 {
-  "total_count": 116,
-  "total_chats": 17,
+  "total_count": 20,
+  "total_chats": 5,
   "chat_stats": [
-    {
-      "name": "【告警】全链路资损对账告警",
-      "type": "group",
-      "count": 39,
-      "messages": [
-        {
-          "time": "2026-04-12 17:30",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【交易域】逆向单异常卡单监控告警\n日期范围：2026-04-12~2026-04-12\n触发报警的内容：\n[1]\nissue_type: 非DTO的审核拒绝原因-wms_outbound_cancel_already_shipped\n数量: 12\n\n[2]\nissue_type:",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 19:30",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【交易域】逆向单异常卡单监控告警\n日期范围：2026-04-12~2026-04-12\n触发报警的内容：\n[1]\nissue_type: 非DTO的审核拒绝原因-wms_outbound_cancel_already_shipped\n数量: 12\n\n[2]\nissue_type:",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 21:30",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【交易域】逆向单异常卡单监控告警\n日期范围：2026-04-12~2026-04-12\n触发报警的内容：\n[1]\nissue_type: 非DTO的审核拒绝原因-wms_outbound_cancel_already_shipped\n数量: 12\n\n[2]\nissue_type:",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 20:30",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【交易域】逆向单异常卡单监控告警\n日期范围：2026-04-12~2026-04-12\n触发报警的内容：\n[1]\nissue_type: 非DTO的审核拒绝原因-wms_outbound_cancel_already_shipped\n数量: 12\n\n[2]\nissue_type:",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 18:30",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【交易域】逆向单异常卡单监控告警\n日期范围：2026-04-12~2026-04-12\n触发报警的内容：\n[1]\nissue_type: 非DTO的审核拒绝原因-wms_outbound_cancel_already_shipped\n数量: 12\n\n[2]\nissue_type:",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 23:30",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【交易域】逆向单异常卡单监控告警\n日期范围：2026-04-12~2026-04-12\n触发报警的内容：\n[1]\nissue_type: 非DTO的审核拒绝原因-wms_outbound_cancel_already_shipped\n数量: 12\n\n[2]\nissue_type:",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 22:30",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【交易域】逆向单异常卡单监控告警\n日期范围：2026-04-12~2026-04-12\n触发报警的内容：\n[1]\nissue_type: 非DTO的审核拒绝原因-wms_outbound_cancel_already_shipped\n数量: 12\n\n[2]\nissue_type:",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 13:20",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【交易域】订单状态/金额对账告警\n日期范围：2026-04-11~2026-04-11\n触发报警的内容：\n[1]\nissue_type: 订单状态是发货后但是没有发货包裹\n数量: 125\n\n[2]\nissue_type: 发货后订单状态和包裹状态不一致\n数量: 17\n\n[3]\ni",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 10:40",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【供应链域】TRADE & OFC正向单据对账告警\n日期范围：2026-04-11~2026-04-11\n触发报警的内容：\n[1]\nissue_type: 订单剩余金额OFC和商城不一致\n数量: 2\n\n[2]\nissue_type: 交易单和履约单状态映射不一致\n数量: 4\n\n[",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 10:20",
-          "sender": "未知",
-          "content": "<card title=\"数据对账告警\">\n**告警名称：** 数据对账告警\n**等级：** P0\n**告警内容：** 【供应链域】TMS & OFC 上门取件单对账告警\n日期范围：2026-04-11~2026-04-11\n触发报警的内容：\n[1]\nissue_type: tms-IQ上门取件申请参数sku维度数量和ofc不一致\n数量: 4\n\n\n指标满足任一条件\n「任一 数量 > 0.0」\n\n报",
-          "msg_type": "interactive"
-        }
-      ]
-    },
     {
       "name": "Savana 周会",
       "type": "group",
-      "count": 16,
+      "count": 7,
       "messages": [
         {
-          "time": "2026-04-12 22:23",
-          "sender": "邓秋霖 Eddie Deng",
-          "content": "@周美 Jane Zhou @Jennifer Li @张佳宜 Jiayi Zhang",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 20:39",
+          "time": "2026-04-12 23:20",
           "sender": "薛驰 Chi Xue",
-          "content": "@易希倩 Queenie Yi 我们现在风控是有的么？iq",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 22:23",
-          "sender": "邓秋霖 Eddie Deng",
-          "content": "之前传统服饰 野着来的，没管",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 22:47",
-          "sender": "易希倩 Queenie Yi",
-          "content": "@薛驰 Chi Xue 目前伊拉克和印度都只有基础的规则风控，比如分钟级、天级、7天级最大下单数管控和大额订单量管控，但因为所有用户同一份规则，所以对于恶意RTO DTO的作用有限。极速退项目中即将试点自建和第三方风控能力，后续逐步调试到稳定效果后可考虑迁移到下单链路，更前置拦截恶意行为",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 20:50",
-          "sender": "薛驰 Chi Xue",
-          "content": "<forwarded_messages>\n[2026-04-12T20:39:58+08:00] cli_a92c07bfbff8dbc4:\n    <card>\n    页面完整、数据清晰、署名正常。校验通过。\n    \n    报告地址：[http://192.168.188.124/iq-rto-20260412_204340/](http://192.168.188.124/iq-rto-",
-          "msg_type": "merge_forward"
+          "content": "@易希倩 Queenie Yi 让Claude code把过去的都跑一遍 先搞个稍微简单模型上了呗 不然每天都可能会损失钱 我怀疑我们都被黑产搞好多年了 @罗军 Beiyan Luo ai找漏洞不是最牛逼的么",
+          "msg_type": "text",
+          "is_self": false
         },
         {
           "time": "2026-04-12 21:58",
           "sender": "薛驰 Chi Xue",
           "content": "尺码得看看怎么理解 @张佳宜 Jiayi Zhang 后悔型得 @易希倩 Queenie Yi 看看",
-          "msg_type": "text"
+          "msg_type": "text",
+          "is_self": false
         },
         {
-          "time": "2026-04-12 20:58",
+          "time": "2026-04-12 20:39",
           "sender": "薛驰 Chi Xue",
-          "content": "[Image: img_v3_0210m_9efb3125-6cf2-415d-8bb1-5da4a5960fcg]",
-          "msg_type": "image"
+          "content": "@易希倩 Queenie Yi 我们现在风控是有的么？iq",
+          "msg_type": "text",
+          "is_self": false
         },
         {
           "time": "2026-04-12 20:58",
           "sender": "薛驰 Chi Xue",
           "content": "<p>@周美 Jane Zhou @易希倩 Queenie Yi @张佳宜 Jiayi Zhang @向瑾 Jin Xiang</p>",
-          "msg_type": "text"
+          "msg_type": "text",
+          "is_self": false
         },
         {
-          "time": "2026-04-12 23:20",
+          "time": "2026-04-12 22:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 目前伊拉克和印度都只有基础的规则风控，比如分钟级、天级、7天级最大下单数管控和大额订单量管控，但因为所有用户同一份规则，所以对于恶意RTO DTO的作用有限。极速退项目中即将试点自建和第三方风控能力，后续逐步调试到稳定效果后可考虑迁移到下单链路，更前置拦截恶意行为",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-12 23:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 我们看看",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-12 20:50",
           "sender": "薛驰 Chi Xue",
-          "content": "@易希倩 Queenie Yi 让Claude code把过去的都跑一遍 先搞个稍微简单模型上了呗 不然每天都可能会损失钱 我怀疑我们都被黑产搞好多年了 @罗军 Beiyan Luo ai找漏洞不是最牛逼的么",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 22:23",
-          "sender": "邓秋霖 Eddie Deng",
-          "content": "海运过去，就傻逼了",
-          "msg_type": "text"
-        }
-      ]
-    },
-    {
-      "name": "未知群聊",
-      "type": "unknown",
-      "count": 15,
-      "messages": [
-        {
-          "time": "2026-04-12 23:05",
-          "sender": "Rishi Gaurav",
-          "content": "@Ashutosh got u !! the absolute no. are surely looking high here but if we check the overall breaches which lead because of these not attempts that is under control / permissible limit. These penenden",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 23:31",
-          "sender": "Rishi Gaurav",
-          "content": "@Ashutosh Every individual user's experience does matter as top Priority. For that a mix of actions we takes :\n- To save that, we have started one activity, like if a user complains is beyond 2 days a",
-          "msg_type": "post"
-        },
-        {
-          "time": "2026-04-12 22:59",
-          "sender": "Rishi Gaurav",
-          "content": "@Ashutosh There is Zonal hard Stop SOP w.r.t to every Zone, This pendency is because of Logistics issues Also, if there is no attempt shipments and get RTO by courier, we do have penalty clauses there",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 23:35",
-          "sender": "Ashutosh",
-          "content": "@Rishi Gaurav \n1. its not saving experience its just making it more worst that we are putting a RTO on order where user came to ask about it \n  a. also 5 days is too much need to come like 24 hours \n2",
-          "msg_type": "post"
-        },
-        {
-          "time": "2026-04-12 22:11",
-          "sender": "Ashutosh",
-          "content": "@Rishi Gaurav hey pls help make sure this is passed twice a week",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 22:10",
-          "sender": "Ashutosh",
-          "content": "@Rishi Gaurav hey why there are not attempted cases above 5 days here?",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 23:07",
-          "sender": "Ashutosh",
-          "content": "@Rishi Gaurav again my question is not about matrix level - its more of on user POV",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 23:01",
-          "sender": "Ashutosh",
-          "content": "@Rishi Gaurav yeah. ut something sitting at more then 5 days - what are we telling users- penalty not gonna get the user back",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 23:43",
-          "sender": "Rishi Gaurav",
-          "content": "@Ashutosh More than 5 days flat is something we can see how to do, as every Region has its own TAT / Speed, like Zone D we have 4 days. Here, if we consider +1 days there should be no shipments, for t",
-          "msg_type": "post"
-        },
-        {
-          "time": "2026-04-12 23:45",
-          "sender": "Ashutosh",
-          "content": "@Rishi Gaurav hey i get that on movement TAT - \nthen lets do one thing - we have all pincodes - put a standardlised movement TAT -and put an automated alert bot - so that when it crosses those are ale",
-          "msg_type": "text"
-        }
-      ]
-    },
-    {
-      "name": "Instant Refund Project - Supply Chain",
-      "type": "group",
-      "count": 9,
-      "messages": [
-        {
-          "time": "2026-04-12 19:56",
-          "sender": "陈振华 Anzhong Chen",
-          "content": "20260412-SNAPSHOT @王叠 Die Wang @曹津 Jin Cao \nhttps://mayfairtech.larkenterprise.com/wiki/Ud9zwFArNiv6Iqk9KGCchBQxnhc?from=from_copylink",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 14:23",
-          "sender": "陈振华 Anzhong Chen",
-          "content": "@王叠 Die Wang 就是刚刚说的上门取件状态变更消息中，带这个字段的\n[Image: img_v3_0210m_21726900-e1cd-4008-a4ee-f30c1501e51g]",
-          "msg_type": "post"
-        },
-        {
-          "time": "2026-04-12 13:34",
-          "sender": "Shivani Verma",
-          "content": "@陈振华 Anzhong Chen when we cancel for QC or NSZ why will it be closed manually that is conclusive status I think @易希倩 Queenie Yi can you confirm this",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 14:25",
-          "sender": "王叠 Die Wang",
-          "content": "我晚点整理一下，现在没在电脑边",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 14:22",
-          "sender": "王叠 Die Wang",
-          "content": "@陈振华 Anzhong Chen 我不知道供应链要关单的条件是什么",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 13:42",
-          "sender": "陈振华 Anzhong Chen",
-          "content": "@王叠 Die Wang 能列举一下供应链要关单，但商城不关的场景吗",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 13:04",
-          "sender": "郑阳光 James Zheng",
-          "content": "[Image: img_v3_0210m_0904cb9b-f4f1-4bf4-b548-9c13f357642g]",
-          "msg_type": "image"
-        },
-        {
-          "time": "2026-04-12 13:27",
-          "sender": "陈振华 Anzhong Chen",
-          "content": "@Shivani Verma @王叠 Die Wang the cancellation bucket is actually at the pickup order level, but we display it at the return order level, and take the cancellation reason from the pickup order that \"cau",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 13:04",
-          "sender": "郑阳光 James Zheng",
-          "content": "@Shivani Verma  hello , please confirm this button ,to limit user  only choose once.",
-          "msg_type": "text"
-        }
-      ]
-    },
-    {
-      "name": "产技内部超时赔活动期间关键信息协同群",
-      "type": "group",
-      "count": 8,
-      "messages": [
-        {
-          "time": "2026-04-12 19:00",
-          "sender": "未知",
-          "content": "<card title=\"每日新增赔付订单告警\">\n[每日新增赔付订单告警](https://data.mayfair-inc.com/bi/#/dashboard/38145?appId=1&lang=zh_CN&sheetId=4398&fromsubpush=true)\n🖼️ Image\n---\n**截图时间：** 2026-04-12 19:00:02 UTC+08:00\n**订阅管理：*",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 22:00",
-          "sender": "未知",
-          "content": "下一次需赔付总数:0,发货数:0,总件数:0,总金额(IQD):0, 订单明细:\n \n下下一次需赔付总数:12,发货数:12,总件数:82,总金额(IQD):775000.00",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 14:00",
-          "sender": "未知",
-          "content": "下一次需赔付总数:0,发货数:0,总件数:0,总金额(IQD):0, 订单明细:\n \n下下一次需赔付总数:21,发货数:21,总件数:177,总金额(IQD):1554500.00",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 10:01",
-          "sender": "未知",
-          "content": "<card title=\"每日新增赔付订单告警\">\n[每日新增赔付订单告警](https://data.mayfair-inc.com/bi/#/dashboard/38145?appId=1&lang=zh_CN&sheetId=4398&fromsubpush=true)\n🖼️ Image\n---\n**截图时间：** 2026-04-12 10:01:44 UTC+08:00\n**订阅管理：*",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 10:02",
-          "sender": "未知",
-          "content": "<card title=\"2026-04-11 超时赔活动数据\">\n🖼️ Image\n</card>",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 10:00",
-          "sender": "未知",
-          "content": "<card title=\"EDD右区间大于5天的告警\">\n[EDD右区间大于5D告警](https://data.mayfair-inc.com/bi/#/dashboard/38145?appId=1&lang=zh_CN&sheetId=4406&fromsubpush=true)\n🖼️ Image\n---\n**截图时间：** 2026-04-12 10:00:03 UTC+08:00\n**订",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 09:31",
-          "sender": "未知",
-          "content": "<card title=\"2026-04-11 超时赔-社媒和大盘问题态势监控\">\n🖼️ Image\n</card>",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 09:00",
-          "sender": "未知",
-          "content": "<card title=\"仓内超过24小时发货告警\">\n[仓内超过24小时发货告警](https://data.mayfair-inc.com/bi/#/dashboard/38145?appId=1&lang=zh_CN&sheetId=4404&fromsubpush=true)\n🖼️ Image\n---\n**截图时间：** 2026-04-12 09:00:01 UTC+08:00\n**订阅",
-          "msg_type": "interactive"
+          "content": "@易希倩 Queenie Yi @张佳宜 Jiayi Zhang @周美 Jane Zhou bad dto, bad bad",
+          "msg_type": "text",
+          "is_self": false
         }
       ]
     },
@@ -325,77 +64,53 @@
       "count": 7,
       "messages": [
         {
-          "time": "2026-04-12 22:15",
-          "sender": "Ashutosh",
-          "content": "hey queenie have a check on this once",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 23:00",
-          "sender": "王越诗 Kice Wang",
-          "content": "queenie～极速退的退货失败有qc fail、用户取消、快递员取消这些在表达上说清楚，页面样式上不做区分，所以文案上把每个取消表达要写完对不？",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 23:30",
-          "sender": "易希倩 Queenie Yi",
-          "content": "对 就是取消原因会有不同展示 页面样式一样的",
-          "msg_type": "text"
+          "time": "2026-04-12 19:23",
+          "sender": "Sara Karwan",
+          "content": "Hi Queeine can we make a call tomorrow ?",
+          "msg_type": "text",
+          "is_self": false
         },
         {
           "time": "2026-04-12 22:15",
           "sender": "Ashutosh",
           "content": "[Image: img_v3_0210m_aa336ceb-5a39-4888-9d35-884aad70dahu]",
-          "msg_type": "image"
+          "msg_type": "image",
+          "is_self": false
         },
         {
-          "time": "2026-04-12 19:23",
-          "sender": "Sara Karwan",
-          "content": "Hi Queeine can we make a call tomorrow ?",
-          "msg_type": "text"
+          "time": "2026-04-12 23:30",
+          "sender": "易希倩 Queenie Yi",
+          "content": "对 就是取消原因会有不同展示 页面样式一样的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-12 22:15",
+          "sender": "Ashutosh",
+          "content": "hey queenie have a check on this once",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-12 23:00",
+          "sender": "王越诗 Kice Wang",
+          "content": "queenie～极速退的退货失败有qc fail、用户取消、快递员取消这些在表达上说清楚，页面样式上不做区分，所以文案上把每个取消表达要写完对不？",
+          "msg_type": "text",
+          "is_self": false
         },
         {
           "time": "2026-04-12 14:00",
           "sender": "未知",
           "content": "<card title=\"🕓 工单处理提醒\">\n工单中心 · 工单中心 · #6949792900\n[6949792900](https://project.feishu.cn/buyer-cs/story/detail/6949792900) 在当前状态已停留4天，请@ou_8e5ae10c82b5b3c009e45b9b3bd19cb9及时处理\n**当前状态:** 开始\n**到达时间:** 2",
-          "msg_type": "interactive"
+          "msg_type": "interactive",
+          "is_self": false
         },
         {
           "time": "2026-04-12 09:01",
           "sender": "未知",
           "content": "📰 **每日市场新闻速递 - 2026-04-12**\n\n🇮🇳 **印度市场**\n\n1. 谷歌印度推出 Gemini 支持的购物更新，包括人工智能驱动的产品发现、对话式搜索和 Circle to Search 升级，以更轻松地...\n   🔗 [Google upgrades AI tools to simplify online shopping in India](https://www.st",
-          "msg_type": "text"
-        }
-      ]
-    },
-    {
-      "name": "VoC舆情告警",
-      "type": "group",
-      "count": 4,
-      "messages": [
-        {
-          "time": "2026-04-12 20:20",
-          "sender": "Ishita Singh",
-          "content": "The customer initially contacted us via chat regarding the refund for order ID: S011260331130129077003. The agent correctly informed the customer that the refund had been processed on 5th and advised ",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 19:22",
-          "sender": "Ishita Singh",
-          "content": "@负向舆情告警机器人 checking",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 16:36",
-          "sender": "Nishant Raghuvanshi",
-          "content": "@Ishita Singh Please share the Order id.",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 16:35",
-          "sender": "未知",
-          "content": "<card title=\"负向舆情告警\">\n评论ID：18119112973639299\n国家码：Savana_IN\n用户信息：_siyachoudhry(961761803068448)\n负向评论次数：5\n帖子地址：https://www.instagram.com/p/DW_zZX9CAEc/\n评论内容：This is my final warning.\nDespite multiple fo",
-          "msg_type": "interactive"
+          "msg_type": "text",
+          "is_self": false
         }
       ]
     },
@@ -405,41 +120,25 @@
       "count": 3,
       "messages": [
         {
-          "time": "2026-04-12 18:59",
-          "sender": "Shilan Bahjat",
-          "content": "Hi dear @易希倩 Queenie Yi , how are you? AI gave a customer this coupon (NEW10) which is not an active coupon that we have available currently. \n[Image: img_v3_0210m_1180a329-4303-40fa-8e04-51dab521424g",
-          "msg_type": "post"
-        },
-        {
           "time": "2026-04-12 21:13",
           "sender": "Zheen Yousif",
           "content": "@易希倩 Queenie YiHey dear Queenie,\nWe wanted to check an issue today. While extracting the data, most of the AI labeling was incorrect. For example, in this case: https://aichat.urbanic-cs.com/app/accou",
-          "msg_type": "text"
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-12 18:59",
+          "sender": "Shilan Bahjat",
+          "content": "Hi dear @易希倩 Queenie Yi , how are you? AI gave a customer this coupon (NEW10) which is not an active coupon that we have available currently. \n[Image: img_v3_0210m_1180a329-4303-40fa-8e04-51dab521424g",
+          "msg_type": "post",
+          "is_self": false
         },
         {
           "time": "2026-04-12 15:03",
           "sender": "Zheen Yousif",
           "content": "@易希倩 Queenie Yi morning dear we have an issue with the chats they are not loading, it is the same with all of us and some tickets which are assighned they come and go \n[Image: img_v3_0210m_d36986e4-58",
-          "msg_type": "post"
-        }
-      ]
-    },
-    {
-      "name": "IQ本地仓&超时赔项目大群 - 业务策略和项目问题沟通群",
-      "type": "group",
-      "count": 2,
-      "messages": [
-        {
-          "time": "2026-04-12 22:00",
-          "sender": "未知",
-          "content": "下一次需赔付总数:0,发货数:0,总件数:0,总金额(IQD):0, 订单明细:\n \n下下一次需赔付总数:12,发货数:12,总件数:82,总金额(IQD):775000.00",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 14:00",
-          "sender": "未知",
-          "content": "下一次需赔付总数:0,发货数:0,总件数:0,总金额(IQD):0, 订单明细:\n \n下下一次需赔付总数:21,发货数:21,总件数:177,总金额(IQD):1554500.00",
-          "msg_type": "text"
+          "msg_type": "post",
+          "is_self": false
         }
       ]
     },
@@ -452,131 +151,32 @@
           "time": "2026-04-12 22:48",
           "sender": "易希倩 Queenie Yi",
           "content": "@余嘉俊 Justin Yu 能和三方确认一下是确实没有此类数据还是有数据接口没有对应字段吗？@Shivani Verma",
-          "msg_type": "text"
+          "msg_type": "text",
+          "is_self": true
         },
         {
           "time": "2026-04-12 13:28",
           "sender": "余嘉俊 Justin Yu",
           "content": "@易希倩 Queenie Yi 其他两个目前还是没看到",
-          "msg_type": "text"
+          "msg_type": "text",
+          "is_self": false
         }
       ]
     },
     {
-      "name": "【退货原因采集优化】供应链&c端沟通",
+      "name": "Instant Refund Project - Supply Chain",
       "type": "group",
-      "count": 2,
+      "count": 1,
       "messages": [
         {
-          "time": "2026-04-12 13:58",
-          "sender": "余嘉俊 Justin Yu",
-          "content": "@Shivani Verma the IQ reverse route should only be ZMC, right?",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 14:29",
+          "time": "2026-04-12 13:34",
           "sender": "Shivani Verma",
-          "content": "@余嘉俊 Justin Yu yes IQ only has ZMC",
-          "msg_type": "text"
-        }
-      ]
-    },
-    {
-      "name": "Urbanic客服工单跟进",
-      "type": "group",
-      "count": 2,
-      "messages": [
-        {
-          "time": "2026-04-12 14:00",
-          "sender": "未知",
-          "content": "<card title=\"未处理工单汇总\">\n**触发时间**: 2026-04-12 14:00 (GMT+8)\n今天未完结工单汇总如下：\n\n---\n**Unresolved Tickets**\n工单中心 · 工单中心\n🖼️ Unresolved Tickets\n[查看详情](https://project.feishu.cn/buyer-cs/workObjectView/story/b5vX",
-          "msg_type": "interactive"
-        },
-        {
-          "time": "2026-04-12 14:00",
-          "sender": "未知",
-          "content": "<card title=\"未完结工单列表\">\n工单中心 · 工单中心\n2026-04-12 14:00 (GMT+8) 提示，以下为需要关注的工单中心与相关信息\n\n\n1. #6955355284 [6955355284](https://project.feishu.cn/buyer-cs/story/detail/6955355284) ｜@ou_f044cf2b2edf85d432a5ab4f",
-          "msg_type": "interactive"
-        }
-      ]
-    },
-    {
-      "name": "AI Customer碰碰",
-      "type": "group",
-      "count": 2,
-      "messages": [
-        {
-          "time": "2026-04-12 09:30",
-          "sender": "未知",
-          "content": "当前时间2026/04/12 09:30:13, openai印度账号剩余余额为16457.20093，预计还能用289.3848天",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 09:30",
-          "sender": "未知",
-          "content": "当前时间2026/04/12 09:30:03, openai伊拉克账号剩余余额为2078.077906，预计还能用3.3611天",
-          "msg_type": "text"
-        }
-      ]
-    },
-    {
-      "name": "AIChat相关讨论",
-      "type": "group",
-      "count": 2,
-      "messages": [
-        {
-          "time": "2026-04-12 09:30",
-          "sender": "未知",
-          "content": "当前时间2026/04/12 09:30:13, openai印度账号剩余余额为16457.20093，预计还能用289.3848天",
-          "msg_type": "text"
-        },
-        {
-          "time": "2026-04-12 09:30",
-          "sender": "未知",
-          "content": "当前时间2026/04/12 09:30:03, openai伊拉克账号剩余余额为2078.077906，预计还能用3.3611天",
-          "msg_type": "text"
-        }
-      ]
-    },
-    {
-      "name": "IN- Instant refund service",
-      "type": "group",
-      "count": 1,
-      "messages": [
-        {
-          "time": "2026-04-12 22:18",
-          "sender": "Ashutosh",
-          "content": "@Shivani Verma hey is it checked now?",
-          "msg_type": "text"
-        }
-      ]
-    },
-    {
-      "name": "促成交链路产技沟通core群",
-      "type": "group",
-      "count": 1,
-      "messages": [
-        {
-          "time": "2026-04-12 10:30",
-          "sender": "未知",
-          "content": "<card title=\"【Datawind 播报】分层支付优惠播报\">\n策略参见群公告\n\n**整体UPI 比对照看板**\n2026-04-11:\nprepaid 占比: 43.11%,\n实验组UPI订单占比: 36.65%,\n---\n**人群维度占比(最近一周)**\n1.  纯在线支付:  实验组UPI订单占比: 72.63%,\n2.  低COD占比:  实验组UPI订单占比: 56.39%,\n",
-          "msg_type": "interactive"
-        }
-      ]
-    },
-    {
-      "name": "优惠券到期下线提醒",
-      "type": "group",
-      "count": 1,
-      "messages": [
-        {
-          "time": "2026-04-12 10:00",
-          "sender": "未知",
-          "content": "<card title=\"【监控报告】[IQ]优惠券到期下线提醒\">\n日期范围：2026-04-11~~2026-04-11\n**触发报警的内容：**\n**[1]**\n**优惠券ID:** 13124\n**优惠券名称:** Coupon for return user\n**优惠券类型:** 商品券\n**站点:** Savana_IQ\n**领取结束日期:** 20260415\n\n**[2]**\n**",
-          "msg_type": "interactive"
+          "content": "@陈振华 Anzhong Chen when we cancel for QC or NSZ why will it be closed manually that is conclusive status I think @易希倩 Queenie Yi can you confirm this",
+          "msg_type": "text",
+          "is_self": false
         }
       ]
     }
   ],
-  "summary": "共 17 个会话，116 条消息"
+  "summary": "共 5 个会话，20 条消息"
 }

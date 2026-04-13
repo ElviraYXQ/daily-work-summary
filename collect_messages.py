@@ -78,6 +78,58 @@ def get_yesterday_messages():
     return all_messages
 
 
+def is_message_relevant(msg, user_name="易希倩 Queenie Yi", user_id="ou_cc38ac881bcf17d997f0cad7d9a9a621"):
+    """判断消息是否与用户相关"""
+
+    # 1. 如果是用户自己发的消息，肯定相关
+    sender = msg.get('sender', {})
+    sender_id = sender.get('id', '')
+    sender_name = sender.get('name', '')
+
+    if sender_id == user_id or sender_name == user_name:
+        return True
+
+    # 2. 检查消息内容是否@了用户
+    content = msg.get('content', '')
+
+    # 检查多种@格式
+    at_patterns = [
+        f"@{user_name}",           # @易希倩 Queenie Yi
+        f"@易希倩",                 # @易希倩
+        f"@Queenie Yi",            # @Queenie Yi
+        f"@Queenie",               # @Queenie
+        f"ou_cc38ac881bcf17d997f0cad7d9a9a621",  # open_id
+    ]
+
+    for pattern in at_patterns:
+        if pattern in content:
+            return True
+
+    # 3. 对于私聊消息，都相关
+    chat_type = msg.get('chat_type', '')
+    if chat_type == 'p2p':
+        return True
+
+    return False
+
+
+def filter_relevant_messages(messages):
+    """过滤出与用户相关的消息"""
+    relevant = []
+    filtered_count = 0
+
+    for msg in messages:
+        if is_message_relevant(msg):
+            relevant.append(msg)
+        else:
+            filtered_count += 1
+
+    print(f"   ✓ 过滤掉 {filtered_count} 条无关消息")
+    print(f"   ✓ 保留 {len(relevant)} 条相关消息")
+
+    return relevant
+
+
 def categorize_messages(messages):
     """按群聊分类消息"""
     categorized = defaultdict(list)
@@ -91,7 +143,8 @@ def categorize_messages(messages):
             'time': msg.get('create_time', ''),
             'sender': msg.get('sender', {}).get('name', '未知'),
             'content': msg.get('content', '')[:200],  # 截取前200字符预览
-            'msg_type': msg.get('msg_type', 'text')
+            'msg_type': msg.get('msg_type', 'text'),
+            'is_self': msg.get('sender', {}).get('name', '') == '易希倩 Queenie Yi'
         }
 
         key = f"{chat_type}:{chat_name}"
@@ -154,8 +207,10 @@ def generate_summary_text(analysis):
 
 ## 📈 总体统计
 
-- 消息总数：{analysis['total_count']} 条
-- 会话数量：{analysis['total_chats']} 个
+- 相关消息：{analysis['total_count']} 条
+- 涉及会话：{analysis['total_chats']} 个
+
+💡 *仅统计@了你或你参与的消息*
 
 ## 💬 主要会话
 
@@ -208,7 +263,7 @@ def main():
     print("=" * 60)
 
     # 1. 获取消息
-    print("\n📥 步骤 1/4: 获取昨天的消息...")
+    print("\n📥 步骤 1/5: 获取昨天的消息...")
     messages = get_yesterday_messages()
 
     if not messages:
@@ -217,24 +272,35 @@ def main():
         send_to_lark(summary_text)
         return
 
-    # 2. 分析消息
-    print("\n🔍 步骤 2/4: 分析消息...")
-    ai_analysis = analyze_messages_ai(messages)
+    # 2. 过滤相关消息
+    print("\n🔍 步骤 2/5: 过滤与你相关的消息...")
+    relevant_messages = filter_relevant_messages(messages)
+
+    if not relevant_messages:
+        print("⚠️  没有与你相关的消息，发送空报告")
+        summary_text = "📊 昨天没有与你相关的消息"
+        send_to_lark(summary_text)
+        return
+
+    # 3. 分析消息
+    # 3. 分析消息
+    print("\n🔍 步骤 3/5: 分析消息...")
+    ai_analysis = analyze_messages_ai(relevant_messages)
 
     if ai_analysis:
         analysis = ai_analysis
         print("   ✓ 使用 AI 智能分析")
     else:
-        analysis = analyze_messages_simple(messages)
+        analysis = analyze_messages_simple(relevant_messages)
         print("   ✓ 使用简单统计分析")
 
-    # 3. 生成汇总文本
-    print("\n📝 步骤 3/4: 生成汇总报告...")
+    # 4. 生成汇总文本
+    print("\n📝 步骤 4/5: 生成汇总报告...")
     summary_text = generate_summary_text(analysis)
     print("   ✓ 报告生成完成")
 
-    # 4. 发送到飞书
-    print("\n📤 步骤 4/4: 发送到飞书...")
+    # 5. 发送到飞书
+    print("\n📤 步骤 5/5: 发送到飞书...")
     send_to_lark(summary_text)
 
     # 保存到本地（用于调试）
