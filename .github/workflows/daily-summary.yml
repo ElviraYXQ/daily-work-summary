@@ -1,0 +1,38 @@
+name: Daily Work Summary
+
+on:
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install lark-cli
+      run: |
+        npm install -g @larksuiteoapi/lark-cli
+
+    - name: Configure lark-cli
+      env:
+        LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
+        LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
+      run: |
+        lark-cli config init --app-id "$LARK_APP_ID" --app-secret-stdin <<< "$LARK_APP_SECRET"
+        echo "${{ secrets.LARK_USER_TOKEN }}" | lark-cli auth set-user-token
+
+    - name: Run summary script
+      env:
+        LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
+        LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
+        LARK_USER_ID: ${{ secrets.LARK_USER_ID }}
+        CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+      run: |
+        python collect_messages.py
