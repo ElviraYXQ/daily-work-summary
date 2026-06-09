@@ -1,0 +1,434 @@
+{
+  "total_count": 298,
+  "total_chats": 12,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 255,
+      "messages": [
+        {
+          "time": "2026-04-22 21:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "did you bully him?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 21:38",
+          "sender": "Mohammad Habib",
+          "content": "now i know the one people forbid it lol labubu lol",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 21:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "It is very popular in most countries",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 21:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "!! Take him to China, haha",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 21:28",
+          "sender": "Mohammad Habib",
+          "content": "<video key=\"file_v3_00110_e54339ee-3ddf-4cab-a75c-ab102baf939g\" name=\"76c195db-1190-44bd-8bbc-e75c92cf8cc0.mp4\" duration=\"8s\" cover_image_key=\"img_v3_02110_2a674187-b7e1-4640-a676-16a1abe0f5ag\"/>",
+          "msg_type": "media",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 21:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_02110_7e2483a0-2896-4239-b53f-8ce0afcea97g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 21:40",
+          "sender": "Mohammad Habib",
+          "content": "i will dye his hair yellow lol",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 21:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "it is helpful, let me check once, thank you",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 21:47",
+          "sender": "Sheetal Jasoriya",
+          "content": "Ok",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 21:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Soooo cute",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 14,
+      "messages": [
+        {
+          "time": "2026-04-22 23:29",
+          "sender": "王叠 Die Wang",
+          "content": "@杨林 Sennia Yang @易希倩 Queenie Yi 然后这个文案是这回我照着交互稿特地加的，退款节点在待审核的时候展示\n[Image: img_v3_02110_7a25160e-0882-4a91-bfec-f341237d471g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 22:19",
+          "sender": "王叠 Die Wang",
+          "content": "@杨林 Sennia Yang @易希倩 Queenie Yi \nCRM上质检失败的日志，表里是记了，但是线上的逻辑是不展示，这次要放出来吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 20:21",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "备注结论：\n- 针对生产验收，需要模拟不同退款策略。\n  - 解决方案是：\n    - 风控提供白名单以及 orderId 固定orderId 映射成 分数映射 配置\ncc @王叠 Die Wang @杨林 Sennia Yang @易希倩 Queenie Yi",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 18:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 怎么品[白眼]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 18:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang 操作了的话，感觉是确认了退货没问题，是不是就应该展示pickup完成[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 18:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "而不是节点完全没有了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 18:58",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 可能得再细品一下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 17:23",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 有个场景你看下这样展示有没有问题：\n用户的极速退订单的因为质检失败导致pickup失败，然后客服在crm后台操作了订单纬度的去标，那这个订单在C端不展示取件失败的模块了，且也没有return 节点了。\n开始的节点：\n[Image: img_v3_02110_0b0e2658-8b20-4280-bce2-eb6be4a6c96g]\n逆向单纬度去标\n[Image: i",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 15:34",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 消息模板别忘了配置哈",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 17:01",
+          "sender": "曹津 Jin Cao",
+          "content": "[Image: img_v3_02110_490ca7db-223b-4385-8aef-bc71cf89685g]\n\n[Image: img_v3_02110_c8f46d7d-0564-4e34-b5cf-9ecbc6619bcg]\n\n@易希倩 Queenie Yi 第一次取件失败待跟用户确认安排下一轮时，目前是：不关单但是会展示取件失败（ C端和CRM ）。这个符合预期吗",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-22 20:24",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi @肖帝鸿 Hardy Xiao 明天也看一下。谢谢",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 20:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 你也可以从你的视角看一下目前的数据有没有比较大的偏差，因为我校验了数据的合理性（剔除了明显不符合正常成年女性身材的数据），但不知道从你们的视角有没有一些明显不合理的地方",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 20:39",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi @肖帝鸿 Hardy Xiao",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 20:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 可以的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 20:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li https://mayfairtech.larkenterprise.com/docx/BBfDdVctcoNMf5xEBmNcSxCInNh看看哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 20:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li https://mayfairtech.larkenterprise.com/docx/CdfQdgSxTo9f5Yxqsw2cbK0snOf 用户身材数据分析了一版，还是有一些结论的，你看看可否参考哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 20:19",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 我们能不能基于这个，做一个简单的用户身材体型标准？",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-22 16:20",
+          "sender": "Anubhav Agrawal",
+          "content": "@易希倩 Queenie Yi Ya and Shivani told me about the internal employees who are part of whitelist for testing. ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 17:03",
+          "sender": "Sheetal Jasoriya",
+          "content": "@Ashutosh i will discuss with @易希倩 Queenie Yi as she is busy today.\nOn the Upendra's requirement, i understand your and tech team concern and pain. But some things are important from loss, accounting,",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 16:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal You mean whitelist?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 11:11",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi how many users approx? ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 09:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@向瑾 Jin Xiang No, tomorrow it will be live, and we will open just for whitelist users",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 10:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sheetal Jasoriya \n1. Could you list all fields you want to add? Now there are too many fields, BI team can't tell which on need to add there \n2. It is included in the project",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 09:46",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@易希倩 Queenie Yi Today, the project go live?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "移动端发版",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-22 10:30",
+          "sender": "詹文豹 Eric Zhan",
+          "content": "@易希倩 Queenie Yi 今天开始灰度的版本已经覆盖上个版本的灰度了；",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 10:23",
+          "sender": "詹文豹 Eric Zhan",
+          "content": "[Image: img_v3_02110_4b1598a7-2c6f-414b-a56b-b6f405ef93ag]\n[Image: img_v3_02110_a75ab53c-e4bd-4d03-8ae6-078aed7e38eg]\n具体UV @易希倩 Queenie Yi",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 10:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@詹文豹 Eric Zhan 这有点少啊[不看]能加速扩量吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 10:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@詹文豹 Eric Zhan 上周的bureau版本目前覆盖量多少了呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 10:21",
+          "sender": "詹文豹 Eric Zhan",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "印度AI客服周周碰",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-22 10:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@张佳宜 Jiayi Zhang 本周碰碰可以改个时间不？我这边其他会时间冲突了[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-22 10:53",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "@易希倩 Queenie Yi 你想改到啥时候？要不你calendar约个新的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 10:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@张佳宜 Jiayi Zhang 下午2点半后吧 我看下你们时间",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-22 11:25",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 啥叫快速加黑",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-22 11:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang 印度仅退款有快速加黑能力吗",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-22 19:42",
+          "sender": "Shivani Verma",
+          "content": "<p>@_all This is the doc for recording the testing scenarios - each person has been assigned 2 cases to validate. Please do not begin testing till we say so on the group as the release will be done so",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "基础售后保障(开单：@基础技术售后 机器人）| Infra service",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-22 14:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu 有消息了吗 着急[不看]",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退Instant Refund沟通群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-22 13:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @陈振华 Anzhong Chen @陈振华 Anzhong Chen 口径记得标注一下哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "马文相 Moda Ma, 易希倩 Queenie Yi, 王衍儒 Yanru Wang, 徐基跃 Star Xu",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-22 11:22",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN周年庆抽免单",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-22 11:54",
+          "sender": "滕苗 Mia Teng",
+          "content": "【0422in周年庆抽免单纪要】cc@孔斐凡 Feifan Kong \n方案相对iq免单方案的改动点：\n1. 新增反复取消下单拦截：研究通过风控逻辑拦截恶意取消订单的行为，确保不影响用户正常下单，同时考虑一个小时内整单取消数量及下单数量的拦截规则 @滕苗 Mia Teng\n2. 新增‘免单=退到钱包’+钱包新增金额使用有效期（仅对于特定充值“批次”限制有效期）；用户就算取消、钱包获得金额后取消等都",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 12 个会话，298 条消息"
+}

@@ -1,0 +1,116 @@
+========================================
+开始时间: Sat May 23 10:06:34 CST 2026
+========================================
+刷新 lark-cli token...
+{
+  "appId": "cli_a9418088f5b8dcb1",
+  "brand": "feishu",
+  "defaultAs": "auto",
+  "expiresAt": "2026-05-22T12:00:05+08:00",
+  "grantedAt": "2026-04-13T14:41:25+08:00",
+  "identity": "user",
+  "refreshExpiresAt": "2026-05-29T10:00:05+08:00",
+  "scope": "auth:user.id:read base:app:copy base:app:create base:app:read base:app:update base:dashboard:create base:dashboard:delete base:dashboard:read base:dashboard:update base:field:create base:field:delete base:field:read base:field:update base:form:create base:form:delete base:form:read base:form:update base:record:create base:record:delete base:record:read base:record:update base:role:create base:role:delete base:role:read base:role:update base:table:create base:table:delete base:table:read base:table:update base:view:read base:view:write_only base:workflow:create base:workflow:read base:workflow:update board:whiteboard:node:create board:whiteboard:node:delete board:whiteboard:node:read calendar:calendar.event:create calendar:calendar.event:delete calendar:calendar.event:read calendar:calendar.event:update calendar:calendar.free_busy:read calendar:calendar:create calendar:calendar:delete calendar:calendar:read calendar:calendar:update contact:user.base:readonly contact:user.basic_profile:readonly contact:user:search docs:document.comment:create docs:document.comment:delete docs:document.comment:read docs:document.comment:update docs:document.comment:write_only docs:document.media:download docs:document.media:upload docs:document:copy docs:document:export docs:event:subscribe docs:permission.member:auth docs:permission.member:create docs:permission.member:transfer docx:document:create docx:document:readonly docx:document:write_only drive:drive.metadata:readonly drive:file:download drive:file:upload im:chat.members:read im:chat.members:write_only im:chat:read im:chat:update im:message.group_msg:get_as_user im:message.p2p_msg:get_as_user im:message.pins:read im:message.pins:write_only im:message.reactions:read im:message.reactions:write_only im:message:readonly mail:event mail:user_mailbox.mail_contact:read mail:user_mailbox.mail_contact:write mail:user_mailbox.message.address:read mail:user_mailbox.message.body:read mail:user_mailbox.message.subject:read mail:user_mailbox.message:modify mail:user_mailbox.message:readonly mail:user_mailbox:readonly search:message sheets:spreadsheet.meta:read sheets:spreadsheet.meta:write_only sheets:spreadsheet:create sheets:spreadsheet:read sheets:spreadsheet:write_only task:comment:write task:task:read task:task:write task:tasklist:read task:tasklist:write vc:meeting.meetingevent:read vc:meeting.search:read vc:note:read wiki:node:read offline_access",
+  "tokenStatus": "needs_refresh",
+  "userName": "易希倩 Queenie Yi",
+  "userOpenId": "ou_cc38ac881bcf17d997f0cad7d9a9a621"
+}
+============================================================
+🚀 开始执行每日工作汇总任务
+⏰ 时间: 2026-05-23 10:06:35
+============================================================
+
+📥 步骤 1/5: 获取昨天的消息...
+📅 获取消息时间范围：2026-05-22T00:00:00+08:00 到 2026-05-22T23:59:59+08:00
+📦 获取第 1 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 2 页消息...
+执行出错: Command 'lark-cli im +messages-search --start "2026-05-22T00:00:00+08:00" --end "2026-05-22T23:59:59+08:00" --page-size 50 --as user --format json --page-token "647d18b922ea7588"' timed out after 30 seconds
+❌ 获取失败
+
+✅ 总共获取 50 条消息
+
+🔍 步骤 2/5: 过滤与你相关的消息...
+   ✓ 过滤掉 38 条无关消息
+   ✓ 保留 12 条相关消息
+
+🔍 步骤 3/5: 分析消息...
+   ✓ 分析完成
+
+📝 步骤 4/5: 生成汇总报告...
+   ✓ 报告生成完成
+
+📤 步骤 5/5: 发送到飞书...
+❌ 发送失败: Command '['lark-cli', 'im', '+messages-send', '--user-id', 'ou_cc38ac881bcf17d997f0cad7d9a9a621', '--text', '📊 05月22日 工作汇总\n\n## 💡 昨天重点\n\n👥 **售后🐂🐎碰碰**\n  ✅ 你：@邹家辉 Jiahui Zou 这个后续也能放到growth上吗 这样我们就直接改了\n\n💬 **未知群聊**\n  🔸 桂良伟 Liangwei Gui：晚上还改吗？\n\n---\n📅 05月23日 | 🎯 0项待办', '--as', 'bot']' timed out after 30 seconds
+   ✓ 详细数据已保存到: summary_20260523.json
+
+============================================================
+✅ 任务执行完成！
+============================================================
+----------------------------------------
+开始竞对动态推送: Sat May 23 12:07:09 CST 2026
+----------------------------------------
+/Users/yixiqian/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+============================================================
+🌐 每日竞对动态推送
+⏰ 2026-05-23 12:07:09
+============================================================
+
+📥 步骤 1/3: 搜索行业新闻...
+
+🔍 搜索 india 市场新闻...
+   → India women fashion ecommerce 2026
+     找到 4 条
+   → Meesho Myntra Ajio fashion size recommendation
+     找到 4 条
+   → India online fashion return rate size fit
+     找到 4 条
+   → Flipkart Nykaa fashion AI technology
+     找到 4 条
+   → India ecommerce fashion trends
+     找到 4 条
+
+🔍 搜索 iraq 市场新闻...
+   → Iraq ecommerce market 2026
+     找到 4 条
+   → Iraq online shopping COD payment
+     找到 4 条
+   → Iraq digital payment ZainCash
+     找到 3 条
+   → Middle East Iraq fashion ecommerce
+     找到 3 条
+   → Kurdistan online shopping women fashion
+     找到 3 条
+
+🔍 搜索 global 市场新闻...
+   → SHEIN Temu Middle East expansion 2026
+     找到 3 条
+   → fashion ecommerce size recommendation AI
+     找到 3 条
+   → online fashion return rate solution
+     找到 3 条
+   → BNPL buy now pay later Middle East
+     找到 3 条
+   → Zara H&M ecommerce AI technology 2026
+     找到 3 条
+
+   ✓ 共搜集 51 条新闻
+
+📝 步骤 2/3: 生成推送内容...
+
+🤖 AI 正在生成推送内容...
+   ❌ AI 生成超时
+   ⚠️ 使用兜底模板
+
+📤 步骤 3/3: 推送到飞书...
+
+📤 发送到飞书...
+   ❌ 发送异常: Command '['lark-cli', 'im', '+messages-send', '--user-id', 'ou_cc38ac881bcf17d997f0cad7d9a9a621', '--text', "## 🌐 Savana 业内动态 | 05月23日\n\n### 📰 动态详情\n\n**🇮🇳 印度市场**\n\n1. Key Indian Ecommerce Trends For 2026 - Indy Trendy\n   → [https://indytrendy.ehfworld.co.in/business-finance...](https://indytrendy.ehfworld.co.in/business-finance/key-indian-ecommerce-trends-for-2026/)\n\n2. Hauterrfly: Latest Fashion, Beauty &amp; Lifestyle Trends for Indian Women\n   → [https://hauterrfly.com/...](https://hauterrfly.com/)\n\n3. Sustainable Fashion in India 2026: Top Eco-Friendly Brands, Fabrics ...\n   → [https://www.kuchbhi.com/fashion/sustainable-fashio...](https://www.kuchbhi.com/fashion/sustainable-fashion-in-india-2026.html)\n\n4. The Loom Summer 2026 Collection: Handcrafted Attire for Women - LinkedIn\n   → [https://www.linkedin.com/pulse/loom-summer-2026-co...](https://www.linkedin.com/pulse/loom-summer-2026-collection-handcrafted-attire-women-the-loom-india-phkjc)\n\n5. Top - Get 60% off on Fancy Girls &amp; Women Tops Online from Myntra\n   → [https://www.myntra.com/tops...](https://www.myntra.com/tops)\n\n6. Top 10 Fashion Shopping Apps in India 2026 | Trendy Picks\n   → [https://blog.synarionit.com/top-fashion-shopping-a...](https://blog.synarionit.com/top-fashion-shopping-apps-in-india/)\n\n7. Why Indian Clothes Don&#x27;t Fit Well in the US | Sizing &amp; Style Guide\n   → [https://www.desiclik.com/blog/2026/05/why-indian-c...](https://www.desiclik.com/blog/2026/05/why-indian-clothes-dont-fit-well-in-the-us/)\n\n8. Indian Ethnic Wear Size Guide: Measurement Chart | Aza Fashions\n   → [https://www.azafashions.com/blog/indian-ethnic-wea...](https://www.azafashions.com/blog/indian-ethnic-wear-size-guide-how-to-measure-yourself-perfect-fit/)\n\n9. Shop Indian Clothing Online for Men, Women &amp; Kids | Myntra\n   → [https://www.myntra.com/indian-clothing...](https://www.myntra.com/indian-clothing)\n\n10. How Does Personalized Sizing Reduce Return Rates?\n   → [https://fashion.sustainability-directory.com/learn...](https://fashion.sustainability-directory.com/learn/how-does-personalized-sizing-reduce-return-rates/)\n\n\n**🇮🇶 伊拉克市场**\n\n1. WEBINAR: Iraq Projects Market 2026 - MEED\n   → [https://www.meed.com/webinar-iraq-projects-market-...](https://www.meed.com/webinar-iraq-projects-market-2026)\n\n2. Dinarland Highlights for May 19, 2026 | Dinar Chronicles\n   → [https://dinarchronicles.com/2026/05/20/dinarland-h...](https://dinarchronicles.com/2026/05/20/dinarland-highlights-for-may-19-2026/)\n\n3. Nick Fleming RVGCR Intel Update May 20, 2026 - judybyington.org\n   → [https://www.judybyington.org/2026/05/nick-fleming-...](https://www.judybyington.org/2026/05/nick-fleming-rvgcr-intel-update-may-20.html)\n\n4. Liquidity Crisis and &#x27;ASYCUDA&#x27;: How Customs Decisions Upended the Lives ...\n   → [https://www.alestiklal.net/en/article/liquidity-cr...](https://www.alestiklal.net/en/article/liquidity-crisis-and-asycuda-how-customs-decisions-upended-the-lives-of-iraq-s-traders-and-markets)\n\n5. Online Money Exchange - Order Foreign Currency Online | Xchange Of America\n   → [https://xchangeofamerica.com/...](https://xchangeofamerica.com/)\n\n6. COD Online - ed\n   → [https://cod.ed.gov/cod/LoginShortcutPage...](https://cod.ed.gov/cod/LoginShortcutPage)\n\n7. What is a Cash on Delivery (COD) Order in DoorDash? (Dasher Tips)\n   → [https://dashertips.com/cash-on-delivery-cod-order-...](https://dashertips.com/cash-on-delivery-cod-order-in-doordash/)\n\n8. 3Store IRAQ | Baghdad - Facebook\n   → [https://www.facebook.com/3Store.IQ/...](https://www.facebook.com/3Store.IQ/)\n\n9. Iraqi Fintech ZainCash goes live with Temenos core banking and payments to scale digital payment services - Temenos\n   → [https://news.google.com/rss/articles/CBMi3AFBVV95c...](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYVB1eGZYSVNYclVSRnhSckFwRzRDdGxZMnZ5LW0yNnBlSVhtOGVGMVR6VW5OenRBaWlZR1dYSExqd01VUjdWOHp3U2dQRVlYUTgxNUxFQlRoeDg0bUU4T1JLamxoOXcwRmpRc21vSHZlRmpRNlI3eXdnaHlvTU12bUx3T0g3bVhRYldOUFhrenFjLU1jTDhQeV81T2VCQ2xqOWdHNFR2T1M4VnFXZm1hVlc3V0tkc210ZS1OYWxHMzVWak1zUjNXc2ZqbjZyNVBLZlBWRE1yYnMzSFhf?oc=5)\n\n10. Zain Cash Iraq adds Western Union to its mobile money offering - Developing Telecoms\n   → [https://news.google.com/rss/articles/CBMi2gFBVV95c...](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmNJX1dGaDRIRVpVUGc5bUNvX1pnTmE0MEJHdWpUUEI4RzVZXy1ZcTQ2R2pydzVXWjNBSzFoTUJUdkdWTWFDazQ0bG5IUC1oWmtvWW0wN0ZjdHpBREwtY0JnQ1gybndyYndVckF1QmFHM2lMbHk3QmxpNmdRN3RxWG9rRzNfVExVTFAyQ2ZIb1pPSHpldl9VaEJWRHBIUnNxY3FRZmZmcmZ6dDhpMS1oeGd5NkxKaFcxa3BPeXZySktZeXJQZ2RIMWtpN2h4N1hNRnNMSF9MQjZiUQ?oc=5)\n\n\n**🌍 全球/中东趋势**\n\n1. Iran Strikes Snarl E-Commerce Delivery Times to Middle East - The Business of Fashion\n   → [https://news.google.com/rss/articles/CBMiugFBVV95c...](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX083WjlBdGwzSS1GckJEUWkxVURPVmg4RkNqSFdpeTc0SFlvd19lY1k2b05VUGF3WDhUUm1tbnhsRDkwaGpCaEJ6QVcyNzJKVlB2c2pWZDluSzVZV0laNVFweVhNbG8tYVdEYlpvZkZUb3JKMFRfOXVGZTRiTzlQYW5lSHFhQjhyZ2h1R0FOcVVnZ090TjVyQVc0SF9pQlNYTFRGNnlReWduWGgwQ1REUWJFWVFmVzJxZmc?oc=5)\n\n2. Shein takes over Europe’s 2026 music festivals with ultra-fast fashion - nssmag.com\n   → [https://news.google.com/rss/articles/CBMijwFBVV95c...](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFFXNG04Yy1lM2s2SjlxNWpPMnotSFFraThtYlhfaG9uUno1aVZIazJ2YnB6Rjk1NE5sSkZmZHBEZ3lhWmR1VnF6aUI0SDdKX25sOG5oelJRMXE0amlFMnBxNV8wbEhIaWs4V3NCVk82ZDVoVVlKRWc4STI3Sm50SkpyTDYtd1gwZ1dzMzRRMA?oc=5)\n\n3. America and China's biggest online shopping platforms send 'delivery warning' to customers in Middle East - The Times of India\n   → [https://news.google.com/rss/articles/CBMikwJBVV95c...](https://news.google.com/rss/articles/CBMikwJBVV95cUxOMGU0Z1ZXcXhvMmxPcVRrbVMycmFyOUZYb09aNWQyUGZoNFhKaWl1TjJNZ1dWQ2l4OUg5enp2WUtWR0VjWHJ3NmNkMGZCZ3BhdzBwdy1PVG81dE9oRjVfRllhU3VTSEFLLVZIVTZFbG5OV2hGLU4wZXFwMVloYUllckllZjFVblA3eno0ZnlYcnBtUEVaZ0FQNVVHNXRwaUczTmRjZ3M0VVY1cFBiaElxMTd5RDRnS3FYbUVzdUZPSzhTaXhiZk5QNnlzc19LQlk1VmRCWEhndXNCNHNrQ3k4NW5mbFJZVHVPM3JiRGljd2lsTlczc0NfcWp4R3czbnhaaVFmQ1kxdk9wcEdzdmk2SUVFSdIBmAJBVV95cUxQeG5TRzFxY3Q0VWdQM0xKX2hRcUxJMlA0T3dEZmlrVjNNNUFjRHpKTGFYUHN5Zll4cFhOR3VjMFdCWWNuOWJSeFJGM3Z4cm1kYnM2ekNiajFIV0MzSWFFVFJnNGptd2JLSUpsWkhjdUpUUVFGS05qa2x5OUlhZEJrYWl3YnNqbGFIN1AyYlRNWGJlTHB0MkE0NFJZWENQQ09lcE5VRXZLUnJmTDdhY3BuWUk0SXBIVGl6eW5GUDUzanhGaUl6dE8zVXpoQVJxOVZUQ1VvanFVNmtKZko4RDZVOVR1MUZQUERlajhrYU5Rb1FSaFFwdGhNOERYc0dHVnpoLVpMQ3p2MHIzUmtVOEVyZkZsTVFmTHNv?oc=5)\n\n4. “We are eliminating search, scrolling, and navigation”: Pele AI on the future of virtual try-on - CTech\n   → [https://news.google.com/rss/articles/CBMia0FVX3lxT...](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wdDlDMHRQTXJMSF9Bd0JyUlJGcWUxUlNpUFdDbWp1ZDhMQUxObHROdnlLcUZWaGNhQmpJU0YxNnNteFg5SDdTRmgyZXN1T3FGLVIwbm5vTGdOaS1yZ0VORXZzM1g4NzYxMmlv?oc=5)\n\n5. Top 11 AI in Fashion Use Cases &amp; Examples - AIMultiple\n   → [https://news.google.com/rss/articles/CBMiTEFVX3lxT...](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5)\n\n6. Sustainable Fashion Technologies: Stitching sustainability into style - Distribution - World Intellectual Property Organization (WIPO)\n   → [https://news.google.com/rss/articles/CBMixgFBVV95c...](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkZMaElqU045TUtiM0FlNHNGTk52LWc4ekNJWU92VGlLV3B6X1RhaEVXMklaQXZPZFRuRV9FNHVReW9LQ0p0ZkZHa3J1RnpYTkx4Si1EUjZtTW1IUTdYTzZ2N0ZfXzFFak5iZlVQVC1GSGQydmNEV0ZuQVRwaGpvSndpWUx6c21KUDl2QWhNSm8xbHc5aFdQMHowdW02Zk01My1IRldmSHpIOV9iZ3VLUS11N2ZoSWVhOFZ0dlNEOHpkSThsbHc?oc=5)\n\n7. 'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems - CNBC\n   → [https://news.google.com/rss/articles/CBMijAFBVV95c...](https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGtUVUNJTXlpYUYxYU15cGJlLXlWVHdUMHBHVmRON1NORmFPeWgzNFRYeWZmM1dZLVZhazFkSlAyYUNsZkMxYl9BNXgyQ3R0OTJ4SV96amlWaU04RENoNC13bk1BSmtJLVdvODhzTGE4YnNXang3aHZJLWF0eVJaX0VUSEYzNHhsejNhQ9IBkgFBVV95cUxNYjd5VE85RlFWQTFqbnNHS0xuRERxMlVNdmxkd21jMWg5ampRX2I3ZEIwOXJmNlBHa3JmVlQ3NHVhUF9kZ1lkTU1xNzh0ekFqM0ZQRzBYX1JJZzVsNDZMY3ViVlRoTkJMc3NaTXJFN0dwUEo4WTY3V2ZDUlJUSm9nbnFWOEJlNFhEUVFHOUNoS1ptZw?oc=5)\n\n8. Fashion items with highest online return rates in Europe in 2022 - Statista\n   → [https://news.google.com/rss/articles/CBMilgFBVV95c...](https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2RsVURranEzUzNkUzlYdV9ua3JXTlhwQmphNzdEd3lBODV0MWpnVVdGbDhmZHVJbTBBME9DeUhiMU9IODV4RVUzUUxudW9SN01Cb181VTJFYjRHb2x2Z2lmeS0wNkZ5WDRoU0UtZUw4SVdsMFYzYmJOSlRSdGFkMm9lbTdZT2thbWlXUFBVVk9MenR5a3c?oc=5)\n\n9. The fashion founder taking on retail’s £20 billion problem - London Evening Standard\n   → [https://news.google.com/rss/articles/CBMijgFBVV95c...](https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1RpXzZpTE5wUWFDaW5OYjNBVVFEVnZIVVRjZnpOS0JFRlZxWW5jVjB3dU92cS1nSE5CRm1EaFBFMEltb1pnS3I4SzR1VXZSNFhYbm9HNlo5WFYxcklMU0pMa2lCR3RpSmpXMkx1dnI5ZnBrdFdXY2dLeWIydmJGY2VvU0MwTGUybFcwQ1hR?oc=5)\n\n10. Middle East Buy Now Pay Later Market Projected to Reach US$ 330.67 Billion by 2035 | Astute Analytica - Yahoo Finance\n   → [https://news.google.com/rss/articles/CBMieEFVX3lxT...](https://news.google.com/rss/articles/CBMieEFVX3lxTE81c3NYbTZ1RU9QbXhRUWpTOGdNUnc0RThhRDl1NWNYa0VTa1N1bUEtOVkzUUZvVjBTbjI3SkpscG40aUF6STI3OUYxaWYxbGU1eWtTOUFJVWhlX05ScnhVUW01dTNzSGYtWDVERXJ6MjFOLXhjaHpXRA?oc=5)\n\n\n---\n*⚠️ AI 概览生成失败，仅展示原始搜索结果*", '--as', 'bot']' timed out after 30 seconds
+   ✓ 内容已保存到: news_20260523.md
+
+============================================================
+✅ 竞对动态推送完成
+============================================================
+结束时间: Sat May 23 12:50:08 CST 2026
+

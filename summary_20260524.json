@@ -1,0 +1,497 @@
+{
+  "total_count": 154,
+  "total_chats": 14,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 91,
+      "messages": [
+        {
+          "time": "2026-05-23 18:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 17:07 ~ 18:07（北京时间）\n​\n总计：1282 条会话 | 有效文字：1161 条（90.6%）\n🔴 大促特有问题：73 条（5.7%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 21:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 20:07 ~ 21:07（北京时间）\n​\n总计：1120 条会话 | 有效文字：1052 条（93.9%）\n🔴 大促特有问题：75 条（6.7%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 23:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 22:07 ~ 23:07（北京时间）\n​\n总计：982 条会话 | 有效文字：907 条（92.4%）\n🔴 大促特有问题：48 条（4.9%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 270",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 20:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 19:07 ~ 20:07（北京时间）\n​\n总计：1150 条会话 | 有效文字：1067 条（92.8%）\n🔴 大促特有问题：54 条（4.7%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 22:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 21:07 ~ 22:07（北京时间）\n​\n总计：996 条会话 | 有效文字：921 条（92.5%）\n🔴 大促特有问题：71 条（7.1%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 284",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 19:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 18:07 ~ 19:07（北京时间）\n​\n总计：1280 条会话 | 有效文字：1187 条（92.7%）\n🔴 大促特有问题：79 条（6.2%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 17:10",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 16:07 ~ 17:07（北京时间）\n​\n总计：1333 条会话 | 有效文字：1213 条（91.0%）\n🔴 大促特有问题：72 条（5.4%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 15:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Mia, 周年庆的活动说明可以看看增加一下说明，同人、同账号、同设备、同收货地址都算同人，每天都只能抽奖一次\n看到很多用户，删除原账号重新注册反复抽奖",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 16:07",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 15:07 ~ 16:07（北京时间）\n​\n总计：1465 条会话 | 有效文字：1340 条（91.5%）\n🔴 大促特有问题：0 条（0.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 1340 ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 16:12",
+          "sender": "滕苗 Mia Teng",
+          "content": "[Image: img_v3_0211v_a8bbf933-072c-4aa3-9ca1-76277b67d2dg]\n[Image: img_v3_0211v_e807499b-7f8b-408c-b0b1-d53ee69a47cg]\n在条款细则和fqa上都做了对应新增，我先改了，然后同步法务确认有没有需要微调表达的，应该问题不大。",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 21,
+      "messages": [
+        {
+          "time": "2026-05-23 14:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 好的 取消相关的我先发给老板",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "是的  这样首评看不到这个活动了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "我看首页抽奖banner下掉了 是不是很多人找不到抽奖了  以为结束了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211v_f0aa1037-1d9a-41a6-835f-a70abf4dd50g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "价格比这里低的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 不是 全都生效",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "所以一般配置上很久都不调整",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211v_5048b478-feda-4fda-9bcd-ac2c8caa1edg]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "要不先降级呢",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 换购价是单独配的",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "【IN】舆情小工具：关键词AI监测",
+      "type": "group",
+      "count": 16,
+      "messages": [
+        {
+          "time": "2026-05-23 15:54",
+          "sender": "马文相 Moda Ma",
+          "content": "@易希倩 Queenie Yi 好的，那我们现在准备发布了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 15:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma 还有这个也需要你帮看下哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 15:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma 对 只改风控场景的 其他报错暂时不动",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 15:18",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma 这是限流的吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 15:16",
+          "sender": "马文相 Moda Ma",
+          "content": "@易希倩 Queenie Yi 风控提示文案改成这个，你确认下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 15:26",
+          "sender": "马文相 Moda Ma",
+          "content": "@易希倩 Queenie Yi 你昨天给的这个，是要换吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 14:14",
+          "sender": "翟雪洋 Haishi Zhai",
+          "content": "@马文相 Moda Ma @易希倩 Queenie Yi [https://mayfairtech.larkenterprise.com/wiki/VALxwr8nEiCqenkjjlxcKeGDnrc](https://mayfairtech.larkenterprise.com/wiki/VALxwr8nEiCqenkjjlxcKeGDnrc)，这里记了action 跟踪[https://ma",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 14:05",
+          "sender": "翟雪洋 Haishi Zhai",
+          "content": "@易希倩 Queenie Yi @马文相 Moda Ma  触发 cod 封控是不是也单独出个提示文案",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 14:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-23 13:07 ~ 14:07（北京时间）\n​\n总计：1497 条会话 | 有效文字：1393 条（93.1%）\n🔴 大促特有问题：103 条（6.9%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 |",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 14:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@翟雪洋 Haishi Zhai这个得加在提单页上，COD置灰了 我来看下",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN周年庆 - 产技沟通",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-23 13:42",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 试了一下没问题 直接服务端下发就行\n[Image: img_v3_0211v_8e656fc4-d10f-4c79-8e05-a2e51aa9ee1g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 13:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li \n[Image: img_v3_0211v_e1e49c9a-287d-4fad-a995-de4e3e56534g]\n取消半浮层加一句提示是只要前端改就行吗",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 13:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211v_54d0869b-5a32-4e7e-83db-4d23996c8c6g]\n这个位置",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 13:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 只改上面能换行不",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 13:37",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 看了一下不行 订单详情在端内还得客户端一起改",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 13:39",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 好像原本就支持文案的列表的 服务端下发的是个数组 加一条文案进去就可以",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-23 14:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "可以打开吗 我想看下提示文案",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 14:18",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邹家辉 Jiahui Zou COD限制规则测试环境是不是没开呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 08:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "应该是的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 00:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邹家辉 Jiahui Zou 好的 那有空弄上去 后续就我们可以自己维护了",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "CRM System Technical Support",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-23 16:10",
+          "sender": "Ankit Gupta",
+          "content": "@Ishita Singh @易希倩 Queenie Yi plz chk",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 12:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ankit Gupta any prompts there?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 12:16",
+          "sender": "Ankit Gupta",
+          "content": "@易希倩 Queenie Yi Is it resolved? @张佳宜 Jiayi Zhang",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN周年庆 - 技术保障",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-23 16:52",
+          "sender": "徐基跃 Star Xu",
+          "content": "[Image: img_v3_0211v_718207a8-1879-4e8c-947b-8fa83e5169bg]\n@马文相 Moda Ma @王叠 Die Wang @易希倩 Queenie Yi COD风控文案已变更",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 17:02",
+          "sender": "马文相 Moda Ma",
+          "content": "[Image: img_v3_0211v_44fc2e89-eff8-4d8e-8bff-05825df342dg]\n\n针对近期舆情反馈集中的两个问题，我们已紧急完成优化： \n问题1：多次取消触发风控的提示优化，已将风控提示与网络错误（network unavailable）单独剥离，新文案为：“Too many attempts, lovely. Give it a few minutes an",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "马文相 Moda Ma, 易希倩 Queenie Yi, 徐基跃 Star Xu",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-23 16:44",
+          "sender": "马文相 Moda Ma",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 16:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "对",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-23 14:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 已经分析过了，刚刚和北总对了一下，原因主要还是意愿流失、和调整订单结构后重新下单（详细见如下说明）。\n- 后续策略：下周计划AB实验，实验组下单后10分钟内增加发货虚拟节点，禁止取消，观测其整体净履约率变化\n[Image: img_v3_0211v_4a95343d-5187-4ef3-8a24-764da187d6ag]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 13:58",
+          "sender": "薛驰 Chi Xue",
+          "content": "iq取消率有搞定么@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "大促-客服进线分析",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-23 13:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun 这里看起来上下文丢了吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-23 13:32",
+          "sender": "孙鹏 Peng Sun",
+          "content": "@易希倩 Queenie Yi 再调试",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-23 12:21",
+          "sender": "程茹洁 Rita Cheng",
+          "content": "@易希倩 Queenie Yi 我也懵了 手机误发了…",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-23 12:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@程茹洁 Rita Cheng 啥",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Savana/Urbanic Core",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-23 17:03",
+          "sender": "Rahul Dayama",
+          "content": "@孔斐凡 Feifan Kong @易希倩 Queenie Yi can you quickly create bundle for me , multiple landing pages",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "WAmsg-印度大促",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-23 15:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Hi Anushka, any update data about this?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-23 12:04",
+          "sender": "Anurag Sharma",
+          "content": "@王越诗 Kice Wang @易希倩 Queenie Yi \n\n[Image: img_v3_0211v_f9ff0f3e-ab04-4973-9a7d-b5df4ebb01hu]\n\nI have created the macros, but the agents are currently unable to use them. Could you please check this fro",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 14 个会话，154 条消息"
+}

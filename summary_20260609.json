@@ -1,0 +1,378 @@
+{
+  "total_count": 272,
+  "total_chats": 12,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 241,
+      "messages": [
+        {
+          "time": "2026-06-08 21:38",
+          "sender": "胡浩 Merlin Hu",
+          "content": "[看]怎么突然半夜印度人开始提各种需求了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 21:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "6月这么快就到了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 21:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "return on delivery是不是之前北总要求供应链6月搞定",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 21:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "不知道啊",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 21:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "哈哈哈哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 21:39",
+          "sender": "胡浩 Merlin Hu",
+          "content": "6月还是太保守了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 21:39",
+          "sender": "胡浩 Merlin Hu",
+          "content": "[Sticker]",
+          "msg_type": "sticker",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 21:38",
+          "sender": "胡浩 Merlin Hu",
+          "content": "赶紧问了下杨老师 是本月上线就行",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 21:38",
+          "sender": "胡浩 Merlin Hu",
+          "content": "这消息发的我都以为这周要上线了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 21:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Sticker]",
+          "msg_type": "sticker",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "降RTO方案评审",
+      "type": "group",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-06-08 20:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐基跃 Star Xu 啥意思",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 20:22",
+          "sender": "徐基跃 Star Xu",
+          "content": "<p>@易希倩 Queenie Yi 评的时候也没说这个呀，没get到这个点[捂脸]我们一直以为就弹窗默选</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 20:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐基跃 Star Xu @桂良伟 Liangwei Gui 这里需求需要完善下，我们补充下吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 20:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐基跃 Star Xu 那可以先不默选，但是后续不能做的话要早点提出来哈，不然马上上线了提出来除了不做这个需求我们都没有别的选项了[新月脸]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 20:13",
+          "sender": "徐基跃 Star Xu",
+          "content": "@易希倩 Queenie Yi 用户首次进提单就默认支付方式？你也不知道这个需求嘛\n[Image: img_v3_0212f_cac223a2-5f81-409c-84c3-26fc512cfeeg]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 20:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐基跃 Star Xu 这个是很复杂吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 20:08",
+          "sender": "徐基跃 Star Xu",
+          "content": "@易希倩 Queenie Yi @桂良伟 Liangwei Gui 你们确定下？\n我和@宋国兵 Colin Song 应该没get到默选这个需求的，我们只知道弹窗点pay online要默选，评需求的时候也没有提到这点，二次支付需求里也没有",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 20:20",
+          "sender": "徐基跃 Star Xu",
+          "content": "@易希倩 Queenie Yi 挺复杂的\n没有在线支付过，是默认第一个还是什么呀\n如果只有COD支付过，是默选COD还是怎么样\n只有钱包支付过是默认选啥，钱包钱又不够了是选啥\n一堆衍生问题",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Perfume- Tech changes",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-06-08 19:50",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Does this impact app side?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 19:54",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi It is okay we will also evaluate the timeline next week only after tech side review. \nI mean next week I think we can arrive on a tentative date so that the launch date can be finalise",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 19:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma I can‘t provide timeline now, our impact will be evaluated based on product side changes",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 18:30",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi The operational readiness for perfumes is by end of June so the work needs to be planned accordingly. Please evaluate your side timeline as well and check the app side points. From sup",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 17:11",
+          "sender": "Shivani Verma",
+          "content": "@Yogesh Agarwal Hi,\nBased on the last discussion these are the tech changes - [https://mayfairtech.larkenterprise.com/wiki/XFNiwThfYiuAEXk1zpEcwcI3nSA?from=from_copylink](https://mayfairtech.larkenter",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-06-08 22:38",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song @易希倩 Queenie Yi hey this is report of POC from bureau \n\n1. Doesn't this clash with our own finding that most return complaints are pickup anxiety, not abuse? A user opening returns 15 ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 22:54",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey - Bureau's own risk model puts ~68% of Android and ~81% of iOS returners in the lowest bucket — worth keeping in mind before we treat returns as a fraud problem\n[Image: img_v3_0212",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 12:52",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey this one they are checking on their side - \n\nalso one more point i want to confirm their and even sheild current cost model is around - 5/10M MUD\nOne quick note.. the 10M MUD(uniqu",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-06-08 16:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-06-08T16:34:50+08:00] 薛驰 Chi Xue:\n    @罗军 Beiyan Luo @孔斐凡 Feifan Kong @邓秋霖 Eddie Deng 我们印度fast起来之前，需要quni那边把烂货整体再清理一波，或者她这个有更多进展。上周我们聊了一起，争取这周再有些进展。两条线，1.快速去掉烂货 2.重塑质量体系。1比较",
+          "msg_type": "merge_forward",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 16:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>@孙鹏 Peng Sun 咱们这周得更新一版坏商品数据</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 15:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@闫昕 Jermmy Yan 是的，上周和xiangjin聊了一下，他说目前仓库物流做了如下这些动作：\nIQ：\n1. 运输端优化：纸箱加厚、优化海运装箱柜子（之前存在底部放了ACC箱子），避免重物压轻、分开打包（服装和ACC分开） - 正在执行，预计1-2周后有结论\n2. 本地仓全量质检 - 已在推进\n3. return on delivery 原因收集 - 识别破损原因，避免二次上架\n4. 退货",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "伊拉克-10mins后不允许取消",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-06-08 14:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邹家辉 Jiahui Zou @陈振华 Anzhong Chen @杨林 Sennia Yang 没有会议室了，要不等下就杨林老师座位我们快速对一下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 13:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邹家辉 Jiahui Zou 好滴 那我们晚点评审下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-08 13:30",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "@易希倩 Queenie Yi 我这也需要改动下代码，代码里有判断限定IQ的逻辑，改动不大",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-06-08 22:08",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "@易希倩 Queenie Yi 明天跟你当面过一下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 17:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 北总 净履约率项目是协调额外资源来做吗",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "品控 x 产技",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-06-08 19:53",
+          "sender": "沈秋宁 Oliver Shen",
+          "content": "@易希倩 Queenie Yi OK，那就是下午2点以前，3:30之后",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 19:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "我空的日程可以哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "NEW PG SETUP- IN",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-06-08 16:11",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey - pls share the SDK versions being used for both savana and urbanic for juspay \nits for that quickpay testing enablement in CUG \n\n@Nishant Raghuvanshi - also pass the customer ID f",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-08 16:20",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh @王叠 Die Wang @杨丽波 Betty Yang  你们知道这是啥不",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-08 15:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "今天周会关键信息同步：因伊拉克时隔40年从重返世界杯，因此公司计划在616日（伊拉克第一场小组赛）上线一场中大型促销活动：push、营销、物流、玩法、客服都需要配合联动\n  - 目标：订单爬坡，希望到1W单以上\n  - 时间：计划1-2周\n  - 计划：业务侧预计周三前完成活动方案盘点，到时候和我们对下",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-08 13:26",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi https://copilot.mayfair-inc.com/u/oc_1a4fec4c6c15ce085269ff21eed12129/tmp/2026-06-07/iq-return-analysis/index.html 可以进一步分析一下这个数据",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-08 12:44",
+          "sender": "Ishita Singh",
+          "content": "@易希倩 Queenie Yi we are still facing the same issue \n[Image: img_v3_0212f_806faf38-9541-4fd4-ae78-14174f710b2g]",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 12 个会话，272 条消息"
+}

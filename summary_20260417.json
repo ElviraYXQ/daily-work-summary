@@ -1,0 +1,441 @@
+{
+  "total_count": 154,
+  "total_chats": 12,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 110,
+      "messages": [
+        {
+          "time": "2026-04-16 23:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "谢谢congcnog",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 22:12",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "<forwarded_messages>\n[2026-04-16T22:08:04+08:00] 向瑾 Jin Xiang:\n    印度消费者创逆向单，还有大概很小一部分，是需要人工审核，这部分能全AI替代掉吗\n[2026-04-16T22:11:47+08:00] 张佳宜 Jiayi Zhang:\n    你说return review是吗？之前北总说422上线后2周内搞定\n</forward",
+          "msg_type": "merge_forward",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 23:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/wiki/BM6iwSJc6iMiEbkzTMuc8h8Gn4g?sheet=7a83e5\nHi dear, you can pick some order IDs from 2 different sheets, and let Ashutosh export relevant phone numbers from C",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 23:26",
+          "sender": "Ghasaq Hamid",
+          "content": "Indeed, I have already made some adjustments to suit the current situation and taste [无辜笑] Anyway thank you dear",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 23:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "GM dears, regarding the item reviews displayed on the site, could you please confirm whether negative comments are filtered out or published? I noticed that this item has a negative review related to ",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 23:08",
+          "sender": "Anushka Kala",
+          "content": "Hii understood, thanks! i will start w this tomorrow",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 20:44",
+          "sender": "李霞 Lacie Li",
+          "content": "https://mayfairtech.larkenterprise.com/wiki/BM6iwSJc6iMiEbkzTMuc8h8Gn4g?sheet=7a83e5",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 23:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "目前商详页面展示哪些部位的尺码信息，这个逻辑是商城这边维护的吗？还是商品那边传的呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 20:28",
+          "sender": "未知",
+          "content": "https://mayfairtech.larkenterprise.com/docx/IDGZd56OEoVcqsxJnO2cyaJ2nxd?dcuId=6964985335201677314&from=vc_assistant_notice#doxcnSb0oE8b9tGdQEYEtcILXpc",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 20:32",
+          "sender": "Ghasaq Hamid",
+          "content": "Hi Queenie, I hope you are doing well\nI am planning to share an activity today to let them choose their preferred option. However, I feel that this particular design may not suit the taste of Iraqi wo",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 14,
+      "messages": [
+        {
+          "time": "2026-04-16 23:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang 对的 极速退是确认的，可以提前展示",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 19:11",
+          "sender": "杨林 Sennia Yang",
+          "content": "[Image: img_v3_0210q_62535b1d-b3b4-40b9-9fb2-62d5287ca27g]\n@易希倩 Queenie Yi 极速退的订单已提交，但是未审核，是按照这个交互稿的样式展示吧：\n1. 顶部有极速退banner，refund 节点有Instant refund标\n2. refund 节点在return节点前。",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 17:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "这样后续会不会没人记得 维护成本是不是有点高",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 17:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 意思是这个分支还是老样式吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 17:56",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "@易希倩 Queenie Yi @李叶飞 Yefei Li 我刚看了，如果是老样式，右侧按钮放不下，极速退有标签，按钮还是得要重新设计下，到时候你再找下我哈",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 17:49",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 等服务端确认一下逻辑 我们尽量把交互统一",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 17:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>@盛伟松 Sam Sheng 坏标的是不是内外都不走了 默认不可享受 这样风控成本至少不用额外出了</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 17:36",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi 我建议还是走下内审，你考虑下\n1. 我们打上坏标不会特别多， 所以成本基本可以忽略。但是如果都不走，反倒又多了一个逻辑分支，增加了业务复杂度\n2. 坏标在我们目前的模型中只是一个风控因子，我理解如果后面要精细化模型，还是要一起考虑的呢",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 17:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng 可以 这样是不是可以省点钱[白眼]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 17:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li @桂良伟 Liangwei Gui 帮看下呢，我理解节点描述文案改为退款已通过，待您上传账号后自动发起，然后update refund method入口名称改下，交互和新版本样式一致就可以了吧",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "质检操作规范培训",
+      "type": "group",
+      "count": 10,
+      "messages": [
+        {
+          "time": "2026-04-16 17:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@刘付家富 Jobin Liu 好的 感谢",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 17:49",
+          "sender": "刘付家富 Jobin Liu",
+          "content": "[Image: img_v3_0210q_0aa9107c-7fa8-4fb4-88f8-14c32cedddfg]\n@易希倩 Queenie Yi 这个时间段准确一些",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 17:44",
+          "sender": "刘付家富 Jobin Liu",
+          "content": "[Image: img_v3_0210q_515c5377-156f-4331-87a4-ac5fa75d246g]\n@易希倩 Queenie Yi",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 16:37",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210q_91a6c083-3c81-4064-8ea1-74b22103e2fg]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 16:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210q_f44e564e-5170-4f99-b9d3-962c8d239ffg]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 14:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210q_a77715fb-5d1d-420e-8c73-3a3a112e2a5g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 14:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210q_d8c261f6-1696-4b37-b20c-c40bf2faacdg]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 10:32",
+          "sender": "罗显富 Felix Luo",
+          "content": "@易希倩 Queenie Yi  你要现在实操质检流程吗？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 10:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗显富 Felix Luo 我们都到那里吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 10:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗显富 Felix Luo 嗯嗯 我和Hardy一起",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-16 17:41",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi webhook来得比API调用返回更早",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 17:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang 有啥解法吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 17:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Mohammed Adel @王叠 Die Wang @李叶飞 Yefei Li 这个上次好像也出现过，是啥问题[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 10:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Mohammed Adel @王叠 Die Wang 解决的是这个吗？",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 10:33",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 我们在批量关闭项目里解决",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 10:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Mohammad Habib @王叠 Die Wang 帮看看呢",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 04:30",
+          "sender": "Mohammed Adel",
+          "content": "hi dear @易希倩 Queenie Yi This is the second time this has happened in Instagram DMs The chat keeps loading with no response. A pending chat seems to cause this problem when I try to open it to close it",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "评估 印度UPI手动输入支付流程下线",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-16 17:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "可以加个客户端版本限制",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-16 17:07",
+          "sender": "马文相 Moda Ma",
+          "content": "[Image: img_v3_0210q_aa3ed4bb-0e66-4edc-94c1-012d5d1ffa1g]\n\n@易希倩 Queenie Yi UPI选项移除后，IN的支付成功率平均跌了1pt，这个能问下ash有没有方式可以补救吗",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 17:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma iOS仍然可以支持 安卓不行",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-16 22:46",
+          "sender": "Upender Bajaj",
+          "content": "@易希倩 Queenie Yi Request you to please provide the active user list of CRM. it is required for audit purposes.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 23:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj https://4a.mayfair-inc.com/account/list Please search here",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "移动端发版",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-16 17:56",
+          "sender": "宋国兵 Colin Song",
+          "content": "@易希倩 Queenie Yi 是的，端侧不需要控制",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 17:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@詹文豹 Eric Zhan 这个是包含了bureau风控的对不？切流节奏是啥呀",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "AI chatbot IQ & IN",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-16 15:47",
+          "sender": "Ria Dutta",
+          "content": "@易希倩 Queenie Yi - There might be a dump for Chat transcript in BI ...you can check with Die once. If I get the chat transcripts even, I can run an Auto QA & check its success rate & then it can be tak",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-16 15:03",
+          "sender": "Yogesh Agarwal",
+          "content": "hi @易希倩 Queenie Yi @王越诗 Kice Wang Any update on the report... Majorly we need the msg transcript in this..",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Iraq Product / Title Issues",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-16 21:33",
+          "sender": "Jennifer Li",
+          "content": "@San Kamaran @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-16 19:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-04-15T18:13:52+08:00] 孙鹏 Peng Sun:\n    [Image: img_v3_0210q_ad640242-e763-4153-ba2f-1a193b0a572g]\n[2026-04-15T18:14:00+08:00] 孙鹏 Peng Sun:\n    [Image: img_v3_0210q_3ceb917a-",
+          "msg_type": "merge_forward",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-16 12:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Media: file_v3_0010q_d9e8204f-0ad8-4041-bd75-fc482ee8d11g]\nNykaa 也做了聊天导购，未来电商购物的入口可能不在APP了",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "产品技术核心管理群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-16 11:03",
+          "sender": "罗军 Beiyan Luo",
+          "content": "[Image: img_v3_0210q_c0e53c29-20af-4e9c-b7dc-c7402158e35g]\n@易希倩 Queenie Yi @孟敏敏 Yitong Meng 你们看看？",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 12 个会话，154 条消息"
+}

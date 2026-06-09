@@ -1,0 +1,196 @@
+{
+  "total_count": 32,
+  "total_chats": 4,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 19,
+      "messages": [
+        {
+          "time": "2026-06-04 23:21",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-04 22:07 ~ 23:07（北京时间）\n总计：2213 条会话 | 有效文字：2134 条（96.4%）\n🔴 大促特有问题：259 条（11.7%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | 782 ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 22:25",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-04 21:07 ~ 22:07（北京时间）\n总计：3375 条会话 | 有效文字：3271 条（96.9%）\n🔴 大促特有问题：509 条（15.1%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | 1205",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "现在哪里可以看的印度在线支付的成功率呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-04 11:10",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-04 10:07 ~ 11:07（北京时间）\n总计：547 条会话 | 有效文字：522 条（95.4%）\n🔴 大促特有问题：52 条（9.5%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | 195 | 35",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:17",
+          "sender": "王俊 June Wang",
+          "content": "好滴",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:33",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "[Image: img_v3_0212b_ff6a3c46-81f7-40b5-8864-7d81df9aecfg]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:33",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "[Image: img_v3_0212b_cfffcac0-3570-4f0d-80df-c10671e96d6g]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:19",
+          "sender": "曾繁旭 Derian Zeng",
+          "content": "[Image: img_v3_0212b_32f28dfc-5277-4464-b4b4-f253cc6a0e3g]\nHi Queenie，想问一下逆向建单的时候creator是一串数字的代表的是ZMC还是我们的客户或者是其他人？\n\n[Image: img_v3_0212b_e7755ab1-bc33-41c3-bb49-8b1011bff46g]\n\n然后我在网页查看的时候有很多创建人名字是邮箱账",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0212b_44397045-9f33-4517-8ff2-45c6ed32256g]\n[https://data.mayfair-inc.com/bi/#/dataQuery?appId=1&rid=216940&sid=1807](https://data.mayfair-inc.com/bi/#/dataQuery?appId=1&rid=216940&sid=",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-04 10:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "商品金额实付10卢比1积分",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 9,
+      "messages": [
+        {
+          "time": "2026-06-04 10:15",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi ok so no issue with ramp up or exposure this is the best that can come with 100% opening right?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:14",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh We have lots of limitations leading to a low Early Refund rate:\n1. Users must check their return details page, then the risk control engine will determine realtime\n2. One user only enjoys on",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-04 10:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh it is impossible to do,the majority of users will get Early Refund based on Bureau's result, but due to its limitation, we can only call it while users browsing our APP, but curretnly we onl",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-04 10:24",
+          "sender": "Ashutosh",
+          "content": "<p>@易希倩 Queenie Yi hey this one can it be done faster?</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:12",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey what i meant is- \nEarly refund currently reaches ~14% of the people who should get it (the ones stuck past D4). I'm trying to understand why it's only 14% — what's stopping it from",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:11",
+          "sender": "Ashutosh",
+          "content": "@Anubhav Agrawal https://mayfairtech.larkenterprise.com/wiki/SYfKw1XNsiQRARkpphqchD55nuh?from=from_copylink\nSignal's there (call + geo, even fake-attempt flags on Ekart/XB), but every partner has a di",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 08:59",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey -Adding one more to the above — a higher % don't complete pickup after getting the refund. Is that part of why exposure is held at 14%? i.e. is it a deliberate cap because of post-",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh sorry, what did you mean? didn't get",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-04 08:39",
+          "sender": "Ashutosh",
+          "content": "@张佳宜 Jiayi Zhang @易希倩 Queenie Yi @Anubhav Agrawal - \n\n1. The pickup-anxiety shift isn't really us actually, activities are tiny (~1% early, ~7% instant) & ramped late May — too small to drive the comp",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "伊拉克-10mins后不允许取消",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-06-04 10:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang 10分钟改成+/-3分钟了 不是标准10分钟了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-04 10:27",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 嗯嗯，我按10min写了，有一条单独备注了，我统一改一下\n[Image: img_v3_0212b_12c7b9d1-620d-477f-b517-c8404fe2339g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-04 10:09",
+          "sender": "杨林 Sennia Yang",
+          "content": "https://mayfairtech.larkenterprise.com/wiki/UEq9wrIr7i1as3k3PsRcooRpnqh#mindmap\n用例就不单独拉会评审了，你们看下有没有补充的。@邹家辉 Jiahui Zou @陈振华 Anzhong Chen @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-04 00:57",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi \n[Image: img_v3_0212b_30a47ffa-1fcf-4631-bf17-ae055c6d2ahu]\nCould you please confirm what does this remark means and how does it trigger  (The name reflecting here as operator isn't aw",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 4 个会话，32 条消息"
+}

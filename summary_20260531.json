@@ -1,0 +1,364 @@
+{
+  "total_count": 182,
+  "total_chats": 6,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 140,
+      "messages": [
+        {
+          "time": "2026-05-30 23:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "那先看数据吧 主要是订单详情挂1小时 提前关掉舆情风险大",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 22:56",
+          "sender": "孙鹏 Peng Sun",
+          "content": "你还在吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 22:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "咋啦",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 23:24",
+          "sender": "孙鹏 Peng Sun",
+          "content": "少改点代码了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 23:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "不要倒计时了 是不是比较好改",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 23:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "就说30分钟后订单将关闭，请及时支付",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 22:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "走了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 23:12",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-30 22:07 ~ 23:07（北京时间）\n​\n总计：2262 条会话 | 有效文字：2168 条（95.8%）\n🔴 大促特有问题：397 条（17.6%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 |",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 23:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "能不能把订单页和二次支付页的倒计时改成固定文案",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 22:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "But everyone was handling more urgent issues, and this one needs to be fixed relying on app releases",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 17,
+      "messages": [
+        {
+          "time": "2026-05-30 17:17",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi that we don't know as it's a total discount only that we get to see",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 17:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal But for users, they will feel we charge an extra fee from them, it may impact our conversion rate CC @周美 Jane Zhou",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 17:25",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi from a consumer perspective this will be there",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 17:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal but they don't provide an equal discount there haha",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 17:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi BansalSorry, didn't get your point.\n If for orders more than 990 , we'll add convenience charge of 99 and then add an equal discount too. - What will we do if users return some items until her",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 17:05",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi for example : Order value Rs. 1290\nThen in checkout we show:\nOrder Value : Rs. 1290\n+ Convenience fee : Rs. 99\n-Discount : Rs. 99\nNet Sum : 1290\n\nNow, let's say one item of Rs. 690 is ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 17:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Her refund is still short",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 17:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal if the user returns all items, then she will get 1191 rupee right?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 17:11",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi but we explicitly added this charge as a separate line item at checkout stage and policy suggest it to be non-refundable. \nWe had this scenerio checked with the PG partner before.. Sin",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 16:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal Do you know what do competitors do in this part? Maybe we can take it for reference",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "make 1 rupee great again",
+      "type": "group",
+      "count": 10,
+      "messages": [
+        {
+          "time": "2026-05-30 16:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邓秋霖 Eddie Deng 倒计时结束前用户无法操作 这个也是为了分散流量",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 16:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邓秋霖 Eddie Deng 这个目前是10秒",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 16:21",
+          "sender": "邓秋霖 Eddie Deng",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 16:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邓秋霖 Eddie Deng 文案已经更新了，Too much love right now. Retry patiently, girlies ✨ Drops go live in waves.，已和local沟通确认",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 16:22",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi 这个后来怎么说 然后秒怎么说",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 14:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 是的 这个是很早的功能了，后续规划都会引导开push权限",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 14:15",
+          "sender": "薛驰 Chi Xue",
+          "content": "大转盘这两天还需要么@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 14:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 这个是考虑到有些用户进来还领券 因为一元购一起购买普通商品是可以用券的 所以没有去掉",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 14:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "不是 这个是历史老功能，是在你设备日历里加一个提醒日程。后续规划是全部路由到打开push权限",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 13:51",
+          "sender": "薛驰 Chi Xue",
+          "content": "@谢菲 Chris Xie @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Savana/Urbanic Core",
+      "type": "group",
+      "count": 9,
+      "messages": [
+        {
+          "time": "2026-05-30 22:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh  This happens because the campaign stock changes very quickly. The status shown on the campaign page reflects the stock status at the moment you entered the page, but the stock may change wh",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 22:25",
+          "sender": "邓秋霖 Eddie Deng",
+          "content": "@易希倩 Queenie Yi we should improve the content",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 22:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邓秋霖 Eddie Deng Yes, this campaign did expose some rough areas in our user experience handling. However, since some fixes require an app release, not all issues can be resolved immediately. I’ve recor",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 16:41",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi no change",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 16:38",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 16:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 已经改了，但是有缓存生效需要一点点时间",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 16:42",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi 改成哪个",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 16:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 去掉了Too much love right now这句 其他暂时无变更",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 16:38",
+          "sender": "Ashutosh",
+          "content": "Even in VOC it came @易希倩 Queenie Yi pls change the design for tomorrow or if can now",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN 1 rupee 活动",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-30 16:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王越诗 Kice Wang",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 16:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王越诗 Kice Wang 活动期间物流详情、支付后取消功能降级，即用户暂时查不到物流信息，以及支付后订单无法取消，如果有相关客诉，可以引导用户活动结束后查询或取消",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 16:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "用户侧return也降级了，如果有用户特别着急的，CRM还可以操作",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-30 15:48",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "@易希倩 Queenie Yi 找杨林",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-30 15:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo \n[Image: img_v3_02126_e6f303c5-a936-40ff-ae44-a8f7b09ab4cg]\n北总 昨天也是活动开始前很多商品就没货了，就怀疑有用户恶意开始前锁单，今天要不要提前禁用COD",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-30 15:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孟敏敏 Yitong Meng yitong老师看看呢",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 6 个会话，182 条消息"
+}

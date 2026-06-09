@@ -1,0 +1,427 @@
+{
+  "total_count": 345,
+  "total_chats": 11,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 269,
+      "messages": [
+        {
+          "time": "2026-04-23 20:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-04-23T20:43:37+08:00] Ria Dutta:\n    Just wanted to know recently we have decided that all the Lark accounts for the agents will be suspended due to budget constraints and t",
+          "msg_type": "merge_forward",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 20:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Google？",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 20:43",
+          "sender": "Ria Dutta",
+          "content": "Just wanted to know recently we have decided that all the Lark accounts for the agents will be suspended due to budget constraints and they will be using Google Chats.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 20:53",
+          "sender": "Ria Dutta",
+          "content": "Ok, so please update me on this dear...\nThere are 4 agents who have joined our Inhouse team & I can't create there Lark accounts bcz we don't have licenses. So I can't create AI Chat accounts either b",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 20:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "OK, let me transfer this issue to the tech team. And in the future, Kice will be responsible for the AI chat, so she will push this request",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 21:10",
+          "sender": "杨林 Sennia Yang",
+          "content": "她那边那会儿正在地铁上，得到家了才能处理",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 21:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "OK, have transferred to @王越诗 Kice Wang , for sequent process you can communicate with her directly dear",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 20:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "你知道这个事儿吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 20:46",
+          "sender": "Ria Dutta",
+          "content": "But what about the existing agents- can they be transferred to without Lark/4A accounts (Inhouse)",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 20:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "How will they log in AI chat?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 47,
+      "messages": [
+        {
+          "time": "2026-04-23 20:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 这里不是1541吗[看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 20:31",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi  按这个图里这个口径，一共 1543 个 pincode",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 20:32",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 表头算上了[不看]，是 1541",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 17:54",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 实单验证的让他们到时候看下这个跳转链接，因为是线上的，跳转过去账号信息不对，测试包打开会报登录信息不对",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 16:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 客服没配了，想了下少引流一些到客服吧[看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 16:28",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi  测试case 中 咋还有三个 依赖外审的case，支持不了啊\n[Image: img_v3_02111_5ab488f9-132a-41fa-99e8-4b85555ece1g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 16:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "生产环境都配了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 16:50",
+          "sender": "曹津 Jin Cao",
+          "content": " @易希倩 Queenie Yi whatsapp 发订单收件地址的手机号吗？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 16:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 不然文案不乱了吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 16:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_02111_92575572-a33d-44c3-9bae-76959bf1685g]",
+          "msg_type": "image",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Instant Refund Project - Supply Chain",
+      "type": "group",
+      "count": 9,
+      "messages": [
+        {
+          "time": "2026-04-23 19:30",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi On our side even if QC failed, VC, which is terminal node for any reverse order will show as open so how to track what is actual closed and what is not closed? Because till now reverse",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 19:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma What is effect on LM team?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 18:03",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi How long can it be kept open then there will be no closures for this case and will keep showing in pendancy for us? Also these are all terminal nodes for us I think we will need alignm",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 16:13",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Ok great then this part will be kept exclusive to Savana IN cc- @陈振华 Anzhong Chen",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 16:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma I think currently there are very less orders in Urbanic, so we don't need to consider this point",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 15:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma yes only Savana",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 15:51",
+          "sender": "Shivani Verma",
+          "content": "@陈振华 Anzhong Chen I think not for now as that will mean different templates. @易希倩 Queenie Yi We are enabling this only for Savana right currently?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 15:52",
+          "sender": "陈振华 Anzhong Chen",
+          "content": "@易希倩 Queenie Yi 确认下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 15:57",
+          "sender": "Shivani Verma",
+          "content": "<p>@易希倩 Queenie Yi If business start for Urbanic in future then we will need to consider the WA templates and other parts configuration so if this comes in plan later on we should discuss first.</p><p",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-23 23:35",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Please confirm if we can start the testing from tomorrow morning we received a total of 5 to 6 orders that can be used.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 23:32",
+          "sender": "Shivani Verma",
+          "content": "@Mohit Choudhary You can share UUID & orders once placed - you can check the case wrt QC failure which @Anubhav Agrawal wanted.\n[Image: img_v3_02111_e0ac724a-5118-4353-9a42-0fa05a9b21fg]\n[Image: img_v",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 23:34",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Some orders were updated to new Ids today - please have a check once.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 23:27",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi If you need more screenshots or any other details to be updated here, I have added the point you wanted:\n[Image: img_v3_02111_b3b46010-0323-488e-ae95-9ed7d606dbbg]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 13:49",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi I think today some orders should be delivered so validations can start from today/tomorrow.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-23 18:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@向瑾 Jin Xiang Releasing",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 18:31",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@易希倩 Queenie Yi how is progression?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 10:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "And expect to open to all whitelist pincode before 30th Apr",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 10:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@向瑾 Jin Xiang Today all features will be released, then we will arrange whitelist testers to experience first. If works well, then we plan to open 1% traffic for this weekend, and next monday open mor",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 10:16",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@易希倩 Queenie Yi Today open the whitelist for testing? how much percentage compare to all?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "移动端发版",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-04-23 21:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang 今天iOS全量了 明天安卓也会全量",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-23 21:57",
+          "sender": "王叠 Die Wang",
+          "content": "@詹文豹 Eric Zhan 16号发的，一周了才这么点么[捂脸]@易希倩 Queenie Yi 明天对一下灰度策略",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 10:16",
+          "sender": "詹文豹 Eric Zhan",
+          "content": "@易希倩 Queenie Yi [https://data.mayfair-inc.com/bi#/dashboard/36855?appId=1&sheetId=2727](https://data.mayfair-inc.com/bi#/dashboard/36855?appId=1&sheetId=2727) IN昨天的数据还没出来，只有到前天的\n[Image: img_v3_02111_7",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 10:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@詹文豹 Eric Zhan 今天服务端要发布了，包含三方风控的两个客户端新版本累计覆盖多少了呀",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-23 20:15",
+          "sender": "闫昕 Jermmy Yan",
+          "content": "https://mayfairtech.larkenterprise.com/docx/HYMRdsvGHolQAJxBHSlc0pxxn2bhttps://mayfairtech.larkenterprise.com/docx/CLindORLkoLpWgx2gllcTrbun3b\n伙伴们看一下，@易希倩 Queenie Yi 咱是不是要约北总和Jennifer聊一下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-23 14:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/sheets/OmDgssln1hq5kItox6TcvbA7nRg?sheet=0f9fa3 @闫昕 Jermmy Yan @胡伊涵 Aria Hu @孙鹏 Peng Sun 甘特图和vision我又整理了下 各位老师也再看下",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-23 20:24",
+          "sender": "Shilan Bahjat",
+          "content": "Hi dear @易希倩 Queenie Yi \n[Image: img_v3_02111_8ebc395f-b2be-4a31-a81f-fb33c483747g]\nMy app is in English but the payday sales are showing to me in Arabic",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "非服饰标准图上传uap系统需求讨论群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-23 20:00",
+          "sender": "Jennifer Li",
+          "content": "@赵情融 Enzo Zhao 如果有6视图，质检就应该按照6视图进行质检。6视图永远是最正确的留底。@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-23 19:36",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey whats the success matrix point for the POC btw? for bureau",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "李霞 Lacie Li, 王越诗 Kice Wang, 易希倩 Queenie Yi, 王叠 Die Wang",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-23 16:17",
+          "sender": "李霞 Lacie Li",
+          "content": "@王越诗 Kice Wang https://mayfairtech.larkenterprise.com/sheets/FpAnsU5bYh4oMitjiE6cy5dfnzd你这里的需求我们不是很看得懂cc@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 11 个会话，345 条消息"
+}

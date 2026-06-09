@@ -1,0 +1,203 @@
+{
+  "total_count": 106,
+  "total_chats": 7,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 95,
+      "messages": [
+        {
+          "time": "2026-05-31 23:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-31 22:07 ~ 23:07（北京时间）\n​\n总计：4150 条会话 | 有效文字：4061 条（97.9%）\n🔴 大促特有问题：0 条（0.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 4061 ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 21:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "还没有 原定本周上线测试的，因为一元购插入，delay到下周上线AB",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-31 21:33",
+          "sender": "邓秋霖 Eddie Deng",
+          "content": "那个后来测试了么",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 21:33",
+          "sender": "邓秋霖 Eddie Deng",
+          "content": "IQ物流快速发货 减少订单取消",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 22:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-31 21:07 ~ 22:07（北京时间）\n​\n总计：4075 条会话 | 有效文字：3977 条（97.6%）\n🔴 大促特有问题：0 条（0.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 3977 ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 21:12",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-31 20:07 ~ 21:07（北京时间）\n​\n总计：2410 条会话 | 有效文字：2296 条（95.3%）\n🔴 大促特有问题：338 条（14.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 |",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 20:08",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-31 19:07 ~ 20:07（北京时间）\n​\n总计：2793 条会话 | 有效文字：2671 条（95.6%）\n🔴 大促特有问题：0 条（0.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 2671 ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 19:28",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-31 18:20 ~ 19:20（北京时间）\n​\n总计：3625 条会话 | 有效文字：3514 条（96.9%）\n🔴 大促特有问题：559 条（15.4%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 |",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 18:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "等下你操作完成和我说 标记发放成功的，然后业务那边就会对应发WhatsApp",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-31 18:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "数据全了不",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Savana/Urbanic Core",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-31 21:58",
+          "sender": "邓秋霖 Eddie Deng",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 21:58",
+          "sender": "Rahul Dayama",
+          "content": "@易希倩 Queenie Yi it’s still there and empty all Cta of top banner is wasted",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 14:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Yogesh Agarwal Yes, but if you refresh the page, it will show campaign stock is sold out, then the price will return to the original price.",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-31 14:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Only price will be changed, it will not be removed from the list, otherwise our list will be blank soon[笑哭]",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "WAmsg-印度大促",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-31 19:29",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi so no push to be sent today?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-31 19:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王越诗 Kice Wang @Anushka Kala We plan to finish compensation tomorrow for all users whose order is cancelled by us within these 3 days, so let us send notification tomorrow as well, thank you",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-31 17:12",
+          "sender": "王越诗 Kice Wang",
+          "content": "cc@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-31 19:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>@滕苗 Mia Teng @桂良伟 Liangwei Gui 周六周天加班的话，可以提调休申请，周五加班不用提申请，可额外休假一天（本周内休完），如果需要休息，提前和我说下哈</p>",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-31 19:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 北总 这个明天我们三天的量统一赔哈 技术同学反馈批量返现需要开发一下，所以明天测好再执行",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN 1 rupee 活动",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-31 18:51",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孔斐凡 Feifan Kong 稍等下我们执行昨天和前天的417单，今天的预计明天处理",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "2026 IN 1 rupee - 技术保障",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-31 15:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "一元购攻略，用户学会了怎么绕过我们的限流弹窗\n[Image: img_v3_02127_3870480f-5155-4d6d-a0be-01ed175d984g]",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 7 个会话，106 条消息"
+}

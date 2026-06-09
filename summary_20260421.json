@@ -1,0 +1,665 @@
+{
+  "total_count": 289,
+  "total_chats": 16,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 216,
+      "messages": [
+        {
+          "time": "2026-04-20 21:31",
+          "sender": "罗军 Beiyan Luo",
+          "content": "我们有优化过好几版的图像相似度匹配算法",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 21:30",
+          "sender": "罗军 Beiyan Luo",
+          "content": "我不是要你直接找算法的吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 22:05",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "我感觉我也不需要参加",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 21:29",
+          "sender": "罗军 Beiyan Luo",
+          "content": "方法就不对啊",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 21:33",
+          "sender": "罗军 Beiyan Luo",
+          "content": "直接找曹博士",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 22:05",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "机动看下时间",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 22:05",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "怪尴尬的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 22:04",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "<forwarded_messages>\n[2026-04-20T21:32:06+08:00] 罗军 Beiyan Luo:\n    明天3点半~6点半 安排3~4个项目\n[2026-04-20T21:32:14+08:00] 罗军 Beiyan Luo:\n    你来安排，我跟Feifan一起\n[2026-04-20T21:32:24+08:00] 罗军 Beiyan Luo:\n    项目组",
+          "msg_type": "merge_forward",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 21:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "算法同学资源有点紧张[捂脸]都在爆品项目里，AB实验已经协调了他们资源，所以这个事情我们想内部消化掉，图搜的方法我们也看过，也遇到一些问题：图搜主要是找相似，我们现在是要找不同，明天一早我直接找算法看下吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 22:05",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "会议小秘书",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 15,
+      "messages": [
+        {
+          "time": "2026-04-20 18:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang 那就保持现有逻辑吧 \n- OFP之前展示且可修改\n- 非OFP之前节点展示但不可修改",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 18:56",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 这个确认了的话，同步一下～",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 18:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang 目前应该只有OFP节点之前可以修改上门取件地址，其他都没有这个模块",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 18:03",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "<p>@杨林 Sennia Yang 这个场景，我理解应该都没pickup Address这个模块吧@易希倩 Queenie Yi</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 18:06",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 也就是说可以修改的时候才展示？我目前看到的是不可修改的时候也展示了，只是不能修改。",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 17:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 还是有的，还是在下面的卡片里",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 17:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>肯定不是一个文案，极速退Instant Refund和提前退Early Refund，说法都不一样的，但是内容一样</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 17:28",
+          "sender": "曹津 Jin Cao",
+          "content": "<p>@易希倩 Queenie Yi 我那是两个问题，你只回答了后一个</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 17:14",
+          "sender": "曹津 Jin Cao",
+          "content": "[Image: img_v3_0210u_50af064b-a278-4202-904d-23a2d6b2ef9g]\n@易希倩 Queenie Yi 极速退和提前退，退款成功后都是这个文案吗？而且不区分渠道了吗，原来的文案逻辑还是比较细的：\n[Image: img_v3_0210u_f39568fb-dec4-4b90-8d19-03a85af1c11g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 16:20",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@桂良伟 Liangwei Gui @易希倩 Queenie Yi 这个case看下 提前退的情况下 退款未完成 但是取件失败 这个时候还没有失信标也就没法展示红框里面的dishonest behavior，这种情况好像还没有对应的交互",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 9,
+      "messages": [
+        {
+          "time": "2026-04-20 20:20",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Joana Alaa Hi Joana, we didn't make any change for this part. Based on our cancellation rules, only the orders which are ready to ship from the warehouse can support partial cancellation, once shippe",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 20:22",
+          "sender": "Joana Alaa",
+          "content": "@易希倩 Queenie Yi dear, the order is processing and I already canceled it, it's not shipped yet, I was talking about the item cancelation or removal, we used to have an option of removing items, but I c",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 19:34",
+          "sender": "Joana Alaa",
+          "content": "[Media: file_v3_0010u_6b931bf6-03be-4199-af63-d1499701b89g]\nHello dear @易希倩 Queenie Yi  It has been noticed that there is a change in the app. Previously, customers were able to cancel specific items ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 16:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@San Kamaran I think they are both the same issues, the tech team is checking CC @王叠 Die Wang",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 16:10",
+          "sender": "San Kamaran",
+          "content": "@易希倩 Queenie Yi another case for delivery fees, I also noticed that when customer ask if they can add an item to the order is being assigned to human agents\n[Image: img_v3_0210u_812ae355-66d3-412f-8a5",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 16:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@San Kamaran yes, we are rejusting our AI model, so I think they are the same. Please rest assured, our tech team is checking",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 16:22",
+          "sender": "San Kamaran",
+          "content": "@易希倩 Queenie Yi so, both adding a new item to order and delivery fees have the same cause root correct?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:02",
+          "sender": "San Kamaran",
+          "content": "@易希倩 Queenie Yi @王叠 Die Wang Good morning dears, why is this chat pending in the Unassigned section before 9:00 AM?\n[Image: img_v3_0210u_4c3a8b37-6238-4046-b72e-92084b03677g]\n[https://aichat.urbanic-c",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 10:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@San Kamaran CC @王叠 Die Wang",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-04-20 15:16",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "@易希倩 Queenie Yi @孟敏敏 Yitong Meng 发生bug了吗？已经在解决了吗？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 15:15",
+          "sender": "Yogesh Agarwal",
+          "content": "@易希倩 Queenie Yi @张佳宜 Jiayi Zhang Need immediate help.. Please see into the issue as why the BOT chat %age reduced drastically",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:47",
+          "sender": "Ankit Gupta",
+          "content": "@王叠 Die Wang @易希倩 Queenie Yi Do we have any update on this?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:36",
+          "sender": "Shivani Verma",
+          "content": "@Manipriya Tyagi @Ankit Gupta @Aashita Rangan @Nishant Raghuvanshi @Ishita Singh @Ria Dutta @Anushka Kala @Rishi Gaurav Please do the below by today:\n1. Update the app to 8.47.5 version\n2. Place 2 ret",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 13:59",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi pls help me out the account type definition. ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:02",
+          "sender": "Ishita Singh",
+          "content": "[Image: img_v3_0210u_c2bb384e-6d63-4dcc-9443-677a7961adbg]\n[Image: img_v3_0210u_0b265b1d-b41b-4467-9f72-cd269886ef7g]\n\nThe BOT is still not handling chats and is routing them directly to agents. Pleas",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 13:57",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi thanks for your quick support.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 10:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj All are active, there are not any inactive status on the account. @徐慧君 David Xu Can we get last login time of CRM users for Financial year 25-26 (Apr'25 to Mar'26) of these users?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退Instant Refund沟通群",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-20 21:11",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@王越诗 Kice Wang 针对反馈的 248 条 bad case（8.1%）以及优化建议，我做了相关优化，详细优化报告见：[https://mayfairtech.larkenterprise.com/docx/IU7kdFK3uoUR5Axx4qTc8zbNnZb?from=from_copylink](https://mayfairtech.larkenterprise.com/docx",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 15:15",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Updated whitelist details here and each tester has been asked to place 2 orders with 2 items each so 4 items per person for now. Total 36 items expected. If we feel there is more requi",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:44",
+          "sender": "Shivani Verma",
+          "content": "<p>@易希倩 Queenie Yi Please give me edit permission I will add user details and order Ids once shared. I have requested as well.</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma Hi Shivani, please let them place orders, but not to return before they are added to our whitelist",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 13:50",
+          "sender": "曹津 Jin Cao",
+          "content": "<p>@易希倩 Queenie Yi 我们这次极速退&提前退是基于售后来灰度的，我们发布后再发起退货、且加白名单就行</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 13:37",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang 目前测试同学先下单了，OK的吧？",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 12:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @陈振华 Anzhong Chen @陆玲 Louise Lu @杨林 Sennia Yang@盛伟松 Sam Sheng  看一下白名单测试案例这些够吗？https://mayfairtech.larkenterprise.com/docx/BoaMd90jPovCOVxyf9lcf6Oyngh\n另外是不是下单的话，可以现在就让测试同学下单了，不需要等你加白后才可以下单",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Instant Refund Project - Supply Chain",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-20 18:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@陈振华 Anzhong Chen \n[Image: img_v3_0210u_650fa6fa-173a-451f-935f-062a385832cg]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 18:49",
+          "sender": "陈振华 Anzhong Chen",
+          "content": "所以是要解析后的？解析后是个 true/false，crm 上具体怎么展示你要补充一下@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 17:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "但如果每个人回复不一样 就需要映射下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 16:46",
+          "sender": "陈振华 Anzhong Chen",
+          "content": "@易希倩 Queenie Yi 这个你希望展示用户原始文本内容（Yes cancel my pickup/No please try again），还是我们解析后的是否二次取件：是/否\n[Image: img_v3_0210u_482d9fcf-a806-4803-bcac-a48f97d6bc5g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 17:11",
+          "sender": "陈振华 Anzhong Chen",
+          "content": "@易希倩 Queenie Yi 这个是我们配置的，不允许用户随意回复，但配置可以改",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 17:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@陈振华 Anzhong Chen 原始的 如果是统一格式的话，我觉得可以",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 17:11",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi WA message response is fixed no scope of test based responses\n[Image: img_v3_0210u_c2b3252c-413d-4bea-8706-064634c1ef5g]",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "产品技术核心管理群",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-20 15:51",
+          "sender": "未知",
+          "content": "针对印度5月中下旬的活动安排与要求：\n0、暂定印度5月20号大促(具体时间待Feifan给，@易希倩 Queenie Yi 跟进下)：10W单、活动免单\n1、要求款式、结构、库存都处理好；\n2、要求退货率大幅下降；\n3、要求客服独立解决率到90%；\n4、10W单;\n5、时效要有保障；\n6、网站的UI全部重新设计，用AI;",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 冰的[送心]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 14:30",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi 拿铁要热的还是冰的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "谢谢北总",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 14:37",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@肖缘 Yolanda Xiao @罗军 Beiyan Luo 北总 我也这个吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 14:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 有没有非咖啡或者拿铁",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 11:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "北总生日快乐🎂[萌虎打Call]",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-04-20 18:17",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 这个是黑名单的规则，大数据产出的，可以问下大数据，我搜了下这个注释看着是差不多\n[Image: img_v3_0210u_8182ca3f-7744-42e9-aa13-5b86b28413eg]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 17:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang \n[Image: img_v3_0210u_39624a61-c7cb-4604-8e50-0428b2832d5g]\n确认一下 这个规则目前是只有印度在运行吗",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 13:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨丽波 Betty Yang 嗯 就先到基础样式吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 13:38",
+          "sender": "杨丽波 Betty Yang",
+          "content": "@易希倩 Queenie Yi 确认下哈 没问题我就批咯",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 13:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li IQ客服斋月的背景去掉哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 13:42",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@杨丽波 Betty Yang @易希倩 Queenie Yi 斋月背景已下线",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-20 14:33",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song @魏枫 Kid Wei hey whats the situaton on integration?\n\n@易希倩 Queenie Yi hey - we need to do sanity check tomorrow with them on call before go live- can we?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:33",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song @魏枫 Kid Wei hey whats the situaton on integration?\n\n@易希倩 Queenie Yi hey - we need to do sanity check tomorrow with them on call before go live- can we?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 14:33",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song @魏枫 Kid Wei hey whats the situaton on integration?\n\n@易希倩 Queenie Yi hey - we need to do sanity check tomorrow with them on call before go live- can we?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "易希倩 Queenie Yi, 郑阳光 James Zheng, 姚继涛 Wuchong Yao, 崔天豪 Allen C...",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-20 15:31",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi 你那个新的也发一下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 15:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-04-20T15:20:37+08:00] Ashutosh:\n    [Image: img_v3_0210u_4054816b-9624-4d2c-96fc-67f008fc073g]\n[2026-04-20T15:20:42+08:00] Ashutosh:\n    one more lol -\n[2026-04-20T15:20:51+",
+          "msg_type": "merge_forward",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "印度AI客服周周碰",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-20 13:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@张佳宜 Jiayi Zhang 这个已经发给前端同学了 马上下掉",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 13:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@张佳宜 Jiayi Zhang 下掉了哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "质检外派IQ仓工作事宜",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-20 13:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗显富 Felix Luo 辛苦系统链路上也帮忙看下，有没有环节、效率上希望优化的，可以一起带回来我们看看哈，感谢",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-20 10:39",
+          "sender": "罗显富 Felix Luo",
+          "content": "@Jennifer Li @易希倩 Queenie Yi  哈喽，两位；我团队近期会派两名同事到IQ仓进行退货商品质检标准的培训以及现场监督辅助标准落地；还有梳理现有退货质检流程及不同的异常类型的处理方式；除了上面这些，你们这边还有需要外派同事协助处理的事项吗？ cc.@周美 Jane Zhou @罗军 Beiyan Luo \n[https://mayfairtech.larkenterprise",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "0429-中东客退our responsibility问题",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-20 11:19",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey RET is partial return - in iraq - like when driver goes for delivery - \nuser has the option to keep x number of product out of order and return others - like instead of 100% produc",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-20 10:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh Sorry, what did you mean? What is RET?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Kurdish translation",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-20 14:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Mohammad Habib Hi Mohammad, later @滕苗 Mia Teng will be responsible for Kurdish project, so please coordinate your team to assist her in translating",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-20 14:23",
+          "sender": "邓秋霖 Eddie Deng",
+          "content": "@罗军 Beiyan Luo @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IQ-APP/H5新增库尔德语",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-20 13:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@滕苗 Mia Teng Mia，库尔德语项目本周内要完成翻译，下周启动\n1. 翻译目前第三方比较慢的话，优先找@Mohammad Habib 客服团队支持\n2. 库尔德语有较多分支语系，需要使用最主流的语系\n3. 翻译结果需要经过多重校验，保障准确性",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 16 个会话，289 条消息"
+}

@@ -1,0 +1,18 @@
+{
+  "data_quality": {
+    "original_users": 794356,
+    "cleaned_users": 607689,
+    "removed_users": 186667,
+    "removed_percentage": 23.5,
+    "cleaning_rules": {
+      "waist_range": "55-105cm",
+      "bust_range": "70-120cm"
+    }
+  },
+  "cleaned_statistics": {
+    "waist_mean_cm": 76.7,
+    "waist_mean_inch": 30.2,
+    "bust_mean_cm": 87.1,
+    "bust_mean_inch": 34.3
+  }
+}

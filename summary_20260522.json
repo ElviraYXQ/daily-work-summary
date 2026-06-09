@@ -1,0 +1,252 @@
+{
+  "total_count": 310,
+  "total_chats": 7,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 292,
+      "messages": [
+        {
+          "time": "2026-05-21 21:43",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "[Image: img_v3_0211t_91c96146-9e5b-45c8-b1f2-988a684896cg]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-21 21:08",
+          "sender": "Ashutosh",
+          "content": "🍺🚬",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-21 21:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 21:44",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "好的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-21 21:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "来得及",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 21:44",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "分钟级比天级更大",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-21 21:46",
+          "sender": "易希倩 Queenie Yi",
+          "content": "5吧 3可能不够她们下测试单的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 21:46",
+          "sender": "易希倩 Queenie Yi",
+          "content": "可能很多人一直测免单[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 21:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "要不改成3吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 21:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>哈哈哈没 那明天上午改吧 12:30开始活动</p>",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "履约率",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-05-21 20:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 目前没有单独加，因为COD fee本身退货就是不退的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 20:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 好的，这两天我整理下策略，大促后可以快速跟上",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 20:41",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-21 20:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "因为目前除了newme，我们基本是COD fee最高的了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 20:46",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 没有，目前要做的话，只能全部调整，来不及分人群或AB。担心调高影响转化",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 13:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邓秋霖 Eddie Deng 好的 去掉了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 12:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的 昨天开始的新需求，已经在相关群里同步北总feifan了",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN Payment",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-21 20:52",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi TPS sorry- txn per second",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-21 20:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh what is PRS?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 20:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh Confirmed with Moda, he said 600",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 20:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh sorry, didn't get your point. Do you concern system stability?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 20:55",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi txn per second stability i meant from PG side",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-21 20:29",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi @孟敏敏 Yitong Meng hey\nAnything on RPS we need to have for the sale?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN周年庆 - 产技沟通",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-21 18:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@滕苗 Mia Teng 拉我一下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-21 14:46",
+          "sender": "马文相 Moda Ma",
+          "content": "<forwarded_messages>\n[2026-05-21T14:42:53+08:00] ou_7b6de47f8a0bf846ec4131980abaf561:\n    @王叠 Die Wang @易希倩 Queenie Yi @王越诗 Kice Wang \n    \n    [Media: file_v3_0011t_a623ebac-f05e-492f-9f06-f2d9b4a9d0",
+          "msg_type": "merge_forward",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Perfume- Tech changes",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-21 22:03",
+          "sender": "Deepika Tiwari",
+          "content": "@Shivani Verma @易希倩 Queenie Yi Since the new category, i.e., perfume sales, will start soon, I am sharing the invoice change requirements. Kindly initiate the process for the required invoice changes.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-21 17:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @曹津 Jin Cao @杨丽波 Betty Yang 目前印度退货的话，支付了运费的COD单子，是不是99运费和40 COD fee默认都是不退的呀",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-21 14:42",
+          "sender": "Anurag Sharma",
+          "content": "@王叠 Die Wang @易希倩 Queenie Yi @王越诗 Kice Wang \n\n[Media: file_v3_0011t_0310e852-d1f5-4646-926f-ccd953c63ahu]\n\nThere is some issue with the promo page. If we click on \"Get my free order & plant a tree\" th",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 7 个会话，310 条消息"
+}

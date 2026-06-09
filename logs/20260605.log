@@ -1,0 +1,117 @@
+========================================
+开始时间: Fri Jun  5 10:00:05 CST 2026
+========================================
+刷新 lark-cli token...
+{
+  "appId": "cli_a9418088f5b8dcb1",
+  "brand": "feishu",
+  "defaultAs": "auto",
+  "expiresAt": "2026-06-04T15:45:06+08:00",
+  "grantedAt": "2026-04-13T14:41:25+08:00",
+  "identity": "user",
+  "refreshExpiresAt": "2026-06-11T13:45:06+08:00",
+  "scope": "auth:user.id:read base:app:copy base:app:create base:app:read base:app:update base:dashboard:create base:dashboard:delete base:dashboard:read base:dashboard:update base:field:create base:field:delete base:field:read base:field:update base:form:create base:form:delete base:form:read base:form:update base:record:create base:record:delete base:record:read base:record:update base:role:create base:role:delete base:role:read base:role:update base:table:create base:table:delete base:table:read base:table:update base:view:read base:view:write_only base:workflow:create base:workflow:read base:workflow:update board:whiteboard:node:create board:whiteboard:node:delete board:whiteboard:node:read calendar:calendar.event:create calendar:calendar.event:delete calendar:calendar.event:read calendar:calendar.event:update calendar:calendar.free_busy:read calendar:calendar:create calendar:calendar:delete calendar:calendar:read calendar:calendar:update contact:user.base:readonly contact:user.basic_profile:readonly contact:user:search docs:document.comment:create docs:document.comment:delete docs:document.comment:read docs:document.comment:update docs:document.comment:write_only docs:document.media:download docs:document.media:upload docs:document:copy docs:document:export docs:event:subscribe docs:permission.member:auth docs:permission.member:create docs:permission.member:transfer docx:document:create docx:document:readonly docx:document:write_only drive:drive.metadata:readonly drive:file:download drive:file:upload im:chat.members:read im:chat.members:write_only im:chat:read im:chat:update im:message.group_msg:get_as_user im:message.p2p_msg:get_as_user im:message.pins:read im:message.pins:write_only im:message.reactions:read im:message.reactions:write_only im:message:readonly mail:event mail:user_mailbox.mail_contact:read mail:user_mailbox.mail_contact:write mail:user_mailbox.message.address:read mail:user_mailbox.message.body:read mail:user_mailbox.message.subject:read mail:user_mailbox.message:modify mail:user_mailbox.message:readonly mail:user_mailbox:readonly search:message sheets:spreadsheet.meta:read sheets:spreadsheet.meta:write_only sheets:spreadsheet:create sheets:spreadsheet:read sheets:spreadsheet:write_only task:comment:write task:task:read task:task:write task:tasklist:read task:tasklist:write vc:meeting.meetingevent:read vc:meeting.search:read vc:note:read wiki:node:read offline_access",
+  "tokenStatus": "needs_refresh",
+  "userName": "易希倩 Queenie Yi",
+  "userOpenId": "ou_cc38ac881bcf17d997f0cad7d9a9a621"
+}
+============================================================
+🚀 开始执行每日工作汇总任务
+⏰ 时间: 2026-06-05 10:00:05
+============================================================
+
+📥 步骤 1/5: 获取昨天的消息...
+📅 获取消息时间范围：2026-06-04T00:00:00+08:00 到 2026-06-04T23:59:59+08:00
+📦 获取第 1 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 2 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 3 页消息...
+   ✓ 获取 47 条消息
+
+✅ 总共获取 147 条消息
+
+🔍 步骤 2/5: 过滤与你相关的消息...
+   ✓ 过滤掉 115 条无关消息
+   ✓ 保留 32 条相关消息
+
+🔍 步骤 3/5: 分析消息...
+   ✓ 分析完成
+
+📝 步骤 4/5: 生成汇总报告...
+   ✓ 报告生成完成
+
+📤 步骤 5/5: 发送到飞书...
+✅ 消息发送成功
+   ✓ 详细数据已保存到: summary_20260605.json
+
+============================================================
+✅ 任务执行完成！
+============================================================
+----------------------------------------
+开始竞对动态推送: Fri Jun  5 10:00:23 CST 2026
+----------------------------------------
+/Users/yixiqian/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+============================================================
+🌐 每日竞对动态推送
+⏰ 2026-06-05 10:00:24
+============================================================
+
+📥 步骤 1/3: 搜索行业新闻...
+
+🔍 搜索 india 市场新闻...
+   → India women fashion ecommerce 2026
+     找到 4 条
+   → Meesho Myntra Ajio fashion size recommendation
+     找到 4 条
+   → India online fashion return rate size fit
+     找到 4 条
+   → Flipkart Nykaa fashion AI technology
+     找到 4 条
+   → India ecommerce fashion trends
+     找到 4 条
+
+🔍 搜索 iraq 市场新闻...
+   → Iraq ecommerce market 2026
+     找到 4 条
+   → Iraq online shopping COD payment
+     找到 4 条
+   → Iraq digital payment ZainCash
+     找到 3 条
+   → Middle East Iraq fashion ecommerce
+     找到 3 条
+   → Kurdistan online shopping women fashion
+     找到 3 条
+
+🔍 搜索 global 市场新闻...
+   → SHEIN Temu Middle East expansion 2026
+     找到 3 条
+   → fashion ecommerce size recommendation AI
+     找到 3 条
+   → online fashion return rate solution
+     找到 3 条
+   → BNPL buy now pay later Middle East
+     找到 3 条
+   → Zara H&M ecommerce AI technology 2026
+     找到 3 条
+
+   ✓ 共搜集 51 条新闻
+
+📝 步骤 2/3: 生成推送内容...
+
+🤖 AI 正在生成推送内容...
+   ❌ AI 生成超时
+   ⚠️ 使用兜底模板
+
+📤 步骤 3/3: 推送到飞书...
+
+📤 发送到飞书...
+   ✅ 推送发送成功
+   ✓ 内容已保存到: news_20260605.md
+
+============================================================
+✅ 竞对动态推送完成
+============================================================
+结束时间: Fri Jun  5 10:02:45 CST 2026
+

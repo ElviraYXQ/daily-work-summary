@@ -1,0 +1,133 @@
+{
+  "total_count": 12,
+  "total_chats": 6,
+  "chat_stats": [
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-22 23:37",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邹家辉 Jiahui Zou 好了记得说下哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-22 23:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邹家辉 Jiahui Zou 这个后续也能放到growth上吗 这样我们就直接改了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-22 23:41",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "@易希倩 Queenie Yi 调整生效了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-22 23:47",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "@易希倩 Queenie Yi 可以放growth 的",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-22 23:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "暂时不改了 方案已经弄好了，老板还在决策",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-22 23:13",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "晚上还改吗？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-22 23:10",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-22 22:07 ~ 23:07（北京时间）\n​\n总计：1637 条会话 | 有效文字：1517 条（92.7%）\n🔴 大促特有问题：268 条（16.4%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 28",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-22 23:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "feifan 这个页面还要调整不",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "AI Customer碰碰",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-22 23:40",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "@孟敏敏 Yitong Meng @杨丽波 Betty Yang @王叠 Die Wang \n业务需要调整一下IN 风控的规则配置 ：\n1、 最大在途订单数 > 2\n麻烦帮忙审批一下\nhttps://starlink.mayfair-inc.com/app/trade-risk/pipelineExecution/d231bd4b-3cf0-4926-8032-a9d4663d3040\n\ncc@易",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-22 23:08",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi @滕苗 Mia Teng the push task has been created to be sent in the next 2 minutes",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN 2026 周年庆 Anniversary sale",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-22 23:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "在途订单限制已调整为2 @孔斐凡 Feifan Kong @马文相 Moda Ma",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "【IN】舆情小工具：关键词AI监测",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-22 23:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma 都是风控拦截场景吗，如果都是风控的话改成稍微友好一点的？\nToo many attempts, lovely. Give it a few minutes and retry",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 6 个会话，12 条消息"
+}

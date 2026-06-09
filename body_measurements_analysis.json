@@ -1,0 +1,87 @@
+{
+  "analysis_time": "2026-04-22 17:59:04",
+  "data_quality": {
+    "original_count": 52809,
+    "cleaned_count": 34084,
+    "removed_count": 18725,
+    "removed_pct": 35.46
+  },
+  "site_analysis": {
+    "IN": {
+      "sample_size": 17106,
+      "waist_stats": {
+        "mean": 75.04,
+        "median": 73.66,
+        "p50": 73.66,
+        "p70": 78.74,
+        "p90": 86.36
+      },
+      "bust_stats": {
+        "mean": 86.66,
+        "median": 86.36,
+        "p50": 86.36,
+        "p70": 88.9,
+        "p90": 96.52
+      },
+      "bust_waist_diff_stats": {
+        "mean": 11.61,
+        "median": 10.16
+      },
+      "body_type_distribution": {
+        "轻曲线型": 0.557,
+        "直筒型": 0.3249,
+        "标准曲线型": 0.0848,
+        "强曲线型": 0.0334
+      },
+      "dominant_type": "轻曲线型"
+    },
+    "IQ": {
+      "sample_size": 16978,
+      "waist_stats": {
+        "mean": 79.95,
+        "median": 79.0,
+        "p50": 79.0,
+        "p70": 85.0,
+        "p90": 99.0
+      },
+      "bust_stats": {
+        "mean": 95.0,
+        "median": 94.0,
+        "p50": 94.0,
+        "p70": 100.0,
+        "p90": 114.0
+      },
+      "bust_waist_diff_stats": {
+        "mean": 15.05,
+        "median": 14.0
+      },
+      "body_type_distribution": {
+        "轻曲线型": 0.4353,
+        "直筒型": 0.2347,
+        "标准曲线型": 0.2247,
+        "强曲线型": 0.1054
+      },
+      "dominant_type": "轻曲线型"
+    }
+  },
+  "fit_model_recommendations": {
+    "IN": {
+      "core_fit_model": {
+        "waist_cm": 76.2,
+        "bust_cm": 86.4,
+        "bust_waist_diff": 10.2,
+        "body_type": "轻曲线型"
+      },
+      "secondary_fit_model": null,
+      "dominant_type": "轻曲线型",
+      "risk_level": "low"
+    },
+    "IQ": {
+      "core_fit_model": {
+        "waist_cm": 80.0,
+        "bust_cm": 96.0,
+        "bust_waist_diff": 16.0,
+        "body_type": "轻曲线型"
+      },
+      "secondary_fit_model": {
+        "needed": 

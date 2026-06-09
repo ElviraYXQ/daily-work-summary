@@ -1,0 +1,441 @@
+{
+  "total_count": 306,
+  "total_chats": 10,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 257,
+      "messages": [
+        {
+          "time": "2026-04-15 23:22",
+          "sender": "王叠 Die Wang",
+          "content": "没事，就是展示的问题，不影响功能，可以晚点聊",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 21:49",
+          "sender": "高洋 Congcong Gao",
+          "content": "我刚刚就在看，发现少了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 23:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "明天我要进厂质检[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 21:44",
+          "sender": "未知",
+          "content": "<card title=\"权限申请\">\n@6964985304398708764 向你申请文档 [臻品计划（商品优化专项）](https://mayfairtech.larkenterprise.com/docx/SHizd4sIloex8DxXOz7cTMSLnyc?from=botpush) 的阅读权限。\n[同意] [拒绝]\n</card>",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 23:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "对[看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 21:54",
+          "sender": "高洋 Congcong Gao",
+          "content": "再刷新下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 21:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "所以得赶紧撤回了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 21:44",
+          "sender": "高洋 Congcong Gao",
+          "content": "改好了，刷新一下\n[Image: img_v3_0210p_ae8ce5eb-36ff-4861-aec9-fd92146275fg]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 21:39",
+          "sender": "高洋 Congcong Gao",
+          "content": "所以，离线查询，没有开口子",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 21:49",
+          "sender": "高洋 Congcong Gao",
+          "content": "我也发现了，正在让小思改😂",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 17,
+      "messages": [
+        {
+          "time": "2026-04-15 18:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng 有个问题确认下，422上线后，如果客户命中了外审，但是客户没有升级客户端，是不是直接降级了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 17:24",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 展示啥呢",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 17:30",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi \n极速退/提前退款场景，退款成功发送push和wa消息\n这个有模板了吗？或者说需要拼啥动态参数进去吗",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 17:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 有的 PRD多语言部分",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 17:36",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 这个就是文案，那我直接改上线了哈",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 17:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang 那就Courier is on the way to pick up your return\n另外目前这个节点描述有问题：Pick up has been scheduled,应该是Pickup has been scheduled，辛苦一起改下呢",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 17:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng @王叠 Die Wang 上次说一个人同时只可享受一笔权益，是422之后再上对吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 17:26",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 映射过的，建议我们自己映射",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 17:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang OFP节点就以供应链传过来的内容展示吧，目前pickup has been scheduled 是我们映射过的吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 17:50",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi Pickup has been scheduled，这个上线了",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-04-15 14:12",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "<p>@易希倩 Queenie Yi 是的，站内私信pending会话的自动关闭计划今天上</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 14:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anjali Thakur We will resolve such issues today, please keep an eye on subsequent assignments",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 14:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anjali Thakur @邹家辉 Jiahui Zou 长时间pending会话的自动处理策略是不是还没上呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 14:16",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "@易希倩 Queenie Yi 也是跟今天发布",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 14:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邹家辉 Jiahui Zou 新增pending会话，定时任务扫转人工的预计啥时候上呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 13:18",
+          "sender": "Anjali Thakur",
+          "content": "Hi @易希倩 Queenie Yi \n\n[https://aichat-in.urbanic-cs.com/app/accounts/2/conversations/2706435](https://aichat-in.urbanic-cs.com/app/accounts/2/conversations/2706435)\nThe bot has not responded to the cha",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-15 22:02",
+          "sender": "Jennifer Li",
+          "content": "我明天仔细研究一下谢谢@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 21:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@谢鹏 Reason Xie @罗军 Beiyan Luo @Jennifer Li \n4. 转码品退货率数据出了一版，大家看看哈：[http://10.76.131.106/transcode_return_rate_v2.html](http://10.76.131.106/transcode_return_rate_v2.html)\n  - 整体来看转码品退货率高于非转码品，但分站点来看IQ",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 23:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 身材数据明天我们拉一版出来",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 18:33",
+          "sender": "罗显富 Felix Luo",
+          "content": "https://mayfairtech.larkenterprise.com/wiki/V46JwE8GHi1zGNkb3kIcdjcJnTc?from=from_copylink @易希倩 Queenie Yi  这是目前仓库执行的质检标准",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 18:07",
+          "sender": "谢鹏 Reason Xie",
+          "content": "1. @罗显富 Felix Luo 判断一下如果增加更多的测量部位，质检操作是可落地的可执行的\n2. @Jennifer Li 判断一下要求测量的部位是不是完整&合理的\n3. @易希倩 Queenie Yi 和闫昕对一下增加部位的需求实现节奏\n4. 今日套人台问题：一共套人台6件，发现4件不合格，但是6件花了1个小时，人效较低\n5. 0416：hardy教多个稽查，扩大规模，完整经历一个班次，来体",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-15 21:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "紫色和蓝色？",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 21:22",
+          "sender": "闫昕 Jermmy Yan",
+          "content": "@易希倩 Queenie Yi 我也认为是这样的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 18:22",
+          "sender": "闫昕 Jermmy Yan",
+          "content": "@易希倩 Queenie Yi 我们的下一步是明天和运营们一起确认一下这900个极差。周五会封板，咱就拿这一批进行实验",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 17:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@闫昕 Jermmy Yan 这个数据预计啥时候出来，需要给个时间哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 17:44",
+          "sender": "孙鹏 Peng Sun",
+          "content": "@易希倩 Queenie Yi  这个",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-04-15 19:42",
+          "sender": "Sheetal Jasoriya",
+          "content": "@易希倩 Queenie Yi this is a new report. Currently, we lack comprehensive reports to effectively monitor refunds and returns. This new report will address this gap by providing detailed tracking for all ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 19:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sheetal Jasoriya Sorry Sheetal, I know you want a report, my point is - is this an existing report right? Which one? So that I can know where to add new fields in. \nAnd what is your request about Ref",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 19:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sheetal Jasoriya \n1. Report - Before we have delevoped a new dashboard based on finance team's request, it can cover all fields which are in CRM reprots. [https://data.mayfair-inc.com/bi/#/dashboard/",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 19:54",
+          "sender": "Sheetal Jasoriya",
+          "content": "@易希倩 Queenie Yi 1. This dashboard doesn't have any data related to order or refunds currently. You can add a \"new tab\" to this dashboard capturing all the requested fields.\n2. That is okay. We just wa",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "极速退Instant Refund沟通群",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-04-15 18:11",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@王越诗 Kice Wang 按照我们之前的约定，现在需要麻烦你审核下表中每行的风控结果（风控分及风控等级）：\n- 如果结果符合预期，请将**「风控结果符合预期」**字段标记为“是”。\n- 如果结果不符合预期，请将**「风控结果符合预期」字段标记为“否”，并在「不符合预期原因」**列补充说明。\n数据表参见：[https://mayfairtech.larkenterprise.com/wiki/D",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 11:28",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 服务端4.22 发布，这个如果今天下班前能搞完，明天开始测试，C端风险暂时可控，但B端那边目前看还存在风险。",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 11:28",
+          "sender": "魏枫 Kid Wei",
+          "content": "@易希倩 Queenie Yi 端侧正常",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 11:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@魏枫 Kid Wei @宋国兵 Colin Song @王叠 Die Wang @盛伟松 Sam Sheng @李叶飞 Yefei Li @杨林 Sennia Yang \n1. 本周四客户端发布\n2. 服务端422发布开始灰度\n\n目前咱们这边这个计划有风险不",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "聊一下品控质检流程和需求",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-04-15 13:55",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 你们来得及吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-15 13:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "马上啦",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 13:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 好滴",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 13:17",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 你们回来的路上跟我们说一下哈",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "印度AI客服周周碰",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-15 10:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@张佳宜 Jiayi Zhang 今天碰不 碰的话我线上接入哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 11:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "开始了线上拉我一下哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-15 10:37",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "@易希倩 Queenie Yi 碰！",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-15 08:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh I think we can only evaluate it based on the real data after POC",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 10 个会话，306 条消息"
+}

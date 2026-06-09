@@ -1,0 +1,427 @@
+{
+  "total_count": 275,
+  "total_chats": 11,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 222,
+      "messages": [
+        {
+          "time": "2026-05-19 22:09",
+          "sender": "向瑾 Jin Xiang",
+          "content": "最差的，是辞退",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 22:09",
+          "sender": "向瑾 Jin Xiang",
+          "content": "举证无罪，或者教育改正后，重新分单。",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:32",
+          "sender": "Ashutosh",
+          "content": "lets see",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:32",
+          "sender": "Ashutosh",
+          "content": "scam lol",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:03",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "https://data.mayfair-inc.com/bi/#/dataQuery?appId=1&id=121665869&rid=217016&sid=1807",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Hahaha yeah, every Chinese is afraid to be scammed",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 21:38",
+          "sender": "Ashutosh",
+          "content": "A digital arrest scam looted a lot of people",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:40",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "都补好了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:37",
+          "sender": "Ashutosh",
+          "content": "True that India also has a lot of upi scams",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Haha yeah, that’s why there are many ads asking us take care of scams haha",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "商详新增尺码偏大偏小提示",
+      "type": "group",
+      "count": 24,
+      "messages": [
+        {
+          "time": "2026-05-19 20:49",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "@易希倩 Queenie Yi \n[Image: img_v3_0211r_5d557113-5646-4028-baea-734cd906197g]\n参照这个吧",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 20:30",
+          "sender": "孙鹏 Peng Sun",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 20:31",
+          "sender": "孙鹏 Peng Sun",
+          "content": "\t\"smallGoodsIds\":[\n\t\t1398222\n\t],\n\t\"largeGoodsIds\":[\n\t\t108987\n\t],\n@易希倩 Queenie Yi   SavanaIN",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 20:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@刘凯 Kai Liu 好了哈 ITP更新了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 20:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun @刘凯 Kai Liu @詹文豹 Eric Zhan 客户端有办法验证吗 包的二维码发一下呢",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 20:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@桂良伟 Liangwei Gui @詹文豹 Eric Zhan @刘凯 Kai Liu 两位老师辛苦看下哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 20:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211r_7a028824-10a7-416e-93c1-2151c5e1bf8g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 20:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@桂良伟 Liangwei Gui @詹文豹 Eric Zhan 这里间距看一下是这么大的吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 17:43",
+          "sender": "孙鹏 Peng Sun",
+          "content": "@易希倩 Queenie Yi 是不是可以验收了？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 18:14",
+          "sender": "易希倩 Queenie Yi",
+          "content": "稍等 local那边刚找到人",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 10,
+      "messages": [
+        {
+          "time": "2026-05-19 21:30",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh @王叠 Die Wang 那看看能不能把reschedule 按钮给放出来 CC@王越诗 Kice Wang",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 21:24",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi this return option is not coming again \n1. as its still open \n2. the refund is done so it won't go in close and regeneration? \n[Image: img_v3_0211r_8c4f2d09-7585-479f-af76-04620c9cd3hu",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:11",
+          "sender": "王越诗 Kice Wang",
+          "content": "@易希倩 Queenie Yi @张佳宜 Jiayi Zhang @向瑾 Jin Xiang 老师们，这个case咱们咋处理哦。。用户已享受了极速退，小件员pickup后商品到仓质检失败了，小件员说会把商品返回给用户，结果用户一直没收到qc fail的商品，同时我们又发起了让用户补支付的link，所以用户就不知道咋办了\n\n这样如何呢，先和用户解释不用支付：\n1. 如果商品未退回用户，且 3PL 无",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:20",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi its a different case \n1. qc fail by courier boy \n2. later he return the goods \nthat can happen - happened with me in amazon too \n\nsince return window is done - reschdule not coming up ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh where is the item now?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 21:28",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi true that - issue is fake remark of failed QC here -",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh But how will this item pass QC in the next regenerated pickup?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 21:14",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王越诗 Kice Wang @向瑾 Jin Xiang 这个SOP不太对呀，极速退的商品不是上门取件质检的吗，为什么会到仓质检[捂脸]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 17:07",
+          "sender": "未知",
+          "content": "@王越诗 Kice Wang @易希倩 Queenie Yi \n\nOrder ID: S011260426205449045004\n[Image: img_v3_0211r_e630b60f-2309-4688-8362-20afa86400hu]\nChat Link: [https://aichat-in.urbanic-cs.com/app/accounts/2/conversations/3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 12:42",
+          "sender": "Sheetal Jasoriya",
+          "content": "@王俊 June Wang @李霞 Lacie Li @易希倩 Queenie Yi is there any update on refund dashboard. 1 month has already passed since we have launched instant refund. Request if you can share the dashboard at earliest",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-19 20:18",
+          "sender": "易希倩 Queenie Yi",
+          "content": "请建立质量问题识别规则。\n\n【重要原则】\n\n1. 用户原声 reverse_apply_reason 优先级最高。\n2. primary_issue、reason_desc_en、reason_desc_cn 只能作为辅助参考。\n3. 不要因为 primary_issue = Bad Quality 就直接判定为质量问题。\n4. 不要因为 primary_issue ≠ Bad Quality 就",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 17:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "退货原因的分析",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 17:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<file key=\"file_v3_0011r_cf024c1a-2f7c-4b59-ac62-8ac2d701fe4g\" name=\"文件2_商品质量问题聚合表.xlsx\"/>",
+          "msg_type": "file",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 10:01",
+          "sender": "孙鹏 Peng Sun",
+          "content": "@易希倩 Queenie Yi 我们信任AI打标的结果吧， 只分析部分标签的数据就可以了？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 10:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun 信任吧 不然量太大了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 08:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun 站内吧 站外量不多",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-19 20:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @邹家辉 Jiahui Zou 这套COD限制规则，确认IN是生效的哈？\n[Image: img_v3_0211r_bd1b3e30-1e70-4a9c-9fbb-d62bce179ddg]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 20:55",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "@易希倩 Queenie Yi 是的，risk 配的规则配置\n[Image: img_v3_0211r_1654ff39-495a-4132-adbc-3de5055270eg]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 10:54",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 换过标签了，现在有另一个Return Related",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-19 22:17",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "[Image: img_v3_0211r_104f48b1-9f06-4960-a1a1-63caf3c3118g]\nunverified是指无OPT情况下被取消？实际上用户如果4天内被unverified cancelled了，也就享受不到early refund了是吗？Does \"unverified\" mean being cancelled without OPT? In fact, if",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 21:14",
+          "sender": "王越诗 Kice Wang",
+          "content": "<forwarded_messages>\n[2026-05-19T17:07:38+08:00] Anurag Sharma:\n    @王越诗 Kice Wang @易希倩 Queenie Yi \n    \n    Order ID: S011260426205449045004\n    [Image: img_v3_0211r_9c24a5e4-2f81-4186-85ff-cd20659e7",
+          "msg_type": "merge_forward",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-19 19:24",
+          "sender": "未知",
+          "content": "@Jennifer Li 你看下哈\n双站点尺码标准调整产技侧action：\n1. for 老品：通过退货原因找到净偏大率大于10%商品，快速在商详增加偏大提示，建议用户选小一码，预计明日上线AB\n2. for新品：UAP中尺寸信息直接更新，C端无需改动，直接读取UAP数据\n3. 尺码推荐：采用历史购买过的用户身材及已购尺码信息进行后续相似身材用户的尺码推荐，理论上不受新尺码标准体系影响，预计6.1",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 11:01",
+          "sender": "Jennifer Li",
+          "content": "@肖帝鸿 Hardy Xiao @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-19 14:02",
+          "sender": "未知",
+          "content": "等我5分钟哈 前一个会上",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-19 12:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "今天周会到谁啦 @_all",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐需求-技术沟通群",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-19 10:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@管可发 Frank Guan 画错了，@桂良伟 Liangwei Gui 这里单位去掉吧，单位是跟着用户选择的单位（cm/inch）自动换的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-19 10:43",
+          "sender": "管可发 Frank Guan",
+          "content": "<p>@詹文豹 Eric Zhan 这服务端代发的暗示应该是没有cm/kg 就是纯kg @易希倩 Queenie Yi 这个是不是画错了</p>",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-19 14:40",
+          "sender": "邓秋霖 Eddie Deng",
+          "content": "Fyi @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "新的尺寸部位方案",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-19 11:14",
+          "sender": "罗显富 Felix Luo",
+          "content": "[Image: img_v3_0211r_eadad7b7-831d-4f79-aef5-de1e541c39dg]\n[Image: img_v3_0211r_8217cc4b-18cb-4090-9067-342d6d7c721g]\n@肖帝鸿 Hardy Xiao @闫昕 Jermmy Yan @易希倩 Queenie Yi  \n哈喽，几位，这种套装的尺寸表里，上下装的部位尺寸，可以按顺序填写吗",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 11 个会话，275 条消息"
+}

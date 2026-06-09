@@ -1,0 +1,301 @@
+{
+  "total_count": 263,
+  "total_chats": 7,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 238,
+      "messages": [
+        {
+          "time": "2026-05-08 20:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "COD的我们和供应链对好",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 20:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 20:17",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "我们先碰方案",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 20:19",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "我以为周六",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 20:16",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "不好搞",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 20:18",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "还是说先看他们方案，我们再应对",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 20:18",
+          "sender": "易希倩 Queenie Yi",
+          "content": "评完先拉你们沟通方案",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 20:17",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "cod的尽量简化下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 21:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "哈哈哈是的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 20:18",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "所以是不是很他们对之前，先带着我们的理想方案去聊比较好",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "DTO&质量当前现状碰一下",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-05-08 19:15",
+          "sender": "Jennifer Li",
+          "content": "@周美 Jane Zhou @易希倩 Queenie Yi 在拉分布图给我。我看到了会研究一下，然后update大家问题在哪里",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 19:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li http://192.168.188.124/body-analysis-final.html看一下哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 13:26",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 好的。5点？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 13:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 数据之前是让yanru校验过的，口径应该没问题，只是是否真实反应当地情况，可能需要小范围测试来看下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 13:20",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 下午可以 看你啥时候空",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 12:17",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 我们什么时候可以碰一下，看到顾客身材吃吃分布图？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 11:08",
+          "sender": "周美 Jane Zhou",
+          "content": "@罗军 Beiyan Luo @易希倩 Queenie Yi DTO最大原因是尺码/版型问题，和jennifer对了下，目前我们审版是按照历史审版师傅经验总结出审版标准，这个审版标准正确与否，是否符合当地市场，是很不确定的。如果标准出问题，其他的都白搭。需要本地消费者填写的真实尺寸相关数据，拿到后，才能重新制定标准",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-08 20:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "可以我们先测 效果好推荐给他们[看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 19:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孟敏敏 Yitong Meng \n尺码推荐：https://mayfairtech.larkenterprise.com/docx/BQyIdnb8voqI0ExZgTJcIg5un9e\nCOD转prepay：C端内容是这部分（https://mayfairtech.larkenterprise.com/wiki/CVZZwLjT4ij2ZlkS6R9c46fUnXc?fromScene=spa",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 20:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孟敏敏 Yitong Meng 没有的，他们之前用的逻辑是目前老的尺码推荐（用这个用户历史购买的相同类目做尺码推荐），这一套效果一般，所以我们计划用一套新的方案",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 19:47",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "@易希倩 Queenie Yi 除了库尔德语之前聊过我是知道改动范围和工作量的，另外2个有需求范围或者文档吗，尤其是“COD转prepay”这个需求有点模糊，看起来不是一个单点改动",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 14:49",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi @孟敏敏 Yitong Meng 你们看下",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-08 14:20",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi his case won’t work?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 13:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma @王叠 Die Wang It seems like this uuid is not in our whitelist",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 13:25",
+          "sender": "Ankit Gupta",
+          "content": "@易希倩 Queenie Yi Please look into it.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 13:42",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi @王叠 Die Wang please check",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 12:41",
+          "sender": "Ishita Singh",
+          "content": "Hi @王越诗 Kice Wang @易希倩 Queenie Yi - We are currently facing an issue with the AI tool regarding the social media platform. The page is loading and the tickets are visible in the “All” section; however",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-08 14:19",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi yeah just asked Ankit same lol",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 14:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@张佳宜 Jiayi Zhang @Ashutosh Does it need development? And did we ask users who got a refund but didn't return - do you want to pay for the item?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 13:57",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi if a payment link is sent to user - would CRM be able to record it as an entry for finance?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 13:53",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "@Anubhav Agrawal @易希倩 Queenie Yi so we shall push a bill and allow them to pay if a user cancel the pickup (verified) assuming they want to keep the item. Then if they don't pay and they don't return ",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-08 17:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala So is it a common feature - Guide users from COD to prepay in India?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 17:46",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi yes, subtle design cues are there to convert COD to prepaid. for some brands where COD is more common like in food & grocery delivery, ecomm brands which cater to tier 2&3 customers (l",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 16:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211g_bcca9a76-2758-4271-9986-2ecd1af9b06g]",
+          "msg_type": "image",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Discussion for Zeropay Order",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-08 14:37",
+          "sender": "Parteek",
+          "content": "@易希倩 Queenie Yi Hi Queenie, can you please help to check why these KOL order quantity of 6583 is coming as B2C order in our dispatch data. \nPlease help to check and confirm once.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 7 个会话，263 条消息"
+}

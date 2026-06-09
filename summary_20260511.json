@@ -1,0 +1,574 @@
+{
+  "total_count": 512,
+  "total_chats": 16,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 451,
+      "messages": [
+        {
+          "time": "2026-05-10 21:32",
+          "sender": "Zheen Yousif",
+          "content": "hey queenie please help blocking these users 302855270152720,254989415697619",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-10 09:00",
+          "sender": "未知",
+          "content": "📰 **竞对动态速递 - 2026-05-10**\n\n🇮🇳 **印度市场竞对**\n📌 *关注：Myntra, Ajio, Meesho, Shein, Nykaa Fashion, Flipkart Fashion*\n\n1. Myntra 的 LinkedIn 帖子强调了一项针对印度东部新兴品牌的推广计划，特别关注加尔各答。\n   🔗 [Myntra Targets Emerging Easter",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-10 10:06",
+          "sender": "未知",
+          "content": "📊 05月09日 工作汇总\n\n## 💡 昨天重点\n\n💬 **未知群聊**\n  🔸 王叠 Die Wang：退全pincode？\n\n👥 **IN- Instant refund service**\n  🔸 张佳宜 Jiayi Zhang：处理反馈的问题\n  🔸 Anubhav Agrawal：检查测试案例\n  🔸 Shivani Verma：跟进极速退测试情况\n  🔸 Anubhav Agrawal",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-10 14:00",
+          "sender": "未知",
+          "content": "<card title=\"🕓 工单处理提醒\">\n工单中心 · 工单中心 · #6980842075\n[6980842075](https://project.feishu.cn/buyer-cs/story/detail/6980842075) 在当前状态已停留11天，请@ou_8e5ae10c82b5b3c009e45b9b3bd19cb9及时处理\n**当前状态:** 进行中\n**到达时间:**",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 20:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "补贴指的是优惠券还是支付优惠",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 20:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "可以的 很合理",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 20:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "对 by人vy行为",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 20:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "哈哈哈是啊",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 20:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[赞]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 20:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "那感觉就是这里比例不太对？按你这个数 外审4000左右，80%4天内取走，800走入提前退，和目前提前的量对不上啊",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 14,
+      "messages": [
+        {
+          "time": "2026-05-09 18:25",
+          "sender": "Ankit Gupta",
+          "content": "yes, plz extend the return window as I’m not able to create it from the app. Order I’d S011260421130140005004 @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 17:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma Hi, did @Ankit Gupta place new orders? If so, please send me latest order IDs, then we can configure its risk score",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 17:00",
+          "sender": "Anubhav Agrawal",
+          "content": "@Shivani Verma @易希倩 Queenie Yi  for normal  refund cases, the WA should have different contents...you can double check please ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 15:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma which case Shivani？can you send me the original order ID?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 15:36",
+          "sender": "Anubhav Agrawal",
+          "content": "@Rishi Gaurav why are WA getting triggered for normal refunds? @Shivani Verma @易希倩 Queenie Yi ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 15:43",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Please refer to Jiayi's message above this case.\n[Image: img_v3_0211h_1f86968c-a76b-4aea-a7f4-589988c3751g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 15:37",
+          "sender": "Shivani Verma",
+          "content": "@Ankit GuptaHi,\nPlease help to validate with one reverse order again. Do you have items?\ncc- @易希倩 Queenie Yi is there anything that needs to be updated for user score here to replicate the test case a",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 15:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@向瑾 Jin Xiang 在看 稍等哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 14:22",
+          "sender": "向瑾 Jin Xiang",
+          "content": "[Image: img_v3_0211h_1cbaf8dc-d2d6-46b8-8df5-9c387849553g]\n@易希倩 Queenie Yi 只看567三天，急速退也只有2.3%",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 14:14",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@易希倩 Queenie Yi 我们放开比例以后，现在是多少用户享受到了急速退+三天未取退？",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 12,
+      "messages": [
+        {
+          "time": "2026-05-09 17:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng 请求失败是默认降级的吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 17:18",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi 负分的是请求ai失败了 cc @王叠 Die Wang",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 17:25",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi 另外即使风控有数据，但是ai响应时间过长对业务也是降级。 所以具体的还是要以实际业务结果为准",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 17:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng \n[Image: img_v3_0211h_73c60f70-d8ee-4822-b2ef-200b1b9de1bg]\nnull是啥",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 17:23",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi NULL 是ai还没有返回。",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 16:47",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 17:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang \n[Image: img_v3_0211h_d1e7e88e-ea68-44a6-bf0d-cf7dca2186eg]\n内审有9个负分的",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 17:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng 也是降级了？",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 15:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng @王叠 Die Wang 发我瞅瞅呢",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 15:53",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 晚点啊，在搞点别的事",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-09 18:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun [白眼]好像业务那边已经把这批品拉黑了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 18:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun 可以的 周一还需要你操作一下 因为刚才jiayi反馈 有一批被下掉的品还是要先放回来",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 18:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "供应商自主备货备不进来 但是已经生产出来了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 18:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun \n[Image: img_v3_0211h_af737dcc-a08e-49e6-859e-628b37d5af3g]\n推全吧",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 18:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@胡伊涵 Aria Hu 说业务大促就没备这一批",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 18:25",
+          "sender": "孙鹏 Peng Sun",
+          "content": "@易希倩 Queenie Yi 我们不是没执行下架吗",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-09 15:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "北总，你看下这两个需求和yitong沟通后的结论哈@罗军 Beiyan Luo  CC @孟敏敏 Yitong Meng ：\n1. COD转prepay:\n- 提单页引导：优先处理，moda团队承接，预计3人日\n- 支付后引导：涉及订单模型改造（如分摊金额重算、正逆向对等改造等）及供应链联动，实现比较复杂，建议业务进一步论证其价值后再评估\n2. 尺码推荐：\n- MVP版本：yitong老师额外协调",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 19:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孟敏敏 Yitong Meng \n尺码推荐：https://mayfairtech.larkenterprise.com/docx/BQyIdnb8voqI0ExZgTJcIg5un9e\nCOD转prepay：C端内容是这部分（https://mayfairtech.larkenterprise.com/wiki/CVZZwLjT4ij2ZlkS6R9c46fUnXc?fromScene=spa",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 19:47",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "@易希倩 Queenie Yi 除了库尔德语之前聊过我是知道改动范围和工作量的，另外2个有需求范围或者文档吗，尤其是“COD转prepay”这个需求有点模糊，看起来不是一个单点改动",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 20:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孟敏敏 Yitong Meng 没有的，他们之前用的逻辑是目前老的尺码推荐（用这个用户历史购买的相同类目做尺码推荐），这一套效果一般，所以我们计划用一套新的方案",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 20:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "可以我们先测 效果好推荐给他们[看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 14:49",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi @孟敏敏 Yitong Meng 你们看下",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-10 19:37",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey - can there be a flow where these item returns are made via system but take up last txn refund details?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-10 18:26",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi @杨丽波 Betty Yang hey - there has been some issue on one of the PG banks - because of some NPCI changes - this pendency coming in three digit till 3 days are because of that - tomorrow E",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-10 14:10",
+          "sender": "Anjali Thakur",
+          "content": "Hi @易希倩 Queenie Yi \n\nThere are a few users whose pickups have already been completed; however, they are unable to add the refund mode through the application, due to which their refunds are currently ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 14:20",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi his case won’t work?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-09 10:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala wow cool, it is a clearer presentation for weekly report.\nBTW, Anushka, Immersive io: B2B suite offering AI sizing, do you have more information about this? like screenshots, I'm interes",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 16:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211g_bcca9a76-2758-4271-9986-2ecd1af9b06g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-08 17:46",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi yes, subtle design cues are there to convert COD to prepaid. for some brands where COD is more common like in food & grocery delivery, ecomm brands which cater to tier 2&3 customers (l",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 17:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala So is it a common feature - Guide users from COD to prepay in India?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-10 20:06",
+          "sender": "Shilan Bahjat",
+          "content": "hi dear @易希倩 Queenie Yi , AI did not assign this chat until after almost an hour and a half [AI Chat](https://aichat.urbanic-cs.com/app/accounts/1/conversations/4389445)",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-10 20:03",
+          "sender": "San Kamaran",
+          "content": "@易希倩 Queenie Yi dear, is the AI still placing order for customers?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-10 16:45",
+          "sender": "San Kamaran",
+          "content": "@王叠 Die Wang @易希倩 Queenie Yi kindly let the AI use the word \" ارسليلي\" or \"دزيلي\" instead of \"ابعتيلي\" as we need to use Iraqi dialect and not levant\n[Image: img_v3_0211i_2bc15798-dbaf-4fa9-ba8a-3a6ee",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "RTO Reduction Project",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-10 20:06",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey so you need \n1. what benefit they give and what pushess behaviour?\n2. post launch change in conversion?",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-09 15:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh Hi Ashutosh, regarding the requirement to convert COD to prepay after payment, could you provide some insights into the benefits that competitors offer to guide users to switch payment metho",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-09 18:30",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@钟碧莹 Biying Zhong 方案产出中哈  目前在和工艺单变更的需求一起处理",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 18:17",
+          "sender": "钟碧莹 Biying Zhong",
+          "content": "[Image: img_v3_0211h_aea59adc-ebc1-4a30-8706-cdd6481131bg]\n@易希倩 Queenie Yi 麻烦看下这个点在做了嘛",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐new",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-09 15:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李伟雄 Vito Li @管可发 Frank Guan https://mayfairtech.larkenterprise.com/docx/BQyIdnb8voqI0ExZgTJcIg5un9e\n我拉周一评审哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-09 15:16",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "@易希倩 Queenie Yi 你可以下午先和大家沟通下需求～",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "DTO&质量当前现状碰一下",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-08 19:15",
+          "sender": "Jennifer Li",
+          "content": "@周美 Jane Zhou @易希倩 Queenie Yi 在拉分布图给我。我看到了会研究一下，然后update大家问题在哪里",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-08 19:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li http://192.168.188.124/body-analysis-final.html看一下哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "【线上问题】用户退货详情页无法添加账号",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-10 19:41",
+          "sender": "杨丽波 Betty Yang",
+          "content": "<forwarded_messages>\n[2026-05-10T14:10:34+08:00] Anjali Thakur:\n    Hi @易希倩 Queenie Yi \n    \n    There are a few users whose pickups have already been completed; however, they are unable to add the re",
+          "msg_type": "merge_forward",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-09 18:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @曹津 Jin Cao@杨丽波 Betty Yang  S011260421130140005004 这笔单子的退货窗口可以给打开吗",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "产品小组",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-09 16:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@滕苗 Mia Teng @程茹洁 Rita Cheng 周报记得哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Discussion for Zeropay Order",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-08 14:37",
+          "sender": "Parteek",
+          "content": "@易希倩 Queenie Yi Hi Queenie, can you please help to check why these KOL order quantity of 6583 is coming as B2C order in our dispatch data. \nPlease help to check and confirm once.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 16 个会话，512 条消息"
+}

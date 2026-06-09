@@ -1,0 +1,35 @@
+{
+  "total_count": 3,
+  "total_chats": 1,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-06-02 23:47",
+          "sender": "Sara Karwan",
+          "content": "Hey queenie can you check this , why is it not requesting a picture of the items when they are trying to raise returns",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-02 23:46",
+          "sender": "Sara Karwan",
+          "content": "<video key=\"file_v3_00129_4b9a2748-e8e7-4a37-8177-8036f8df537g\" name=\"3367952328.mov\" duration=\"34s\" cover_image_key=\"img_v3_02129_7a37f07a-07e9-4866-bf6e-3ffc2b3805fg\"/>",
+          "msg_type": "media",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-02 23:14",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-02 22:07 ~ 23:07（北京时间）\n​\n总计：2775 条会话 | 有效文字：2697 条（97.2%）\n🔴 大促特有问题：218 条（7.9%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 |",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 1 个会话，3 条消息"
+}

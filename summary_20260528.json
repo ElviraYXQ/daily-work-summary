@@ -1,0 +1,574 @@
+{
+  "total_count": 472,
+  "total_chats": 13,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 402,
+      "messages": [
+        {
+          "time": "2026-05-27 22:53",
+          "sender": "王越诗 Kice Wang",
+          "content": "[Image: img_v3_02123_44252448-7e03-4361-afe7-7f751a4d59ag]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 23:05",
+          "sender": "Ashutosh",
+          "content": "And increase it in staggered manner",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 23:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "最终上线样子也发我下哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 22:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "不改了吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 22:57",
+          "sender": "王越诗 Kice Wang",
+          "content": "这帮人真的是",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 23:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "哈哈哈哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 22:57",
+          "sender": "王越诗 Kice Wang",
+          "content": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 23:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 23:21",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "好的，明天我先跟前端对下再发你",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 23:07",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-27 22:07 ~ 23:07（北京时间）\n​\n总计：964 条会话 | 有效文字：882 条（91.5%）\n🔴 大促特有问题：0 条（0.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 882 | 9",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 17,
+      "messages": [
+        {
+          "time": "2026-05-27 23:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 22:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 样式需要服务端下发，时间太紧，来不及改了，先替换现有图标和文案吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 23:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "嗯嗯",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 22:23",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@孟敏敏 Yitong Meng @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 22:36",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi 王俭checkout 按钮做限流的文案和样式也给AI 品一品后提交老板审批",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 21:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo re过的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 20:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 北总先看下，我觉得第二个清晰些，目前我们站内没有太多可爱元素，所以第一个可能调性不符合\n[Image: img_v3_02123_eec76916-e0fe-4652-a4c3-4cbde1f1017g]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 18:26",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "cc@罗军 Beiyan Luo @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 17:38",
+          "sender": "孟敏敏 Yitong Meng",
+          "content": "对业务产品方案的时候我们一起看下吧@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 16:20",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi 这个",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "528扩容准备",
+      "type": "group",
+      "count": 13,
+      "messages": [
+        {
+          "time": "2026-05-27 18:27",
+          "sender": "刘凯 Kai Liu",
+          "content": "@易希倩 Queenie Yi 挂公告北京时间6点就是印度时间凌晨3:30",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 18:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "明天上午6点生效哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 18:27",
+          "sender": "刘凯 Kai Liu",
+          "content": "@易希倩 Queenie Yi 然后操作完成了之后就会立马撤掉公告",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 18:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@刘凯 Kai Liu 嗯嗯  正式断线时间就是5:30-6:30",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 18:25",
+          "sender": "刘凯 Kai Liu",
+          "content": "@易希倩 Queenie Yi 对，北京时间6点首页公告先挂上去",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 18:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "是不是中国时间8-9升级 那印度时间得改下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 18:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@刘凯 Kai Liu 好的 那印度时间就是5:30-6:30",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 18:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@刘凯 Kai Liu",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 18:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>@刘凯 Kai Liu 公告内容：We’re upgrading to bring you even bigger deals! The app will be offline from 5:30–6:30 AM IST. See you soon!</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 17:41",
+          "sender": "王俭 Yanmu Wang",
+          "content": "1. 630前给下明早8-9点系统维护公告文案  @易希倩 Queenie Yi 明早6点生效 @刘凯 Kai Liu \n[Image: img_v3_02123_74da7b01-c728-48f2-aef8-c423fcecafbg]\n2. 系统不可用页面重新设计 @易希倩 Queenie Yi ，购物车checkout、提单页place order提交端侧排队 7:30给设计方案；今天三端发",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "限流分流",
+      "type": "group",
+      "count": 12,
+      "messages": [
+        {
+          "time": "2026-05-27 22:19",
+          "sender": "徐基跃 Star Xu",
+          "content": "@易希倩 Queenie Yi \n[Image: img_v3_02123_2562aac6-2205-4eaf-acb0-777a2067148g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 23:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "OK",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 22:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐基跃 Star Xu 哪个",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 23:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "那就说需要我们在哪个上面改 我们来改下@桂良伟 Liangwei Gui",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 23:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐基跃 Star Xu 三个都来不及是吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 23:07",
+          "sender": "徐基跃 Star Xu",
+          "content": "@易希倩 Queenie Yi 先按复用原来的弹窗，还有其他需求呢，这个样式调整优先级最低",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 22:20",
+          "sender": "马文相 Moda Ma",
+          "content": "<p>@徐基跃 Star Xu @易希倩 Queenie Yi 能不能复用一个，新样式来不及开发了</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 23:52",
+          "sender": "徐基跃 Star Xu",
+          "content": "@易希倩 Queenie Yi 复用原来的弹窗文案什么你这边要调整的嘛",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 22:02",
+          "sender": "徐基跃 Star Xu",
+          "content": "@易希倩 Queenie Yi 又加新样式了嘛，又给我增加了好多的工作量[捂脸]，我要搞新老两套\n而且这个排完队可能又会出限流弹窗，这样不是更是倒计时完进不去嘛",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 22:04",
+          "sender": "马文相 Moda Ma",
+          "content": "@徐基跃 Star Xu @易希倩 Queenie Yi 样式能不能简单一点",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-05-27 18:31",
+          "sender": "程茹洁 Rita Cheng",
+          "content": "@易希倩 Queenie Yi 嗯嗯 主要是这次大促的免单活动后面取消率太高就临时让搜推过滤了很多薅羊毛用户的样本数据，所以这次最好可以提前了解一下可能影响",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 18:29",
+          "sender": "程茹洁 Rita Cheng",
+          "content": "有啥活动规则介绍么？@易希倩 Queenie Yi 看看搜推要提前准备做啥",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 18:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@_all 本周五计划上线1卢比活动，周末大家都带着电脑，注意及时查看消息，做好加班准备",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 18:30",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@程茹洁 Rita Cheng 搜推大概率不变，正在沟通方案 稍等下定了同步哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 16:08",
+          "sender": "Anushka Kala",
+          "content": "hi@滕苗 Mia Teng @易希倩 Queenie Yi, have revised the push performance on the sheet basis the data pulled. \nsummary: \n\n1. Arrival rate: 97%\n2. CTR: 51.81% \n3. Open rate: 5.27% \n4. Create order rate: 2.79%\n",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 13:21",
+          "sender": "滕苗 Mia Teng",
+          "content": "https://www.figma.com/design/rbnGgLrTKKljFfqpoSmabI/Wallet?node-id=4277-3373&t=bSv2gdFSVvRHoVFL-0@易希倩 Queenie Yi @桂良伟 Liangwei Gui 那有空我们先一起看下？没问题再给feifan看",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 11:32",
+          "sender": "未知",
+          "content": "@all 大家关注一下公司对于AI资源的变化哈，如果使用比较多，额度告急的，可以考虑转到订阅制方案\n\n[https://mayfairtech.larkenterprise.com/wiki/DyDywOdZ7i4aphk7akMc3T2snhX](https://mayfairtech.larkenterprise.com/wiki/DyDywOdZ7i4aphk7akMc3T2snhX)\n这个",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "make 1 rupee great again",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-27 21:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 看过的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 21:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue \n[Image: img_v3_02123_5f55dba4-f9d2-43dd-8b40-68bb928c3e1g]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 21:40",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的 稍等",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 21:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue Chi看下这样可以不\n[Image: img_v3_02123_6f00a267-0b88-4d17-8edb-265618427f3g]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 21:30",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi 这个人ai看过没 是brandbook的么",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "1 Rupee for Payment",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-27 17:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh Can they make a fast response if 1000 is not enough? Like say, they can put 1000 there first but prepare 2000 so that they can switch at once if any emergency",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 17:05",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey this TPS was max last time = but he's double checking on it",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 17:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh @马文相 Moda Ma pls help check",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 17:11",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi that can be asked",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐需求-技术沟通群",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-27 14:04",
+          "sender": "管可发 Frank Guan",
+          "content": "@易希倩 Queenie Yi IQ也1%实验并且已经配置好了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 14:05",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@管可发 Frank Guan 明天切20%吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 14:18",
+          "sender": "管可发 Frank Guan",
+          "content": "@易希倩 Queenie Yi 应该问题不大 我这边等前端放量一些后再观察下",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "伊拉克-10mins后不允许取消",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-27 11:06",
+          "sender": "未知",
+          "content": "[Image: img_v3_02123_694ffcec-186f-400a-96d1-6fc421ff4f9g]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 10:33",
+          "sender": "未知",
+          "content": "和大家快速对一下这个需求",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 10:33",
+          "sender": "未知",
+          "content": "@郑阳光 James Zheng @王叠 Die Wang \n[Image: img_v3_02123_8e04fc78-a522-4f7b-8c5d-d79143ab96dg]\n[https://mayfairtech.larkenterprise.com/wiki/OQcawuOrQiGhj7kS3AAcqYiNnBc](https://mayfairtech.larkenterprise.c",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-27 18:28",
+          "sender": "Ishita Singh",
+          "content": "@易希倩 Queenie Yi please assist, agents are now getting 90 tickets",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-27 13:22",
+          "sender": "Anjali Thakur",
+          "content": "@易希倩 Queenie Yi Agents are currently at 15 concurrent in Social Media however still more than 50 tickets are getting assigned to them, pls assist.\n\n[Image: img_v3_02123_38a89ed2-2569-494a-821d-607a38e",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "降RTO方案评审",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-27 17:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐基跃 Star Xu 可以 下周排吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-27 17:00",
+          "sender": "徐基跃 Star Xu",
+          "content": "@桂良伟 Liangwei Gui@易希倩 Queenie Yi@杨林 Sennia Yang 这个项目大概率要延期了，要支持一元购",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "2026 IN 1 rupee - 技术保障",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-27 19:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/wiki/M0zewxkBqiP3kLkbz9FcJWKrnIc",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "产品技术核心管理群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-27 16:56",
+          "sender": "罗军 Beiyan Luo",
+          "content": "在上线前@易希倩 Queenie Yi 你跟chi对一下文案是否ok",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 13 个会话，472 条消息"
+}

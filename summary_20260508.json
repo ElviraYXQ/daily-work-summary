@@ -1,0 +1,119 @@
+{
+  "total_count": 27,
+  "total_chats": 3,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 24,
+      "messages": [
+        {
+          "time": "2026-05-07 20:40",
+          "sender": "未知",
+          "content": "完全看不懂",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-07 21:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "type2就是再把特殊退款拆成极速退、提前退和客服场景退款",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-07 20:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "是的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-07 21:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "type1就是分为正常退款和特殊退款",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-07 23:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "刚好有一个",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-07 20:01",
+          "sender": "未知",
+          "content": "but只有7天",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-07 23:13",
+          "sender": "未知",
+          "content": "其他ok",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-07 21:02",
+          "sender": "未知",
+          "content": "还有这两个也不知道是什么",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-07 21:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211f_ed904dcf-a6ab-469c-b520-df574afe53fg]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-07 22:47",
+          "sender": "未知",
+          "content": "配置项表里 signed_not_returned_weight 还写着 0.5， 但正文写的是 0.2。需要统一。",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-07 20:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "C端尺码推荐的方案大家也看看\ndemo演示：https://www.figma.com/make/59Bdddo9DVr6k1oSTlcvjD/Create-Savana-App-Demo?p=f&t=bu0pZLB7XdBVWb5x-0 \nPRD：https://mayfairtech.larkenterprise.com/docx/T9l9dcZZLoisOexnUtmcl6X6nQg （相关",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-07 20:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "先没处理，我明天再分析一下吧[不看]",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-07 20:51",
+          "sender": "未知",
+          "content": "Hi @易希倩 Queenie Yi, need your immediate attention on a case:\n\nOrder ID: S011260425170513024005\nSKU: 1147866\nQuantity: 1\n\nThe customer initially scheduled the pickup on 30th April 2026 but later cancel",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 3 个会话，27 条消息"
+}

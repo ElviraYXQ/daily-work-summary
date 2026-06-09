@@ -1,0 +1,147 @@
+{
+  "total_count": 23,
+  "total_chats": 5,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 18,
+      "messages": [
+        {
+          "time": "2026-04-25 14:00",
+          "sender": "未知",
+          "content": "<card title=\"🕓 工单处理提醒\">\n工单中心 · 工单中心 · #6977892282\n[6977892282](https://project.feishu.cn/buyer-cs/story/detail/6977892282) 在当前状态已停留2天，请@ou_8e5ae10c82b5b3c009e45b9b3bd19cb9及时处理\n**当前状态:** 开始\n**到达时间:** 2",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-25 16:28",
+          "sender": "未知",
+          "content": "<card title=\"🆕 工单创建通知\">\n工单中心 · 工单中心 · #6978674818\n[6978674818](https://project.feishu.cn/buyer-cs/story/detail/6978674818) 创建成功\n**创建人**: @ou_b4d7e1688820cd73028c2042cbd786ac\n**负责人**: @ou_8e5ae10c82b5b",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-25 16:36",
+          "sender": "未知",
+          "content": "<card title=\"🆕 工单创建通知\">\n工单中心 · 工单中心 · #6978740847\n[6978740847](https://project.feishu.cn/buyer-cs/story/detail/6978740847) 创建成功\n**创建人**: @ou_b4d7e1688820cd73028c2042cbd786ac\n**负责人**: @ou_8e5ae10c82b5b",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-25 17:13",
+          "sender": "未知",
+          "content": "<card title=\"🆕 工单创建通知\">\n工单中心 · 工单中心 · #6978684343\n[6978684343](https://project.feishu.cn/buyer-cs/story/detail/6978684343) 创建成功\n**创建人**: @ou_b4d7e1688820cd73028c2042cbd786ac\n**负责人**: @ou_8e5ae10c82b5b",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-25 14:00",
+          "sender": "未知",
+          "content": "<card title=\"🕓 工单处理提醒\">\n工单中心 · 工单中心 · #6976546616\n[6976546616](https://project.feishu.cn/buyer-cs/story/detail/6976546616) 在当前状态已停留4天，请@ou_8e5ae10c82b5b3c009e45b9b3bd19cb9及时处理\n**当前状态:** 开始\n**到达时间:** 2",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-25 16:04",
+          "sender": "未知",
+          "content": "<card title=\"🆕 工单创建通知\">\n工单中心 · 工单中心 · #6978679780\n[6978679780](https://project.feishu.cn/buyer-cs/story/detail/6978679780) 创建成功\n**创建人**: @ou_b4d7e1688820cd73028c2042cbd786ac\n**负责人**: @ou_8e5ae10c82b5b",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-25 10:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "看板相关的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-25 10:42",
+          "sender": "王叠 Die Wang",
+          "content": "照他那么搞新客全极速退了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-25 10:43",
+          "sender": "王叠 Die Wang",
+          "content": "分开也没有用，他全是0分",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-25 10:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "我觉得不用了",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退Instant Refund沟通群",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-25 10:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang 下周一我们上一下同人同时仅限一笔和单笔2500限制吧，还能规避一部分风险",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-25 00:46",
+          "sender": "王叠 Die Wang",
+          "content": "@孟敏敏 Yitong Meng @易希倩 Queenie Yi @王越诗 Kice Wang @曹津 Jin Cao @盛伟松 Sam Sheng @杨林 Sennia Yang \n极速退项目24日完成线上白名单验证，16:40开始灰度20%，截止24:00数据：\n- 逆向核心链路正常\n- 风控：触发极速退风控87单，其中\n  - 内审61单：极速退20单，27日晚触发提前退风控26单，普通单1",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "CRM System Technical Support",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-25 22:24",
+          "sender": "Ishita Singh",
+          "content": "Hi @易希倩 Queenie Yi need your help \nCertain changes in review impacting count increase-\n\nWhile raising return requests in the app, we’ve observed an issue with reason mapping. When selecting reasons li",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-25 10:31",
+          "sender": "王叠 Die Wang",
+          "content": "@Upender Bajaj The data has been refreshed. @易希倩 Queenie Yi This is different from what we discussed last year. Last year's conclusion was that the offline dashboard could meet financial needs.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-25 07:20",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@Ashutosh @易希倩 Queenie Yi @王叠 Die Wang @杨林 Sennia Yang \n同步信息：\n截止当前，bureau一共有68条，其中66条都是0，2条一条是40 一条是10。  我已经在联系对方帮忙确认了\n[Image: img_v3_02113_ece9a46b-05bd-4d10-bb5e-b597bb3c6a9g]",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 5 个会话，23 条消息"
+}

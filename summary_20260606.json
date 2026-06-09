@@ -1,0 +1,392 @@
+{
+  "total_count": 105,
+  "total_chats": 10,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 70,
+      "messages": [
+        {
+          "time": "2026-06-05 22:20",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-05 21:07 ~ 22:07（北京时间）\n总计：1459 条会话 | 有效文字：1404 条（96.2%）\n🔴 大促特有问题：69 条（4.7%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 543 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 23:20",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-05 22:07 ~ 23:07（北京时间）\n总计：1447 条会话 | 有效文字：1364 条（94.3%）\n🔴 大促特有问题：55 条（3.8%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 433 | 2",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 21:17",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-05 20:07 ~ 21:07（北京时间）\n总计：1675 条会话 | 有效文字：1598 条（95.4%）\n🔴 大促特有问题：82 条（4.9%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 533 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 19:18",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-05 18:07 ~ 19:07（北京时间）\n总计：1596 条会话 | 有效文字：1529 条（95.8%）\n🔴 大促特有问题：77 条（4.8%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 558 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 20:14",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-05 19:07 ~ 20:07（北京时间）\n总计：1791 条会话 | 有效文字：1633 条（91.2%）\n🔴 大促特有问题：91 条（5.1%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 625 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 18:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "thank you dear",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 19:16",
+          "sender": "未知",
+          "content": "<calendar_invite>\n尾程服务满意度考核\n2026-06-08 11:00:00 ~ 2026-06-08 12:00:00\n</calendar_invite>",
+          "msg_type": "calendar",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 18:42",
+          "sender": "Ghasaq Hamid",
+          "content": "you are very welcome dear",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 17:26",
+          "sender": "未知",
+          "content": "<card title=\"权限变更（外部）\">\n@7356427845572296706 给外部用户 @7123022894107901955 开通了文档 [0515印度市场下装退货归因分析 - 最终结论（已确认）](https://mayfairtech.larkenterprise.com/docx/Wm36dlfVaoFoZIx6ypwcH21znhd?from=auth_notice) 的",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 17:26",
+          "sender": "未知",
+          "content": "<card title=\"权限变更（外部）\">\n@7356427845572296706 给外部用户 @7123022894107901955 开通了文档 [完整尺码人台体系建议（IN/IQ站点）](https://mayfairtech.larkenterprise.com/docx/BBfDdVctcoNMf5xEBmNcSxCInNh?from=auth_notice) 的阅读权限。\n📝 授",
+          "msg_type": "interactive",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "易希倩 Queenie Yi, Sakshi Bansal, 滕苗 Mia Teng",
+      "type": "group",
+      "count": 9,
+      "messages": [
+        {
+          "time": "2026-06-05 14:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal \n[Image: img_v3_0212c_6fa5a8a7-a94f-4c68-a970-b1495e1ea8eg]\nIn the log, each transaction will have its details",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 14:28",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi in transaction log, only a few recent transactions will reflect, we can't expect the customer to go and scroll the log and then finding the balances which are reaching expiry, ideally ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:11",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi in the balance too .. the pink window, a separate line item for the balance expiring on short term basis shall come separately along with it's expiry date",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal \n[Image: img_v3_0212c_5d9ff6fe-dfdb-429d-a012-d5218cc2f98g]\nit's expiry date",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 14:27",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi in this yellow stripe - different line items will come if multiple balances will be expiring on different dates near expiry?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:13",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi is this the short term one?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:14",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal it is balance which will expire in 7 days including time-limited bonus",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 14:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "for short-term bonus",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 14:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal \n[Image: img_v3_0212c_4e26a418-54a8-420e-8f83-09d95dd237cg]\nHi Sakshi, can we show like this?",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-06-05 14:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Rishi Gaurav today",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 15:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Mohit Saini @王叠 Die Wang 辛苦看看",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 15:00",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 稍等",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:39",
+          "sender": "Rishi Gaurav",
+          "content": "@易希倩 Queenie Yi pls do let us know if this is solved.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:51",
+          "sender": "Rishi Gaurav",
+          "content": "[Image: img_v3_0212c_022865ed-ed8b-48d7-bd47-1c0899d592hu]\n24319860550315 Customer Pickup is completed but not reflecting on customer @易希倩 Queenie Yi though CRM, Customer reaching CS regarding this pi",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:10",
+          "sender": "未知",
+          "content": "[Image: img_v3_0212c_ffb29f5d-77ab-4266-8729-843bb9560fhu]\n\n[Image: img_v3_0212c_7af49cac-cf23-4454-8dcb-01e22480cfhu]\n@易希倩 Queenie Yi I am trying to cancel this order and it's showing \"Success Submit",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:52",
+          "sender": "Rishi Gaurav",
+          "content": "@易希倩 Queenie Yi when this got live",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:51",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Rishi Gaurav we have made this limitation live",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-06-05 18:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": " Hi Anushka, thanks for your sharing, for Myntra (AI Try-On for EORS) and Myntra (AI powered Styling Booth for EORS), do you have a related video for us?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 19:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "it is an attractive promotion method for young girls",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 19:01",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi kind of yes for the college audience (15-21 year olds). we have such offline activations during college festivals as well by a lot of brands, but i havent seen any with AI. this might ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 18:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 18:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala It looks like Myntra only puts your face in a uniform model body lol no matter what your body type",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 18:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Who is Ranbir Kapoor",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-06-05 20:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 尺码推荐IQ也适用",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 20:45",
+          "sender": "薛驰 Chi Xue",
+          "content": "对了库尔德语后来搞定没 @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 20:47",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi 尺码推荐和COD转prepay 这里面尺码iq也适用么",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 20:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 还没有 资源有限，优先做了尺码推荐和COD转prepay，下周我们排一下库尔德语",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-06-05 16:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh Bureau didn't determine any users as R5 (score >=85) level lol",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 16:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<file key=\"file_v3_0012c_17287dd6-9bd8-4689-bc03-23429e7b4fag\" name=\"100014685-11460536.csv\"/>",
+          "msg_type": "file",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-05 15:55",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi @宋国兵 Colin Song hey -\nbureau team is collating the insights and will share a report on the immediate impact of the solution. \nEssentially, this will include mapping duplicate accounts,",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-05 14:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh @王叠 Die Wang @宋国兵 Colin Song 两位老师，这里面部分数据可以帮忙捞一下吗？\n1. bureau调用量、打分结果及原因明细 @王叠 Die Wang \n2. 回调率、延迟、指纹匹配率 @宋国兵 Colin Song \n\n另外的我提给BI看下：\n1. 打分为R1-R4放过，但最终退款未退货比例\n2. 打分为R5拦截，但为高等级会员（L3/L4）",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "NEW PG SETUP- IN",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-05 20:26",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey -UPI checkout config issue — likely a fix on our side\n\n- 41% of our UPI drops (2,225 of 5,421, 1–2 June, MID 12247311) are desktop transactions\n- Desktop UPI conversion is very low",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Delivery fees threshold correction- IN",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-05 15:20",
+          "sender": "Sheetal Jasoriya",
+          "content": "@周美 Jane Zhou @易希倩 Queenie Yi \nHi Jane and Quneenie,\n\nWe have identified a practical opportunity to increase our delivery fee revenue.\n\nCurrently, our system calculates shipping fees based on the unit",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- TAT. adjustment",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-05 15:29",
+          "sender": "Shivani Verma",
+          "content": "@Anubhav Agrawal Please find the flow here - https://mayfairtech.larkenterprise.com/docx/Ms1wdPr4don9LUxjWhSc6i6Rnlf?from=from_copylink\ncc- @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-05 13:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 那专属技术资源需要提前协调锁定[不看]",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 10 个会话，105 条消息"
+}

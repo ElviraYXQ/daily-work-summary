@@ -1,0 +1,238 @@
+{
+  "total_count": 92,
+  "total_chats": 8,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 77,
+      "messages": [
+        {
+          "time": "2026-05-06 20:58",
+          "sender": "杨丽波 Betty Yang",
+          "content": "我在他眼里这么厉害的么",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-06 20:46",
+          "sender": "罗军 Beiyan Luo",
+          "content": "<forwarded_messages>\n[2026-05-06T20:43:11+08:00] 王叠 Die Wang:\n    目前取件失败的147单里，大部分应该是一个系统问题导致的。在第一次取件失败后，供应链系统会通过WhatsApp询问用户是否再次上门取件，用户实际选的是要上门取件，结果系统处理成不要上门取件了。这个问题他们今天发现的，已经修复止血了，存量的单供应链的业务在跟进处理，重新",
+          "msg_type": "merge_forward",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-06 20:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "嗯嗯 好的 王叠刚刚和我说[捂脸]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 21:42",
+          "sender": "薛驰 Chi Xue",
+          "content": "我看看",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-06 21:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "哈哈哈哈 你是老板",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 20:48",
+          "sender": "王叠 Die Wang",
+          "content": "https://data.mayfair-inc.com/bi#/dashboard/36855?appId=1&sheetId=3540&snapshotId=1136",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-06 21:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "是的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 20:46",
+          "sender": "罗军 Beiyan Luo",
+          "content": "<p>你核实下看看</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-06 21:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "北总完整方案你先看下，MVP版本我晚点拆出来：\ndemo演示：https://www.figma.com/make/59Bdddo9DVr6k1oSTlcvjD/Create-Savana-App-Demo?p=f&t=bu0pZLB7XdBVWb5x-0\nPRD：https://mayfairtech.larkenterprise.com/docx/T9l9dcZZLoisOexnUtmcl6X",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 20:58",
+          "sender": "杨丽波 Betty Yang",
+          "content": "[Image: img_v3_0211e_2fc9ace5-0b81-4cff-8895-f40ccb0d854g]",
+          "msg_type": "image",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-06 21:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "我们没给过",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 21:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邹家辉 Jiahui Zou 他们自己算的吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 19:23",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "@易希倩 Queenie Yi @王叠 Die Wang \nIQ 客服他们计算rating 的口径是：导出表格，把所有分数累加计算一个平均分。这个口径是他们自己研究的还是我们给的\n[Media: file_v3_0011e_c4596e77-d0a1-4a2a-88cf-2d8705ae3fdg]\n\n跟ai-chat 面板上展示的分数统计口径（四星比例+5星比例）不一样，客服他们该用哪个呢",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-06 20:51",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng 最近几天风控命中R1-R4的占比多少呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 20:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @曹津 Jin Cao 用户灰度量开到100%，PIN code还是保持50%不变，辛苦操作下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 20:20",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李霞 Lacie Li 这个有结论了不",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-06 20:12",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "@向瑾 Jin Xiang @易希倩 Queenie Yi 这个比例好像是有点不太对，理论上单单风控90%+都能Instant/early refund， 那比例应该接近大盘10%",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-06 19:14",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@易希倩 Queenie Yi \n[Image: img_v3_0211e_d46445e2-9e9e-4038-95e4-c0282537d9eg]\n这个数据的意思是，现在开的这10%用户，只占退货的1.5%左右？",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-06 17:37",
+          "sender": "Ankit Gupta",
+          "content": "@易希倩 Queenie Yi Please share with me the access to this dashboard.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-06 21:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Mohammad Habib which order, can you please provide order IDs? CC @王叠 Die Wang",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-06 16:13",
+          "sender": "Anurag Sharma",
+          "content": "@张佳宜 Jiayi Zhang @易希倩 Queenie Yi @王叠 Die Wang | Please find the AI BOT audits for the month pf April 2026.\n\n[Image: img_v3_0211e_1ed4e5b7-4cea-4837-ba82-d7ec1b56f8hu]\n\n[Image: img_v3_0211e_241e496b-d6",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "DTO&质量当前现状碰一下",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-06 20:37",
+          "sender": "周美 Jane Zhou",
+          "content": "@易希倩 Queenie Yi 客户之声数据方便发下不，我也学习一下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-06 20:40",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@周美 Jane Zhou 看板http://192.168.188.124/reverse-report-live/",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN周年庆 - 产技沟通",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-06 17:16",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "同步结论：\n针对钱包退款时，退款金额已过期场景。退款后，用户会看到2条钱包流水：\n第一条是 退款入账流水\n第二条是 退款过期流水\n@易希倩 Queenie Yi  cc @杨林 Sennia Yang @马文相 Moda Ma",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "RTO Reduction Project",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-06 16:16",
+          "sender": "周美 Jane Zhou",
+          "content": "@易希倩 Queenie Yi @桂良伟 Liangwei Gui 我们系统里会有这部分数据记录么，还挺大占比的",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 8 个会话，92 条消息"
+}

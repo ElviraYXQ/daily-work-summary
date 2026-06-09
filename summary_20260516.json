@@ -1,0 +1,147 @@
+{
+  "total_count": 178,
+  "total_chats": 3,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 171,
+      "messages": [
+        {
+          "time": "2026-05-15 23:13",
+          "sender": "王叠 Die Wang",
+          "content": "对了咱这个极速退和提前退占比这么少，后续业务有什么打算没有哇",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-15 17:57",
+          "sender": "Ghasaq Hamid",
+          "content": "<p>I believe it might be better if this group comes to an end [无辜笑]</p><p>and just make a now idea and of course i'll be with you to accomplish it</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-15 23:32",
+          "sender": "Ashutosh",
+          "content": "https://claude-command-atlas.vercel.app/#power",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-15 18:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Then we can both keep a good feeling for old users and remain active for the group",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-15 18:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Or maybe you can try to replace someone who is not active",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-15 18:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Sure, this group is important for us to collect real users' voices",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-15 17:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "yes, we also need different voices from more users",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-15 18:09",
+          "sender": "Ghasaq Hamid",
+          "content": "<p>Okay then, Next week i will replace five non active users and i will keep you updated</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-15 17:55",
+          "sender": "Ghasaq Hamid",
+          "content": "I wanted to explain that I feel some members may be starting to find the idea less engaging, and the coupon concept is no longer as motivating for them as it used to be.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-15 18:10",
+          "sender": "Ghasaq Hamid",
+          "content": "Lets do it until we have 50 active users [碰拳]",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "NSZ Closure Process alignment",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-15 18:18",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi NSZ case if LM takes action then it should be closed. and reverse order should also be closed.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-15 17:20",
+          "sender": "Shivani Verma",
+          "content": "@Anubhav Agrawal Yes agree with you. Because of this problem there is a lot of historic pendancy on our side and we wanted to solve this problem with NSZ feature.\n[Image: img_v3_0211n_d604699d-cbc5-42",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-15 17:24",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi This is a performance dashboard that LM uses for everyday work to see how much operational pendancy is there and since closure is not done this number cannot be trusted and the state o",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-15 17:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma I agree with you, may I know what the impact is if we don't close the reverse orders forever",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-15 17:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma For NSZ case, what will you do?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-15 13:47",
+          "sender": "Shivani Verma",
+          "content": "@all Please find the issue below:\n1. Currently, reverse orders exist in two systems — CRM and UAP. The reverse order originates in CRM, and the same record is synced to UAP for allocation and further ",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-15 14:21",
+          "sender": "肖帝鸿 Hardy Xiao",
+          "content": "@易希倩 Queenie Yi 我看了这份数据的结论就是腰围和臀围我们的货品都是偏大比较严重的，xs-s-m的腰围和臀围尺寸是轻微偏大的，L-XL-XXL严重偏大，且越大码越严重的趋势，\n调整结论：IN下装腰围和臀围基础码按尺寸现在的标准减小2CM，XS/S/M跳码档差按原来的4CM不变，L/XL/XXL跳码档差从6CM调整到4CM。身高就按之前queenie给的数据（基码S#），我现在根据这两封",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 3 个会话，178 条消息"
+}

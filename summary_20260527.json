@@ -1,0 +1,357 @@
+{
+  "total_count": 181,
+  "total_chats": 9,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 139,
+      "messages": [
+        {
+          "time": "2026-05-26 23:29",
+          "sender": "胡浩 Merlin Hu",
+          "content": "@胡浩 Merlin Hu  \n这160个质量风险商品，在库内有库存的商品72个，已稽查完。\n主要问题：\n服饰：\n1. 供应商偷换面料，用更差（更薄更透、肌理效果不明显）的面料代替样衣面料\n2. 面料薄、透，且销售图未展示面料真实薄、透效果\n3. 销售图展示的面料厚薄、衣服长度跟大货实物不一致\n非服饰：\n1. 小饰品（耳环、戒指、手镯）有焊接部位，打包、物流运输途中挤压易脱落；\n2. 发夹材质较脆",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 21:17",
+          "sender": "杨丽波 Betty Yang",
+          "content": "突然想起来了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 23:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "早点回去哇",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 21:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "看到了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 21:17",
+          "sender": "杨丽波 Betty Yang",
+          "content": "好的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 22:09",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-26 21:07 ~ 22:07（北京时间）\n​\n总计：1145 条会话 | 有效文字：1067 条（93.2%）\n🔴 大促特有问题：31 条（2.7%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 21:10",
+          "sender": "杨丽波 Betty Yang",
+          "content": "你有看到么",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 23:30",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[赞][赞]感谢 看起来还是发现了不少问题",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 23:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[欢呼]我们再看看怎么迭代",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 21:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Sticker]",
+          "msg_type": "sticker",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐需求-技术沟通群",
+      "type": "group",
+      "count": 17,
+      "messages": [
+        {
+          "time": "2026-05-26 20:37",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@管可发 Frank Guan IN：___X_70A5EDE7-56CE-4837-AAA2-1D0AF480DCFD",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 20:37",
+          "sender": "易希倩 Queenie Yi",
+          "content": "伊拉克：___X_D29D49C0-A2C5-44A9-8E40-3B38F8432C99",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 19:47",
+          "sender": "管可发 Frank Guan",
+          "content": "@易希倩 Queenie Yi 美东的数据我明天上午刷哈。感觉 机器可能扛不住",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 20:08",
+          "sender": "管可发 Frank Guan",
+          "content": "IN 已经1%是实验 @易希倩 Queenie Yi 需要体验的给我一下uuid",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 19:27",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 也发好了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 19:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@管可发 Frank Guan 能给我处理到实验组吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 20:08",
+          "sender": "管可发 Frank Guan",
+          "content": "[Image: img_v3_02122_ad527692-2140-4b5e-8bbc-e389f7d9496g]\n[Image: img_v3_02122_c9cca302-294d-43eb-992c-7ac6920bd8cg]\n[Image: img_v3_02122_36cbd13e-1ac9-4d19-bf82-d4f85c784acg]\n@易希倩 Queenie Yi",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 19:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li IN还没发吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 19:26",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@翟雪洋 Haishi Zhai iq发布了 我看了一下双端没啥问题 有个要注意的是sizeGuide的入口因为H5是直接全量改的 所以进入默认就是可以切换tab的状态 这个符合预期的吧 @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 16:37",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@管可发 Frank Guan ok",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 14,
+      "messages": [
+        {
+          "time": "2026-05-26 20:28",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi, the template is now under utility. this will have better delivery rate, we can use on the failed phone numbers.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 19:29",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi yes\ni'll try to shift the CTA button to utility and report back",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 19:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala yes, so I think we should try to make it under utility, if it is still a marketing template, it will not have more effect",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 19:26",
+          "sender": "滕苗 Mia Teng",
+          "content": "[Image: img_v3_02122_53363b8c-ed14-4292-afde-4a8c5a68886g]\n@易希倩 Queenie Yi @Anushka Kala 数据有了",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 19:25",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi failed messages are meta controlled & due to it being a marketing template\nif we do utility & resend, the failure is 4%, so 96% delivered with a lower cost - so in this case most will ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 19:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala What are the first failed reasons? I remembered the reason is they are almost blocking our notifications, so will they receive it even though we send it again?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 19:21",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi i can try Browse Now/Open App as the CTA copy instead. let me check\nthe 2nd send is for failed users, who didn't receive the message in the first push",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 19:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Can you revise its CTA button to make it utilized? And why do we send it again?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 18:55",
+          "sender": "Anushka Kala",
+          "content": "@滕苗 Mia Teng @易希倩 Queenie Yi there's an issue with the instant refund template. it cannot come under utility as we're nudging users to shop in the CTA button (leads to wishlist). i tried with a very n",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 13:57",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "@滕苗 Mia Teng @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-26 23:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@胡浩 Merlin Hu  \n这160个质量风险商品，在库内有库存的商品72个，已稽查完。\n主要问题：\n服饰：\n1. 供应商偷换面料，用更差（更薄更透、肌理效果不明显）的面料代替样衣面料\n2. 面料薄、透，且销售图未展示面料真实薄、透效果\n3. 销售图展示的面料厚薄、衣服长度跟大货实物不一致\n非服饰：\n1. 小饰品（耳环、戒指、手镯）有焊接部位，打包、物流运输途中挤压易脱落；\n2. 发夹材质较脆",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 23:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "稽查结果 大家一起看看👀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 19:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun @闫昕 Jermmy Yan 分析了一版，发现尺码相关问题基本还是整体偏大/偏小为主，目前品控已经在优化尺码标准了，有望后续有所改善。局部尺码问题反馈很少，而且个体问题也很难推广到同类其他商品上（比如A商品普遍反馈腰围紧，不一定同类的连衣裙腰围都紧），因此很难给品控提供有效的建议。\n结论：给品控的应用建议也优先以质量相关问题入手，质量相关问题更适合源头管控\n\n- 详细结论",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-26 19:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<file key=\"file_v3_00122_7e84e565-6516-4fce-b65a-892586c1798g\" name=\"退货原因_NLP分析_优化版_最终_100万.csv\"/>",
+          "msg_type": "file",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-26 20:35",
+          "sender": "薛驰 Chi Xue",
+          "content": "@罗军 Beiyan Luo @易希倩 Queenie Yi @向瑾 Jin Xiang 你们决定一下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 15:01",
+          "sender": "Jennifer Li",
+          "content": "@邓秋霖 Eddie Deng 上次图片和三视图异常我们用了AI检测然后人工复刻。效率提高了不少。我去跟@易希倩 Queenie Yi 讨论一下试试看用在这个场景。这样我们可以用AI检查所有旧图片解决一下。未来可以在上架环节加一道AI检查异常。",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-26 13:35",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi @Ishita Singh facebook has recently changed their API access rules, @邹家辉 Jiahui Zou is handling this, the fix will be released this afternoon.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-26 13:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ishita Singh please send the post link, thank you CC @王叠 Die Wang",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "CRM System Technical Support",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-26 17:56",
+          "sender": "Ankit Gupta",
+          "content": " @易希倩 Queenie Yi plz get this resolved, it’s hampering the cs operations.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-26 16:05",
+          "sender": "宋国兵 Colin Song",
+          "content": "@Ashutosh you may discuss with @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-26 15:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 北总，结论如下哈：\n1. 降取消率\n  a. 【本周完成方案设计】印度-下单时限时钱包余额促动+取消告知优惠失效\n  b. 【已和供应链侧沟通，尽快排期上线】伊拉克-下单后10分钟后假发货，不允许取消\n  c. 【方案调研】双站点-取消后不再下单push策略召回\n  d. 【方案调研】双站点-取消率高的商品每日竞对比价，动态调价\n2. 降RTO\n  a. 【待yito",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 9 个会话，181 条消息"
+}

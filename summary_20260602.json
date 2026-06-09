@@ -1,0 +1,455 @@
+{
+  "total_count": 299,
+  "total_chats": 11,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 228,
+      "messages": [
+        {
+          "time": "2026-06-01 22:45",
+          "sender": "郑阳光 James Zheng",
+          "content": "发吧",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 22:41",
+          "sender": "郑阳光 James Zheng",
+          "content": "是不是有延迟啥的，我看到没改",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 22:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "群里你看看",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 22:38",
+          "sender": "郑阳光 James Zheng",
+          "content": "后续计划，商城侧技术和供应链侧技术一起建立实时库存对账机制，对订单每一笔扣库存进行实时对账，保障的及时发现系统问题",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 22:42",
+          "sender": "郑阳光 James Zheng",
+          "content": "或者你重新发一遍",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 22:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "群里",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 22:43",
+          "sender": "郑阳光 James Zheng",
+          "content": "[Image: img_v3_02128_e1e3319a-167a-48e0-83c5-f94880ac8acg]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 22:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "看看",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 22:39",
+          "sender": "郑阳光 James Zheng",
+          "content": "您们业务的群我不在[捂脸]",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 22:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "奇怪 我更新了",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 31,
+      "messages": [
+        {
+          "time": "2026-06-01 22:32",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi Any timeline if u can give for making this new alternative live. ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 19:55",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi yes, for 1 rupee campaign, even if the aim is to avoid return abuse by customers, still no charge can be levied if the product returned by customer is marked under defective/demaged/wr",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 19:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal CC@周美 Jane Zhou",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 19:20",
+          "sender": "Sakshi Bansal",
+          "content": "<p>@易希倩 Queenie Yi by complying with all these points + creating exceptions for no charge in case of \"defective/damage/Size issue/wrong\" items, we can make it live for the Rs. 1 campaign DTOs.</p><p>A",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 19:24",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi this is checked with Ashutosh and he has confirmed that the same can be managed with PGs",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 19:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal @Ashutosh but if so, we should prepare 2 flows separately for 1 rupee orders and following new orders.",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 16:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh only allow placing an order under 50K",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 15:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma Can we limit order amount to 50K from the C side? But I think it only works for new orders, how will we handle historical orders?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 16:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sakshi Bansal Can this method be used for all following orders? Or just used for 1 rupee orders?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 15:49",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi I think historical whatever have been flagged will need manual handling - if there recenet ones we can just share the order Ids here so that they can be manually managed maybe.\ncc- @Ri",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "WAmsg-印度大促",
+      "type": "group",
+      "count": 17,
+      "messages": [
+        {
+          "time": "2026-06-01 18:33",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi this is sent with the link added \ncc @Ashutosh @王越诗 Kice Wang",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 17:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<file key=\"file_v3_00128_4f4d3d44-301c-4b4c-830e-91858380332g\" name=\"100014685-11415310.csv\"/>",
+          "msg_type": "file",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 17:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "And that's all, thank you",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 17:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala @王越诗 Kice Wang this second bulk target users, please help send notifications",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 17:19",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi they reading order cancelled and we credit amount - without context template would reject too - once we add link redirect shall make this easy",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 17:10",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi @Ashutosh @王越诗 Kice Wang",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 17:17",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi i've sent the push to failed users. adding this link in 1 hour so the current campaign doesnt have errors",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 17:15",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi if we can redirect is better",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 17:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王越诗 Kice Wang 另外文案是不是改一下，现在的文案好像看用户反馈都理解成又有一笔被取消了， 实际我们是补偿的同一笔[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 17:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala https://www.savana.com/wallet",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "易希倩 Queenie Yi, 郑阳光 James Zheng, 罗军 Beiyan Luo, 姚继涛 Wuchong Yao",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-06-01 22:40",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@郑阳光 James Zheng 再看看",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 22:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 北总再看下 更新了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 22:50",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi 可以了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 21:47",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi 麻烦协助阳光简单整理一下 发到运营那个群里",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 22:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": " 和阳光也对了一下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 22:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 北总看看",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 22:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "问题复盘：\n1. 问题描述：UAP库存充足商品C端展示售罄\n2. 问题原因：\n- 大促中：支付成功后，有少量订单的“扣库存”指令因系统拥堵没能成功发出（商城侧技术当时在保障大促主链路，未及时发现和处理）。\n- 第三天大促前：为了防止此前出现的超卖问题，供应链侧技术主动做了一次库存平账（相当于根据仓库自由库存情况人工调平了库存）\n- 今天下午16:00：商城侧技术发现历史有漏发的扣库存指令，于是进行",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "产品X运营 CORE 沟通群",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-06-01 22:51",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孔斐凡 Feifan Kong 问题复盘：\n1. 问题描述：UAP库存充足商品C端展示售罄\n2. 问题原因：\n- 大促中：支付成功后，有少量订单的“扣库存”指令因系统拥堵没能成功发出（商城侧技术当时在保障大促主链路，未及时发现和处理）。\n- 第三天大促前：为了防止此前出现的超卖问题，供应链侧技术主动做了一次库存平账（相当于根据仓库自由库存情况人工调平了库存）\n- 今天下午16:00：商城侧技术发",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 21:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>@孔斐凡 Feifan Kong影响到了约600+SKU库存不准，因为是大促临时改动引起，所以后续及时发现机制我们看下</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 20:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孔斐凡 Feifan Kong 大促临时改动影响，目前已修复，不影响任何订单履约",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 19:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孔斐凡 Feifan Kong 供应链侧在修复了 稍等哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 19:08",
+          "sender": "孔斐凡 Feifan Kong",
+          "content": "@易希倩 Queenie Yi queenie帮忙看看吧",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-06-01 22:29",
+          "sender": "程茹洁 Rita Cheng",
+          "content": "@易希倩 Queenie Yi 我研究下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-01 17:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Hi Anushka, Calvin Klein Cross-Selling – how do you know it is AI analyzes browsing behavior?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 17:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala @程茹洁 Rita Cheng 这种AI推荐不知道和我们传统的机器学习有什么区别[看]",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-06-01 17:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun 重新调整了分析方案，可以用这个最新的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 17:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<file key=\"file_v3_00128_a4bea29d-6196-4a03-a176-4d611c87847g\" name=\"退货原因_NLP分析_多标签V4完整版_100万.xlsx\"/>",
+          "msg_type": "file",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 17:18",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<file key=\"file_v3_00128_cca85b3c-be1a-404c-8d9d-e759b06a616g\" name=\"退货原因NLP分析_V4完整版交付包.tar.gz\"/>",
+          "msg_type": "file",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐需求-技术沟通群",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-06-01 19:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-06-01 19:06",
+          "sender": "管可发 Frank Guan",
+          "content": "@易希倩 Queenie Yi  要放量吗 55 ?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-01 23:27",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey - would it be able to read up info from mail as per tracking number or has it be manually fed into a repository?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Iraq Product / Title Issues",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-01 19:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Roqaya Qusay @闫昕 Jermmy Yan 闫老师看看呢",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN 1 rupee 活动",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-01 17:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孔斐凡 Feifan Kong @张佳宜 Jiayi Zhang @罗军 Beiyan Luo @周美 Jane Zhou @王越诗 Kice Wang \n3天1卢比活动期间，累计562笔订单因我方缺货原因取消，为保障用户体验，已完成全部订单按1元商品原价进行钱包余额赔付的操作，累计赔付金额351980卢比（约合3697美金）",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 11 个会话，299 条消息"
+}

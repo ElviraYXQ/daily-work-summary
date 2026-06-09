@@ -1,0 +1,623 @@
+{
+  "total_count": 322,
+  "total_chats": 16,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 239,
+      "messages": [
+        {
+          "time": "2026-04-19 16:20",
+          "sender": "未知",
+          "content": "<card title=\"🆕 工单创建通知\">\n工单中心 · 工单中心 · #6974101451\n[6974101451](https://project.feishu.cn/buyer-cs/story/detail/6974101451) 创建成功\n**创建人**: @ou_b4d7e1688820cd73028c2042cbd786ac\n**负责人**: @ou_8e5ae10c82b5b",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-19 19:52",
+          "sender": "Ghasaq Hamid",
+          "content": "Hello dear, hope you’re doing well\nI noticed that we’ve been messaging members who aren’t participating in the group, What do you think about trying to call them directly instead of texting? They migh",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-18 23:00",
+          "sender": "未知",
+          "content": "<card title=\"程茹洁 Rita Cheng提交的 “企业自建应用发布申请” 待你审批\">\n**申请人**\n@ou_abe363be2ec2e27e8aca25ddb7a33f26 E-Commerce\n**审批事由**\n应用名称: 飞书 CLI\n应用描述: \n应用创建来源: 开发者后台\n---\n[同意] [拒绝](https://applink.larkenterprise.com/c",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-19 10:49",
+          "sender": "未知",
+          "content": "<card title=\"⏰ 每日待办提醒：“企业自建应用发布申请” 待处理\">\n**申请人**\n@ou_abe363be2ec2e27e8aca25ddb7a33f26 E-Commerce\n**审批事由**\n应用名称: 飞书 CLI\n应用描述: \n应用创建来源: 开发者后台\n---\n📝 效率低于同部门 99% 审批人\n[同意] [拒绝](https://applink.larkenterpri",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-19 09:01",
+          "sender": "未知",
+          "content": "📰 **每日市场新闻速递 - 2026-04-19**\n\n🇮🇳 **印度市场**\n\n1. 一位德国游客分享了他在印度进行数字支付的经历后，在网上引起了关注。在 Instagram 上发布的视频中，他描述了......\n   🔗 [German man amazed by India's QR code payments, says no cash, no card needed](https://",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-18 17:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<video key=\"file_v3_0010s_accaa03e-e7d7-4932-8cf5-32b47eb86bcg\" name=\"694769936.mov\" duration=\"13s\" cover_image_key=\"img_v3_0210s_4edb2600-590a-40a0-89be-6cc4a548187g\"/>",
+          "msg_type": "media",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-18 17:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<video key=\"file_v3_0010s_e9069944-6d47-4c48-96a0-156cef2b87cg\" name=\"2020846996.mov\" duration=\"30s\" cover_image_key=\"img_v3_0210s_dec4f8d7-ffda-498e-84d6-e8063e7b022g\"/>",
+          "msg_type": "media",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-18 09:01",
+          "sender": "未知",
+          "content": "📰 **每日市场新闻速递 - 2026-04-18**\n\n🇮🇳 **印度市场**\n\n1. 2020 年至 2025 年间，印度电子商务市场的复合年增长率为 23%，是全球最快的。到 2025 年，30% 的印度人会在网上购物，...\n   🔗 [Inside India newsletter: Small towns are powering e-commerce's fastest-growin",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 21:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "北总，本周周报请查收https://mayfairtech.larkenterprise.com/docx/Gv1bdHcwUoxVXoxL82oc3FbqniW",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 22:01",
+          "sender": "罗军 Beiyan Luo",
+          "content": "好的",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 21,
+      "messages": [
+        {
+          "time": "2026-04-17 22:23",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi kindly add current status like active / inactive and last login of CRM users for Financial year 25-26 (Apr'25 to Mar'26) along with report name.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 21:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj CC @徐慧君 David Xu",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 21:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<file key=\"file_v3_0010r_b0b74f29-f04a-4622-ab1c-542f18ad0c0g\" name=\"crm.xlsx\"/>",
+          "msg_type": "file",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 20:55",
+          "sender": "Ankit Gupta",
+          "content": "@易希倩 Queenie Yi Ishita is mentioning a different thing. There is something change in the backend due to which the bot resolution % has been dropped. It means that the bot is not closing the cases from",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 21:04",
+          "sender": "Upender Bajaj",
+          "content": "@易希倩 Queenie Yi yes",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 21:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj It is all employee list, please check @Upender Bajaj",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 20:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ishita Singh @Ankit Gupta",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 20:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu Hi David, @Upender Bajaj 由于审计，需要所有有CRM权限的人员名单，我想让他在4A中看，但是他没有查询权限，你看看能不能给他查询权限，或者帮他导出一下全量有CRM权限的人员名单",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 20:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Merged forward: fetch failed: empty data]",
+          "msg_type": "merge_forward",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 20:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj do you need Indian employee's name list only?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Instant Refund Project - Supply Chain",
+      "type": "group",
+      "count": 20,
+      "messages": [
+        {
+          "time": "2026-04-17 17:05",
+          "sender": "Shivani Verma",
+          "content": "@陈振华 Anzhong Chen @易希倩 Queenie Yi Both the points discussed today are also updated to business side:\n[Image: img_v3_0210r_50227708-6a38-42fc-bfe9-3efc56740cdg]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 15:38",
+          "sender": "未知",
+          "content": "<p>@易希倩 Queenie Yi We excluded the auto closure options this time so there was no need for force majeure. The whole flow for NSZ closure is now manual and can only be acted upon by LM business side.</",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 15:29",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Then below scenarios:\n1. Unverified Cancellations\n2. Verified reschedules\n3. CRM/customer address changes\n4. CRM rescheduled pickups\nWe will exclude Reschedule triggered by LM team due",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 14:38",
+          "sender": "陈振华 Anzhong Chen",
+          "content": "@Shivani Verma that's what I expected, @易希倩 Queenie Yi please confirm too",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 15:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>@陈振华 Anzhong Chen Verified Cancellations is excluded I think, because if VC, the reverse order will be closed.</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 15:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma yes, and are there any force majeure needed to exclude?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 14:01",
+          "sender": "陈振华 Anzhong Chen",
+          "content": "@易希倩 Queenie Yi 4 指的是物流商 UC 节点",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 14:02",
+          "sender": "陈振华 Anzhong Chen",
+          "content": "@易希倩 Queenie Yi 未验证取消",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 14:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@陈振华 Anzhong Chen 是需要的，是不是直接供应链这边定义超时？",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 14:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@陈振华 Anzhong Chen 不包含，不然用户可能故意不接电话",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Iraq Product / Title Issues",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-18 00:17",
+          "sender": "Zheen Yousif",
+          "content": "@易希倩 Queenie Yi oh i see now, i reported because it happened live in front of me while the user was trying to order later on i did tell her where to find all categories, i thought there may be users s",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 21:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li @Zheen Yousif You can enter Category tab to see all categories, here because you have selected Bottoms, so it will only show relevant content",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 21:27",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi i think @Zheen Yousif means the customer wants to see all categories",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 21:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li It is right Jennifer, I checked we did have 4 categories on Bottoms",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 21:25",
+          "sender": "Jennifer Li",
+          "content": "@Zheen Yousif @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 21:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210r_96a6466c-ef6c-482f-af74-68e8d56889eg]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 10:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@San Kamaran @Jennifer Li We have made this comment not visible to users",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-04-17 20:08",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi You can take up Anubhav's query.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 20:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal Complains for what? We just don't show the Early Refund button to them, but still send WA inquiry to ask if they want to return",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 20:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal We don't tell users they must get Early Refund after pending pickup 4 days, so we can just tell them our engine will determine based on real-time data",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 18:53",
+          "sender": "Shivani Verma",
+          "content": "@Ashutosh X is configured on the app side and I think it's the same for all.\n@易希倩 Queenie Yi Can you answer in more detail please.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 16:47",
+          "sender": "Shivani Verma",
+          "content": "@王越诗 Kice Wang @Ashutosh @Anubhav Agrawal In the following cases, if after X days pickup is not done, the early refund button will not be shown to the customer as they took some action that supports n",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 16:58",
+          "sender": "Shivani Verma",
+          "content": "<p>@Anubhav Agrawal Also if customer changes address or any reschedule request comes from CRM we will do the allocation immediately and not wait for it to go through combining logic as that might resu",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-19 20:25",
+          "sender": "San Kamaran",
+          "content": "@易希倩 Queenie Yi A similar case that shouldn't have been assigned to a human, the customer simply replied \"thanks\" which should have prompted the AI to send the closure instead \n[Image: img_v3_0210t_63",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 20:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@San Kamaran Maybe because we are revising our model then, it is just an exception, please keep an eye on this",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 17:56",
+          "sender": "未知",
+          "content": "Good afternoon@易希倩 Queenie Yi regarding the AI, I still see cases regarding delivery fees being transfered to human agents when the AI already has the ready data to handel this query by itself, what i",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 13:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ahmed Gyath \n[Image: img_v3_0210r_9a7fefc7-1eaa-4397-9318-c7ad62a70cbg]\nChecked, because you guys are busy or offline, so it triggered automatic re-assign logic. When agents are handling chats, we th",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 05:14",
+          "sender": "Ahmed Gyath",
+          "content": "[Image: img_v3_0210r_5d7e79dd-6f40-4fa9-9291-3f4f46c23eag]\n[https://aichat.urbanic-cs.com/app/accounts/1/conversations/4233391](https://aichat.urbanic-cs.com/app/accounts/1/conversations/4233391) @易希倩",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "易希倩 Queenie Yi, 肖帝鸿 Hardy Xiao, 闫昕 Jermmy Yan",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-17 22:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的👌",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 22:22",
+          "sender": "肖帝鸿 Hardy Xiao",
+          "content": "对客展示的要等Jennifer确认，其他action已经完成@易希倩 Queenie Yi @闫昕 Jermmy Yan 套装的就没单独配置了，套装的逻辑就是上衣+裤子，上衣+裙子,组合的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 19:51",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@肖帝鸿 Hardy Xiao Hardy，你这部分确认了说一下哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 14:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@肖帝鸿 Hardy Xiao 发这里吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 15:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "1. 【P0】新增尺寸数据：如下问题确认后\n- @肖帝鸿 Hardy Xiao 确认尺寸关联到三级还是四级\n- @肖帝鸿 Hardy Xiao 标记尺寸部分的必填和非必填\n- @肖帝鸿 Hardy Xiao 哪些需要对客展示\n2. 商品分类需要关联到公司已有的类目（三级或四级）@肖帝鸿 Hardy Xiao \n3. 【P1】直接在同一份表格里维护公差数据@肖帝鸿 Hardy Xiao \n4. 后续",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-17 19:51",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang 这一句整个删掉吧 都不要了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 19:11",
+          "sender": "杨林 Sennia Yang",
+          "content": "感觉可以收口到客服吧 @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 15:58",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 用户维度的失信标，洗白条件是不是看某个时间范围内的售后单都无标了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 15:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 历史累计",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 10:04",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "[Image: img_v3_0210r_3ded8fc7-d50a-4372-b9ff-323e88e139eg]\n审核驳回，复用新的样式吧@李叶飞 Yefei Li @杨林 Sennia Yang @易希倩 Queenie Yi",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-18 12:13",
+          "sender": "肖帝鸿 Hardy Xiao",
+          "content": "[Image: img_v3_0210s_a26ede18-6e82-4f57-9a87-d21ff311839g]\naction:对应发现了4个品不符合审版要求后的处理方式：同样类似问题的处理标准需要输出\n问题：\n在稽查环节发现质检通过的货品还存在严重质量问题，稽查6件，有2件面严重透，2件做工严重瑕疵且其中1款腰围尺寸偏大6CM，2件OK，（4件不合格中有三件是一个商家的（4KB-乐趣），且质",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 22:41",
+          "sender": "肖帝鸿 Hardy Xiao",
+          "content": "@谢鹏 Reason Xie @罗军 Beiyan Luo 我这边几个action进展同步如下\n1、0417:Hardy上午继续带教，下午所有人独立实操，测试实际人效：完成\n2、Hardy需要给出家居、毛织和情趣内衣的具体细分品类和公差调整后的值：完成提交给@易希倩 Queenie Yi\n3、台模生锈、地板脏污问题需要解决 ，生锈部位已经用胶带封住，底板上垫干净的纸箱，可以买几块地垫会好一点@林妙",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 21:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@谢鹏 Reason Xie @罗军 Beiyan Luo @Jennifer Li 我这边几个action进展同步如下：\n- 品控-质检环节新增部位尺码数据、更正目前部分品类公差数据：和Hardy沟通后明确为同一需求，待Hardy今日明确规则后，周二前完成产品方案，并同步评估上线时间\n- 明星商品尺码数据总结：经过对明星商品和差品聚类分析，发现其在尺码、重量、面料上并无有规律区分度[https:",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-17 17:36",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi 好像是这个",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 17:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的 我问问",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 17:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "哪个 极速退吗",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-17 19:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210r_6956aff3-8244-46f2-b0b2-0b38cf123f9g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-17 19:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Hi Anushka, any videos for this product?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "3月Top4项目",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-17 17:36",
+          "sender": "姚继涛 Wuchong Yao",
+          "content": "@易希倩 Queenie Yi 有个风险",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-17 17:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "抱歉前一个会还没有结束，极速退目前暂无风险，C端测试中，供应链开发中",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "0429-中东客退our responsibility问题",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-19 19:01",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey - RET development - we need to speed it up \nwhy- \n1. users are abusing on the RET by changing tags - driver can't verify the product as no image we have passed here \n2. plus post t",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-17 21:48",
+          "sender": "薛驰 Chi Xue",
+          "content": "印度大促前最好把dto体现出来，五月最后一周 @孔斐凡 Feifan Kong @罗军 Beiyan Luo @易希倩 Queenie Yi @周美 Jane Zhou @张佳宜 Jiayi Zhang",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "RTO Reduction Project",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-17 18:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "降RTO专项优先可计划事项：\n1. WA本地仓出库前确认\n2. COD支付：增加二次确认弹窗，询问是否转在线支付（强调优点）\n  - 在线支付加码-加券\n3. 接入BNPL（财务再确认一下费率）\n4. 高退用户加退货费，高RTO禁COD\n5. 尺码推荐优化（在臻品计划项目中同步考虑）\n6. 退货挽留（在臻品计划项目中同步考虑）",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退Instant Refund沟通群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-17 17:02",
+          "sender": "王越诗 Kice Wang",
+          "content": "@盛伟松 Sam Sheng cc@易希倩 Queenie Yi @孟敏敏 Yitong Meng @王叠 Die Wang \n风控结果已人工review，3079条记录中，核查后有248（8.1%）条不符合预期，提出的优化方向结论大致如下，细节已在表格不符合预期原因中描述：\n\n1. 冷启动前置成硬规则：近90天签收<3或发货<3，只能说晚明退货率/拒签率样本不足，不能继续给R1；近90天0发货且",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 16 个会话，322 条消息"
+}

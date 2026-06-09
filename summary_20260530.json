@@ -1,0 +1,154 @@
+{
+  "total_count": 107,
+  "total_chats": 4,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 100,
+      "messages": [
+        {
+          "time": "2026-05-29 23:13",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-29 22:07 ~ 23:07（北京时间）\n​\n总计：2450 条会话 | 有效文字：2337 条（95.4%）\n🔴 大促特有问题：589 条（24.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 |",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-29 22:00",
+          "sender": "马文相 Moda Ma",
+          "content": "改好了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-29 22:13",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-29 21:07 ~ 22:07（北京时间）\n​\n总计：2769 条会话 | 有效文字：2622 条（94.7%）\n🔴 大促特有问题：632 条（22.8%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 |",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-29 21:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-05-29T21:57:25+08:00] 薛驰 Chi Xue:\n    [Image: img_v3_02125_2b6ef346-ac79-4f54-b784-b53c7ef6f01g]\n[2026-05-29T21:57:29+08:00] 薛驰 Chi Xue:\n    絮絮去掉\n[2026-05-29T21:57:33+08:00]",
+          "msg_type": "merge_forward",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-29 21:59",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "[Image: img_v3_02125_a07958c0-cf52-4c0f-b46a-12b5971cfa8g]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-29 22:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好嘞",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-29 22:00",
+          "sender": "马文相 Moda Ma",
+          "content": "[Image: img_v3_02125_b2bcac4b-57b1-4407-8c56-016c24496ceg]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-29 21:56",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "[Image: img_v3_02125_e0a7c5ee-c9c9-4b70-a5cf-144bd815a20g]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-29 21:42",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "[Image: img_v3_02125_10ac1507-d3a6-43a0-8f6b-ba8da3e5b46g]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-29 21:42",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "[Image: img_v3_02125_19285960-6ad3-47dc-9a10-4dc26409d59g]",
+          "msg_type": "image",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "make 1 rupee great again",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-29 21:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好滴",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-29 22:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue \n[Image: img_v3_02125_4596471d-e45d-4349-b052-655063a9d11g]\n更新了哈",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-29 21:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue @邓秋霖 Eddie Deng @孔斐凡 Feifan Kong @罗军 Beiyan Luo 辛苦看下APP内引导打开push效果图和注册页banner哈\n[Image: img_v3_02125_b3cf2e57-d7ff-40d3-adee-1b5a4404735g]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-29 21:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 对的，图片都是品牌字体，APP的字体目前还是旧的，需要后续发版统一更换",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-29 21:48",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi 字体对不对的",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-29 21:39",
+          "sender": "Sheetal Jasoriya",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Savana/Urbanic Core",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-29 19:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Rahul Dayama we are back, you can try",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 4 个会话，107 条消息"
+}

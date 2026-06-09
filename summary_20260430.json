@@ -1,0 +1,161 @@
+{
+  "total_count": 93,
+  "total_chats": 3,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 84,
+      "messages": [
+        {
+          "time": "2026-04-29 18:57",
+          "sender": "王越诗 Kice Wang",
+          "content": "我们盘完让印度人硬抗，然后知识库那块可以叫我一起尽可能填充细一点",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-29 18:57",
+          "sender": "王越诗 Kice Wang",
+          "content": "策略不做了哦queenie",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-29 19:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-29 19:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "业务确认了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-29 19:06",
+          "sender": "未知",
+          "content": "<card title=\"Ankita Kalra提交的 “BI仪表盘申请” 待你审批\">\n**加签理由**\n评估一下是否给印度同事开\n---\n**申请人**\n@ou_dc3a44af8b287bb453842179c4acfee6 Compliance\n**审批事由**\n仪表盘名称: 【C端】退款-IN极速退款(id:38183)\n权限类型: 查看\n仪表盘链接: http://data.mayf",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-29 19:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-04-29T18:57:24+08:00] 王越诗 Kice Wang:\n    策略不做了哦queenie\n</forwarded_messages>",
+          "msg_type": "merge_forward",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-29 19:05",
+          "sender": "马文相 Moda Ma",
+          "content": "那么怎么处理周年庆的客服问题",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-29 19:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "周年庆的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-29 23:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "知识库就行",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-29 19:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>客服策略不做了</p>",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-04-29 23:12",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi LM wants to validate QC failure does not trigger any refunds and results in closure of done within time",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-29 23:15",
+          "sender": "Shivani Verma",
+          "content": "@Ankit Gupta @易希倩 Queenie Yi can you please help to check refund part?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-29 19:46",
+          "sender": "Palak Rathi",
+          "content": "@易希倩 Queenie Yi @王叠 Die Wang Could you please increase the search limit? The current limit of 2,000 is making it difficult for us to manage the data.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-29 16:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Mohit Choudhary @曹津 Jin Cao 帮看看这个用户白名单是不是没加",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-29 16:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma Hi Shivani, Which case does @Mohit Choudhary need to test?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-29 16:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 加一下呢 老板[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-29 16:05",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 我的结论（直接给你判断）：没加",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-29 16:01",
+          "sender": "未知",
+          "content": "@Shivani Verma @易希倩 Queenie Yi _ Please confirm",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Vastvika Solanki, David Xu, Queenie Yi, Moda Ma and 7 more",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-29 15:09",
+          "sender": "徐慧君 David Xu",
+          "content": "@Ria Dutta @王叠 Die Wang @易希倩 Queenie Yi can you help to assign the role? I am not sure which role should be used",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 3 个会话，93 条消息"
+}

@@ -37,8 +37,8 @@ jobs:
     - name: Run industry news script
       env:
         SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
-        ANTHROPIC_AUTH_TOKEN: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
-        LARK_USER_ID: ou_cc38ac881bcf17d997f0cad7d9a9a621
+        CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+        LARK_USER_ID: ${{ secrets.LARK_USER_ID }}
       run: |
         python3 collect_industry_news_v2.py
 

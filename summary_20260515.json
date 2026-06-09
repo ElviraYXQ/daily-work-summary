@@ -1,0 +1,385 @@
+{
+  "total_count": 291,
+  "total_chats": 9,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 252,
+      "messages": [
+        {
+          "time": "2026-05-14 19:57",
+          "sender": "Anushka Kala",
+          "content": "appreciate it",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 20:09",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "[Image: img_v3_0211m_2160b81c-45d8-4c0e-9ca6-844b22b5b34g]\n\n跟她说了，她已经在想做下一期呢",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 19:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "If you encounter any issues, please let me know",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 19:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>Hi, Anushka, I have told Rahul about this</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 19:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-05-14T19:56:04+08:00] 易希倩 Queenie Yi:\n    Hi Rahul, my team member @Anushka Kala will test some competitors' return flow, it will cause some unreturnable fees like platform ",
+          "msg_type": "merge_forward",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 22:12",
+          "sender": "Ashutosh",
+          "content": "hey queenie - that data thing - did you get the chance to pass up?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 20:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "嗯 你可以多想想，最好是方案我们来主导",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 19:57",
+          "sender": "Anushka Kala",
+          "content": "thank you[致敬]",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 20:09",
+          "sender": "Rahul Dayama",
+          "content": "Sure sure",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 19:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Hi Rahul, my team member @Anushka Kala will test some competitors' return flow, it will cause some unreturnable fees like platform fee/convenience fee, I think it will not be too much. So please appro",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 14,
+      "messages": [
+        {
+          "time": "2026-05-14 21:13",
+          "sender": "未知",
+          "content": " @易希倩 Queenie Yi @Shivani Verma Awb no. SF3365769361S Warehouse has interchanged to 31125984493930 but while fetching report from Order info(CRM) getting data for SF3365769361S , hence getting issue i",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 18:25",
+          "sender": "Sheetal Jasoriya",
+          "content": "@易希倩 Queenie Yi by when we will receive the refund dashboard",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 12:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "和杨老师和孙鹏都确认了一下，STD订单本地仓发出后才不可以取消",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 12:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "支付到本地仓发货的时间在哪看呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 12:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "确认一下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 11:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "这又是啥",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 12:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "这个去年合单的时候就看过的，对取消率是有影响的\n[Image: img_v3_0211m_2d6ab30e-1319-4193-b447-ae75c6f92cag]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 12:55",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi https://www.loom.com/share/9bfffad82bdf4407b2294e1a780ed358",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 12:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>稍等 我看下，但是一般本地仓发出后到OFD时效不会变化很大</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 11:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>那和取消的关系是？</p>",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐需求-技术沟通群",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-05-14 16:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@桂良伟 Liangwei Gui Size Guide 不是sizing哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 16:56",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "<p>@易希倩 Queenie Yi 好的[捂脸]，已改</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 16:48",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "@易希倩 Queenie Yi 补了，上滑tab 依然吸顶\n[Image: img_v3_0211m_f374aebe-804a-40bf-9c04-8f4a84efc05g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 15:56",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 切换tab的样式没有吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 15:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li @桂良伟 Liangwei Gui 良伟还有个切换TAB的样式辛苦也加下\n[Image: img_v3_0211m_a04e97ad-c14f-40c2-b02b-b6025d91ec7g]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 14:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/sheets/Z5hNsguj7hA2Slt6hFpcqbFDnqc@管可发 Frank Guan 商品样本数据",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 15:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li @陈嘉义 Jiayi Chen @詹文豹 Eric Zhan 视觉稿都改好了哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-14 15:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal We record such flag in their previous reverse orders only now \n[Image: img_v3_0211m_9ba20b8d-1129-4cf1-ab65-9c4e382c44cg]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 15:43",
+          "sender": "Anubhav Agrawal",
+          "content": "@易希倩 Queenie Yi We should give some flag at account level as well so that even CS agents and everyone knows this. And we should be able to download this data for decision making if any. If you get the",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 15:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal OK, we can consider this point in the next project iteration",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 15:38",
+          "sender": "未知",
+          "content": "do we have a flag on CRM to see if this customer had enjoyed the benefit but now we are not extending the benefit? @易希倩 Queenie Yi @Shivani Verma  We need this flag to avoid giving manual refunds from",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 15:39",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi You can check this on Supply chain side we are only showing refund type as a datapoint but we do not control anything.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-14 22:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 做了近一年退货数据分析（92万条，18万有效腰围数据），主要结论：\n1. 偏大反馈拆解为三类原因\n- 尺码覆盖不足（3.5%）：腰围<63cm用户需XXS但只有XS，1,386人反馈偏大\n- 选码行为问题（17.8%）：有合适码但选错，6,999人反馈偏大\n- 选码合理仍偏大（78.7%）：选了理论上合理的码仍反馈偏大，31,042人\n\n2. 验证\"选码合理仍偏大\"是否系",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 23:10",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi @肖帝鸿 Hardy Xiao 看一下",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 19:39",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 这个有结论了吗/",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 19:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 在整理 稍等",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN-降 RTO",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-14 19:47",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "预估排期：\n@宋国兵 Colin Song 5月25日出组件化协议\n@宋国兵 Colin Song@刘凯 Kai Liu @李叶飞 Yefei Li  @徐基跃 Star Xu 5月26~29日，开发联调\n@杨林 Sennia Yang 6.1-6.2日测试+验收，6.月 4 号上线\ncc@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 19:29",
+          "sender": "宋国兵 Colin Song",
+          "content": "@桂良伟 Liangwei Gui @易希倩 Queenie Yi 这里，如果提单率下跌，我们技术上是没法精细化控制实验的，只能关掉实验",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 13:43",
+          "sender": "徐基跃 Star Xu",
+          "content": "<p>@桂良伟 Liangwei Gui @宋国兵 Colin Song 麻烦按沟通的调整下这个弹窗</p><p>预估排期：</p><p>@宋国兵 Colin Song 5月25日出组件化协议</p><p>@宋国兵 Colin Song@刘凯 Kai Liu @李叶飞 Yefei Li  @徐基跃 Star Xu 5月26~29日，开发联调</p><p>@杨林 Sennia Yang 测试有时间投",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "RTO Reduction Project",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-14 17:55",
+          "sender": "周美 Jane Zhou",
+          "content": "@易希倩 Queenie Yi @Ashutosh amazing\n[Image: img_v3_0211m_9f3a28ff-7b05-4905-bada-25806a7fd94g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-14 14:05",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh @桂良伟 Liangwei Gui 可以关注下这部分竞对数据和功能演示哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 09:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh Cool, its impact is very clear. Do you have any screenshots of how it works?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "DTO&质量当前现状碰一下",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-14 10:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@周美 Jane Zhou 11月拐点我by类目看了一下，这几个GMV占比较高的类目在11月退货率有提升\n[Image: img_v3_0211m_1be5c763-386a-4060-8d67-a3f378cb9d1g]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-14 10:38",
+          "sender": "周美 Jane Zhou",
+          "content": "@易希倩 Queenie Yi 看上去是冬季品类",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "取件/退款相关舆情监控",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-14 11:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Sticker]",
+          "msg_type": "sticker",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 9 个会话，291 条消息"
+}

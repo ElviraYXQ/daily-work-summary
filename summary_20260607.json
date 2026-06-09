@@ -1,0 +1,112 @@
+{
+  "total_count": 20,
+  "total_chats": 3,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 18,
+      "messages": [
+        {
+          "time": "2026-06-06 23:14",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 22:07 ~ 23:07（北京时间）\n总计：1675 条会话 | 有效文字：1611 条（96.2%）\n🔴 大促特有问题：105 条（6.3%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | 528 |",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 22:16",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 21:07 ~ 22:07（北京时间）\n总计：2320 条会话 | 有效文字：2254 条（97.2%）\n🔴 大促特有问题：211 条（9.1%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | 769 |",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 21:19",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 20:07 ~ 21:07（北京时间）\n总计：3150 条会话 | 有效文字：3053 条（96.9%）\n🔴 大促特有问题：300 条（9.5%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | 919 |",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 20:24",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 19:07 ~ 20:07（北京时间）\n总计：4000 条会话 | 有效文字：3900 条（97.5%）\n🔴 大促特有问题：439 条（11.0%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | 1316",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 18:16",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 17:07 ~ 18:07（北京时间）\n总计：1547 条会话 | 有效文字：1468 条（94.9%）\n🔴 大促特有问题：56 条（3.6%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 591 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 19:15",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 18:07 ~ 19:07（北京时间）\n总计：1420 条会话 | 有效文字：1342 条（94.5%）\n🔴 大促特有问题：65 条（4.6%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 523 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 17:08",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 16:07 ~ 17:07（北京时间）\n总计：1570 条会话 | 有效文字：1500 条（95.5%）\n🔴 大促特有问题：0 条（0.0%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 1500 | 95.5",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 15:14",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 14:07 ~ 15:07（北京时间）\n总计：1675 条会话 | 有效文字：1575 条（94.0%）\n🔴 大促特有问题：95 条（5.7%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 订单状态查询 | 541 | ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 16:13",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：06-06 15:07 ~ 16:07（北京时间）\n总计：1593 条会话 | 有效文字：1513 条（95.0%）\n🔴 大促特有问题：65 条（4.1%）\n\n---\n\n📋 问题类型分布 Top 10\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 退款/退货 | 584 | 3",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-06-06 12:58",
+          "sender": "未知",
+          "content": "## 🌐 Savana 业内动态 | 06月06日\n\n### 📰 动态详情\n\n**🇮🇳 印度市场**\n\n\n**🇮🇶 伊拉克市场**\n\n\n**🌍 全球/中东趋势**\n\n\n---\n*⚠️ AI 概览生成失败，仅展示原始搜索结果*",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-06 14:43",
+          "sender": "Anjali Thakur",
+          "content": "Hey @易希倩 Queenie Yi \nThere are multiple tickets where responses are not being delivered through Facebook DMs by either the bot or agents. Kindly assist .\n\nSample tickets :\nhttps://aichat-in.urbanic-cs",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Delivery fees threshold correction- IN",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-06-06 10:47",
+          "sender": "Sakshi Bansal",
+          "content": "@易希倩 Queenie Yi we need to exclude the standalone or bundled coupons of \"Free Shipping\" from the calculation",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 3 个会话，20 条消息"
+}

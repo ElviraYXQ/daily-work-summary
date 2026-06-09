@@ -1,0 +1,378 @@
+{
+  "total_count": 335,
+  "total_chats": 10,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 302,
+      "messages": [
+        {
+          "time": "2026-05-25 20:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "是哪个站点的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 20:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "啊 印度的没有寄回吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 23:07",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-25 22:07 ~ 23:07（北京时间）\n​\n总计：1150 条会话 | 有效文字：1076 条（93.6%）\n🔴 大促特有问题：0 条（0.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 1076 ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 21:07",
+          "sender": "未知",
+          "content": "📊 客服进线小时报告\n🕐 统计时段：05-25 20:07 ~ 21:07（北京时间）\n​\n总计：1232 条会话 | 有效文字：1041 条（84.5%）\n🔴 大促特有问题：0 条（0.0%）\n​\n\n---\n\n📋 问题类型分布 Top 10\n​\n| # | 类型 | 数量 | 占比 | 大促特有 |\n| --- | --- | --- | --- | --- |\n| 1 | 其他 | 1041 ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 20:48",
+          "sender": "肖帝鸿 Hardy Xiao",
+          "content": "就是十几件无法二次销售的，烂的、脏的。是IQ那边的，他们理解错了。\n\n新的那些退货的要下周或者下下周才能到",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 21:35",
+          "sender": "孔斐凡 Feifan Kong",
+          "content": "数字先拿掉吧",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 20:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "没有印度的吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 20:49",
+          "sender": "肖帝鸿 Hardy Xiao",
+          "content": "没有",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 21:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好的 明天一早我们处理下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 21:34",
+          "sender": "孔斐凡 Feifan Kong",
+          "content": "群里说的那个",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-05-25 20:52",
+          "sender": "闫昕 Jermmy Yan",
+          "content": "@易希倩 Queenie Yi 感觉就重点讲那个加权评分吧",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 20:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@闫昕 Jermmy Yan @胡伊涵 Aria Hu @孙鹏 Peng Sun https://mayfairtech.larkenterprise.com/docx/MUIddao3ao2f6TxSDGCciUIZnfB明天周会进度内容，大家看下有啥补充不",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 12:21",
+          "sender": "闫昕 Jermmy Yan",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 11:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "后续好像计划加来着",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 11:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "是 好像还是那两件",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 11:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@闫昕 Jermmy Yan 闫老师 你这边进度发我一下[不看]急",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 11:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "原来没有",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 11:51",
+          "sender": "闫昕 Jermmy Yan",
+          "content": "@易希倩 Queenie Yi 我要投屏了，我让尚健总结下",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐需求-技术沟通群",
+      "type": "group",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-05-25 19:30",
+          "sender": "管可发 Frank Guan",
+          "content": "[Image: img_v3_02121_637ba82f-e258-402d-b704-7d8e5fdaf33g]\n @易希倩 Queenie Yi 这样哈",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 18:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@管可发 Frank Guan 聚合数据展示看一下呢：\n1. 不展示中位数\n2. 同时身高、体重上下限范围均作平滑处理，即保证后一码最小/最大的身高/体重值均大于上一码对应值，如果不是，需平滑处理到与上一码值相同。举个例子：S码身高150-155，体重40-45；M码身高147-158，体重42-44。发现M码身高最小值147小于S码150，则平滑处理为150；同理体重最大值小于S码，则平滑处理为",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 17:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@管可发 Frank Guan 不是实验商品那对照组和实验组都是一样的，还是展示老的推荐规则",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 17:41",
+          "sender": "管可发 Frank Guan",
+          "content": "@易希倩 Queenie Yi 是的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 17:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@翟雪洋 Haishi Zhai 没有推荐数据是啥意思 是说不是实验商品吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 17:47",
+          "sender": "翟雪洋 Haishi Zhai",
+          "content": "@易希倩 Queenie Yi 对",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 16:58",
+          "sender": "翟雪洋 Haishi Zhai",
+          "content": "@易希倩 Queenie Yi 实验组对于没有推荐数据的商品，推荐样式会和对照组是一致的（还是老的表达），这个逻辑是你预期的吗\n[Image: img_v3_02121_b84e9026-0fe1-44c7-94e8-18c90d00b22g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 16:17",
+          "sender": "管可发 Frank Guan",
+          "content": "@易希倩 Queenie Yi 要不你维护吧 我这直接用你这个了",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-25 21:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_02121_bcfe1632-eb1b-48d3-b148-8038c992f73g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 21:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@桂良伟 Liangwei Gui @滕苗 Mia Teng 因为合规问题，抽免单相关数字都需要去掉，明天上午帮处理下哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 15:05",
+          "sender": "Anushka Kala",
+          "content": "<p>@易希倩 Queenie Yi hi, here's the data summary: </p><p>https://mayfairtech.larkenterprise.com/wiki/U29fwBsa8iVUTmkeEDlcJH55nSb?from=from_copylink</p><p>Push performance: </p><p>Delivery rate: 50% of s",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 12:32",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi hi yes, sending it in a couple of hours",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 10:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Hi Anushka, please share the data about this notification, thank you",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "奇怪的数据",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-25 20:46",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 和诗思沟通了，等feifan明天上午来沟通决策下哈，local那边OK",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 20:08",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi 你找@闻诗思 Lyra Wen 讨论下，feifan生病请假了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 19:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孔斐凡 Feifan Kong feifan辛苦看下，local法务反馈目前抽免单虚假的数字有合规风险，面临100万卢比或2年监禁处罚风险",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 19:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-05-25T18:55:24+08:00] Sakshi Bansal:\n    Hi Queenie\n[2026-05-25T18:55:27+08:00] Sakshi Bansal:\n    another issue\n[2026-05-25T18:55:46+08:00] Sakshi Bansal:\n    [Image: img_v",
+          "msg_type": "merge_forward",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-25 19:49",
+          "sender": "Upender Bajaj",
+          "content": "@王叠 Die Wang @易希倩 Queenie Yi Why we are getting such gaps now? data accuracy is a priority for the finance team..\n\n@Sheetal Jasoriya fyi..",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 17:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anjali Thakur @邹家辉 Jiahui Zou",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-25 15:48",
+          "sender": "Anjali Thakur",
+          "content": "Hey @易希倩 Queenie Yi \n\nThere are multiple Google Play Store and App Store cases that have been pending for more than 24 hours and are still not assigned to the agents.\n\n[Image: img_v3_02121_e0ca6344-af",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "CRM System Technical Support",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-25 18:45",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi @王叠 Die Wang Please check again we are facing the same issue.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-25 10:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ishita Singh @王叠 Die Wang 辛苦看下，好像还是之前那个问题：订单列表状态未更新",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-25 16:00",
+          "sender": "杨丽波 Betty Yang",
+          "content": "Hey @易希倩 Queenie Yi \n\nThere are multiple Google Play Store and App Store cases that have been pending for more than 24 hours and are still not assigned to the agents.\n\n[Image: img_v3_02121_d83993cb-72",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Return On Delivery Project Discussion Group",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-25 14:24",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi The flows will ZMC will be finalised by next week as this week the ZMC IT team cannot proceed with any discussions due to holidays. So, the next call will be kept on 2nd June. But I wi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-25 09:29",
+          "sender": "宋国兵 Colin Song",
+          "content": "@Ashutosh it needs backend integration, you'd better talk with @易希倩 Queenie Yi first",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 10 个会话，335 条消息"
+}

@@ -1,0 +1,70 @@
+{
+  "total_count": 6,
+  "total_chats": 3,
+  "chat_stats": [
+    {
+      "name": "Ria Dutta, 易希倩 Queenie Yi, 王俊 June Wang, Sheetal Jasoriya等11人",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-01 18:56",
+          "sender": "马文相 Moda Ma",
+          "content": "@易希倩 Queenie Yi 我先手动延长了这些优惠券有效期，五一后帮客服同事看下怎么维护这些优惠券",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-01 19:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma 好的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-01 15:17",
+          "sender": "Ria Dutta",
+          "content": "@易希倩 Queenie Yi @李燕 Lareina Li Please activate the coupon management TAB in my profile and also let me know how can I created a limited role for Agents to be able to generate the coupons for customers",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-01 18:37",
+          "sender": "Ghasaq Hamid",
+          "content": "<p>https://mayfairtech.larkenterprise.com/wiki/SNfcwnl1iiCCBMk3QKDcRrojn6b?from=auth_notice&hash=34b137aa90fc3e32c02d75e3807677eb</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-01 18:40",
+          "sender": "Ghasaq Hamid",
+          "content": "Hello dear, How is everything? Here's the weekly report including the results of the sizing survey.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-01 21:22",
+          "sender": "王叠 Die Wang",
+          "content": "@胡浩 Merlin Hu 不知道该找谁 @易希倩 Queenie Yi 你知道该联系谁么，只要在CRM上shipping address那里编辑一下，把<Optional>改掉就行，改成(Optional)之类的。需要找个有隐私数据访问权限的人。",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 3 个会话，6 条消息"
+}

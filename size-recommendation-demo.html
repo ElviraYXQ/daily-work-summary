@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Savana Size Recommendation Interactive Demo</title>
+  <style>
+    :root {
+      --bg: #f5f5f5;
+      --card: #ffffff;
+      --text: #111111;
+      --muted: #6f6f6f;
+      --line: #e8e8e8;
+      --soft: #fff7e8;
+      --green: #3d8b5b;
+      --orange: #e39a45;
+      --pink: #d76b7d;
+      --shadow: 0 14px 32px rgba(0, 0, 0, 0.08);
+      --phone-shadow: 0 26px 56px rgba(0, 0, 0, 0.14);
+      --radius: 28px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .page {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 32px 20px 56px;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 30px;
+      line-height: 1.2;
+    }
+
+    .intro {
+      max-width: 980px;
+      margin: 0 0 18px;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.75;
+    }
+
+    .top-note {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fff;
+      color: #444;
+      font-size: 12px;
+      margin-bottom: 26px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+      gap: 24px;
+      align-items: start;
+    }
+
+    .demo-card {
+      background: var(--card);
+      border-radius: 24px;
+      padding: 20px;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .demo-card:target,
+    .demo-card.highlight {
+      transform: translateY(-2px);
+      box-shadow: 0 0 0 2px #111111, 0 18px 42px rgba(0, 0, 0, 0.12);
+    }
+
+    .demo-card h2 {
+      margin: 0;
+      font-size: 22px;
+      line-height: 1.3;
+    }
+
+    .demo-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.75;
+    }
+
+    .phone {
+      position: relative;
+      width: 100%;
+      max-width: 390px;
+      height: 800px;
+      margin: 0 auto;
+      border: 10px solid #1b1b1b;
+      border-radius: var(--radius);
+      overflow: hidden;
+      background: #fff;
+      box-shadow: var(--phone-shadow);
+    }
+
+    .phone.compact { height: 740px; }
+
+    .screen {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+      object-position: center var(--focus-y, 50%);
+      user-select: none;
+      pointer-events: none;
+    }
+
+    .entry-row {
+      position: absolute;
+      left: 16px;
+      right: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 14px 16px;
+      border: 1px solid #ededed;
+      border-radius: 18px;
+      background: rgba(255, 255, 255, 0.98);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .entry-default { top: 382px; }
+    .entry-selected { top: 342px; }
+
+    .entry-title {
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.35;
+    }
+
+    .entry-sub {
+      margin-top: 3px;
+      font-size: 12px;
+      line-height: 1.45;
+      color: var(--muted);
+    }
+
+    .entry-arrow {
+      font-size: 24px;
+      color: #999;
+      line-height: 1;
+      flex: 0 0 auto;
+    }
+
+    .inline-panel {
+      position: absolute;
+      left: 14px;
+      right: 14px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: rgba(255, 255, 255, 0.98);
+      overflow: hidden;
+    }
+
+    .panel-head {
+      padding: 14px 16px 10px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .panel-title {
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+
+    .panel-sub {
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.55;
+    }
+
+    .panel-body {
+      padding: 14px 16px 16px;
+    }
+
+    .fields {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .field {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 10px 12px;
+      background: #fff;
+    }
+
+    .field label {
+      display: block;
+      margin-bottom: 4px;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .field input {
+      width: 100%;
+      border: none;
+      outline: none;
+      background: transparent;
+      color: #111;
+      font-size: 17px;
+      font-weight: 700;
+    }
+
+    .cta {
+      width: 100%;
+      border: none;
+      border-radius: 999px;
+      background: #111;
+      color: #fff;
+      font-size: 14px;
+      font-weight: 700;
+      padding: 12px 0;
+      cursor: pointer;
+    }
+
+    .recommend-box,
+    .fit-box {
+      margin-top: 12px;
+      display: none;
+    }
+
+    .recommend-box.active,
+    .fit-box.active { display: block; }
+
+    .recommend-box {
+      border: 1px solid #f6dec1;
+      border-radius: 16px;
+      background: var(--soft);
+      padding: 12px;
+    }
+
+    .recommend-top {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .recommend-size {
+      font-size: 17px;
+      font-weight: 700;
+    }
+
+    .confidence {
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .recommend-line {
+      color: #444;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    .fit-box {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: #fff;
+      padding: 12px;
+    }
+
+    .fit-box h4,
+    .table-box h4,
+    .review-summary h4,
+    .publish-box h4,
+    .floating-sheet h4,
+    .return-box h4,
+    .confirm-box h4 {
+      margin: 0 0 10px;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+
+    .fit-track {
+      display: flex;
+      height: 10px;
+      overflow: hidden;
+      border-radius: 999px;
+      margin-bottom: 10px;
+    }
+
+    .fit-track span:nth-child(1) { width: 20%; background: var(--orange); }
+    .fit-track span:nth-child(2) { width: 70%; background: var(--green); }
+    .fit-track span:nth-child(3) { width: 10%; background: var(--pink); }
+
+    .fit-list {
+      display: grid;
+      gap: 6px;
+      color: #444;
+      font-size: 12px;
+    }
+
+    .dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      margin-right: 6px;
+    }
+
+    .table-box {
+      margin-top: 12px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: #fff;
+      padding: 12px;
+    }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .tab {
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: #f3f3f3;
+      color: #666;
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .tab.active {
+      background: #111;
+      color: #fff;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 11px;
+      text-align: center;
+      background: #fafafa;
+      overflow: hidden;
+      border-radius: 12px;
+    }
+
+    th, td {
+      padding: 8px 6px;
+      border: 1px solid #ededed;
+    }
+
+    th {
+      background: #f7f7f7;
+      color: #666;
+      font-weight: 600;
+    }
+
+    .review-summary {
+      position: absolute;
+      top: 84px;
+      left: 0;
+      right: 0;
+      padding: 14px 16px 12px;
+      border-top: 1px solid #f0f0f0;
+      border-bottom: 1px solid #f0f0f0;
+      background: rgba(255, 255, 255, 0.98);
+    }
+
+    .bar-list {
+      display: grid;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .bar-row {
+      display: grid;
+      grid-template-columns: 88px 1fr 36px;
+      align-items: center;
+      gap: 8px;
+      color: #555;
+      font-size: 11px;
+    }
+
+    .bar-track {
+      height: 8px;
+      border-radius: 999px;
+      overflow: hidden;
+      background: #efefef;
+    }
+
+    .fill-green,
+    .fill-orange,
+    .fill-pink {
+      height: 100%;
+      border-radius: 999px;
+    }
+
+    .fill-green { width: 70%; background: var(--green); }
+    .fill-orange { width: 20%; background: var(--orange); }
+    .fill-pink { width: 10%; background: var(--pink); }
+
+    .review-tags {
+      position: absolute;
+      top: 286px;
+      left: 22px;
+      right: 22px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .tag {
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid #ececec;
+      background: rgba(255, 255, 255, 0.96);
+      color: #333;
+      font-size: 11px;
+      font-weight: 700;
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+    }
+
+    .publish-box {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 414px;
+      padding: 14px 16px 16px;
+      border-top: 1px solid #f0f0f0;
+      border-bottom: 1px solid #f0f0f0;
+      background: rgba(255, 255, 255, 0.98);
+    }
+
+    .meta {
+      margin-bottom: 10px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    .chips,
+    .fit-options {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .chip,
+    .fit-pill {
+      border: 1px solid #dcdcdc;
+      border-radius: 999px;
+      background: #fff;
+      color: #444;
+      padding: 8px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .chip.active,
+    .fit-pill.active {
+      background: #111;
+      border-color: #111;
+      color: #fff;
+    }
+
+    .scrim {
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.2);
+    }
+
+    .floating-sheet {
+      position: absolute;
+      left: 16px;
+      right: 16px;
+      bottom: 22px;
+      padding: 16px;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.98);
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.16);
+    }
+
+    .floating-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .floating-close {
+      color: #666;
+      font-size: 18px;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    .inline-order {
+      position: absolute;
+      left: 16px;
+      right: 16px;
+      top: 620px;
+      display: none;
+      padding: 12px 14px;
+      border: 1px solid #ededed;
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.98);
+      cursor: pointer;
+    }
+
+    .inline-order.active { display: block; }
+
+    .inline-order-title {
+      margin-bottom: 4px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .inline-order-sub {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .return-box {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 458px;
+      padding: 14px 16px 16px;
+      border-top: 1px solid #f0f0f0;
+      border-bottom: 1px solid #f0f0f0;
+      background: rgba(255, 255, 255, 0.98);
+    }
+
+    .confirm-box {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 570px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 14px 16px;
+      border-top: 1px solid #f0f0f0;
+      border-bottom: 1px solid #f0f0f0;
+      background: rgba(255, 255, 255, 0.98);
+    }
+
+    .confirm-label {
+      margin-bottom: 4px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .confirm-value {
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .badge {
+      background: #111;
+      color: #fff;
+      border-radius: 999px;
+      padding: 8px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .hidden { display: none !important; }
+
+    @media (max-width: 960px) {
+      .page { padding: 24px 14px 40px; }
+      h1 { font-size: 26px; }
+      .grid { grid-template-columns: 1fr; }
+      .demo-card { padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <h1>Savana Size Recommendation Interactive Demo</h1>
+    <p class="intro">This prototype keeps the flat layout but adds real interactions across the journey. Only Order Details uses a lightweight floating prompt. All other new content is inserted as part of the page itself, following the current Savana screenshots and the agreed scope.</p>
+    <div class="top-note">Click the PDP entry to jump to the size guide screen. Use the inputs, chips, and order prompt to test linked states.</div>
+
+    <div class="grid">
+      <section class="demo-card" id="pdp-default-section">
+        <h2>1. PDP default state</h2>
+        <p>Replace the original size recommendation entry with one unified inline entry under the size selector.</p>
+        <div class="phone compact">
+          <img class="screen" src="savana_app_pd_page.png" alt="PDP default" style="--focus-y: 35%;" />
+          <a class="entry-row entry-default" href="#size-guide-section" data-highlight-target="size-guide-section">
+            <div>
+              <div class="entry-title">Size guide &amp; find my size</div>
+              <div class="entry-sub">Add height and weight to get a better fit</div>
+            </div>
+            <div class="entry-arrow">›</div>
+          </a>
+        </div>
+      </section>
+
+      <section class="demo-card" id="pdp-selected-section">
+        <h2>2. PDP recommendation state</h2>
+        <p>After users save measurements, the same unified entry becomes a lightweight recommendation result row.</p>
+        <div class="phone compact">
+          <img class="screen" src="savana_app_pd_selected_size.png" alt="PDP recommended" style="--focus-y: 30%;" />
+          <a class="entry-row entry-selected" href="#size-guide-section" data-highlight-target="size-guide-section">
+            <div>
+              <div class="entry-title">Recommended size: M</div>
+              <div class="entry-sub" id="recommendedSubtitle">Based on shoppers with similar measurements</div>
+            </div>
+            <div class="entry-arrow">›</div>
+          </a>
+        </div>
+      </section>
+
+      <section class="demo-card" id="size-guide-section">
+        <h2>3. Size guide &amp; find my size</h2>
+        <p>This stays as page content inside the existing size guide screen. Recommendation appears first, then fit summary, then the original size guide content.</p>
+        <div class="phone">
+          <img class="screen" src="savana_app_size_guide_model_info.png" alt="Size guide screen" style="--focus-y: 8%;" />
+
+          <div class="inline-panel" style="top: 74px;">
+            <div class="panel-head">
+              <div class="panel-title">Find my size</div>
+              <div class="panel-sub">Use height and weight first, then continue to the existing size guide below.</div>
+            </div>
+            <div class="panel-body">
+              <div class="fields">
+                <div class="field">
+                  <label for="heightInput">Height</label>
+                  <input id="heightInput" type="number" value="165" />
+                </div>
+                <div class="field">
+                  <label for="weightInput">Weight</label>
+                  <input id="weightInput" type="number" value="55" />
+                </div>
+              </div>
+              <button id="sizeCta" class="cta">See my size</button>
+
+              <div id="recommendBox" class="recommend-box">
+                <div class="recommend-top">
+                  <div class="recommend-size">Recommended size: M</div>
+                  <div class="confidence">Confidence: High</div>
+                </div>
+                <div class="recommend-line">Based on 85 shoppers with similar measurements</div>
+                <div class="recommend-line">Most similar shoppers chose M for this style</div>
+              </div>
+
+              <div id="fitBox" class="fit-box">
+                <h4>How this size fits on real buyers</h4>
+                <div class="fit-track"><span></span><span></span><span></span></div>
+                <div class="fit-list">
+                  <div><span class="dot" style="background: var(--green);"></span>True to size 70%</div>
+                  <div><span class="dot" style="background: var(--orange);"></span>Runs small 20%</div>
+                  <div><span class="dot" style="background: var(--pink);"></span>Runs large 10%</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="inline-panel" style="top: 430px;">
+            <div class="panel-body">
+              <div class="table-box" style="margin-top:0; border:none; padding:0;">
+                <h4>Size guide</h4>
+                <div class="tabs">
+                  <div class="tab active">Product Size</div>
+                  <div class="tab">Fit Type</div>
+                  <div class="tab">Stretchability</div>
+                  <div class="tab">Measurements</div>
+                </div>
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Size</th>
+                      <th>IN Size</th>
+                      <th>Bust(inch)</th>
+                      <th>Top Length(inch)</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr><td>S</td><td>S</td><td>30.7</td><td>18.9</td></tr>
+                    <tr><td>M</td><td>M</td><td>32.3</td><td>19.3</td></tr>
+                    <tr><td>L</td><td>L</td><td>34.6</td><td>19.7</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="demo-card" id="review-detail-section">
+        <h2>4. Review detail page</h2>
+        <p>Top-level fit summary is inserted above the review list, and review tags reflect the current demo state.</p>
+        <div class="phone compact">
+          <img class="screen" src="savana_app_review_detail.png" alt="Review detail" style="--focus-y: 13%;" />
+          <div class="review-summary">
+            <h4>Size feedback summary</h4>
+            <div class="panel-sub" style="margin-top:0;">Most buyers say this style fits true to size</div>
+            <div class="bar-list">
+              <div class="bar-row"><span>True to size</span><div class="bar-track"><div class="fill-green"></div></div><span>70%</span></div>
+              <div class="bar-row"><span>Runs small</span><div class="bar-track"><div class="fill-orange"></div></div><span>20%</span></div>
+              <div class="bar-row"><span>Runs large</span><div class="bar-track"><div class="fill-pink"></div></div><span>10%</span></div>
+            </div>
+          </div>
+          <div class="review-tags">
+            <div class="tag" id="tagHeight">165cm</div>
+            <div class="tag" id="tagWeight">55kg</div>
+            <div class="tag">Bought M</div>
+            <div class="tag" id="tagFit">True to size</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="demo-card" id="review-publish-section">
+        <h2>5. Review publish page</h2>
+        <p>The review flow stays intact. The fit feedback module is lightweight and updates the review detail tags above.</p>
+        <div class="phone compact">
+          <img class="screen" src="savana_app_review_publish.png" alt="Review publish" style="--focus-y: 16%;" />
+          <div class="publish-box">
+            <h4>Fit feedback</h4>
+            <div id="publishMeta" class="meta">Height 165cm · Weight 55kg · Bought size M</div>
+            <div class="chips" id="publishChips">
+              <button class="chip" data-fit="Runs small">Runs small</button>
+              <button class="chip active" data-fit="True to size">True to size</button>
+              <button class="chip" data-fit="Runs large">Runs large</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="demo-card" id="order-details-section">
+        <h2>6. Order details lightweight prompt</h2>
+        <p>This is the only floating pattern in the demo. Close it manually or select one option to auto-close and leave a lightweight re-entry point in the page.</p>
+        <div class="phone compact">
+          <img class="screen" src="savana_app_order_detail.jpg" alt="Order details" style="--focus-y: 46%;" />
+          <div id="orderScrim" class="scrim"></div>
+          <div id="orderPrompt" class="floating-sheet">
+            <div class="floating-head">
+              <h4 style="margin:0;">How did this size fit?</h4>
+              <div id="orderClose" class="floating-close">×</div>
+            </div>
+            <div class="panel-sub" style="margin-top:0;">Choose one option to submit and close.</div>
+            <div id="orderFitOptions" class="fit-options" style="margin-top:10px;">
+              <button class="fit-pill" data-fit="Runs small">Runs small</button>
+              <button class="fit-pill" data-fit="True to size">True to size</button>
+              <button class="fit-pill" data-fit="Runs large">Runs large</button>
+            </div>
+          </div>
+          <div id="orderInlineEntry" class="inline-order hidden">
+            <div id="orderInlineTitle" class="inline-order-title">Rate size fit</div>
+            <div id="orderInlineSub" class="inline-order-sub">Tap to give fit feedback</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="demo-card" id="return-summary-section">
+        <h2>7. Return AI summary page</h2>
+        <p>Fit feedback is added only after the AI-generated issue summary and syncs directly to the confirmation page below.</p>
+        <div class="phone compact">
+          <img class="screen" src="savana_app_return_flow_step2.png" alt="Return summary" style="--focus-y: 28%;" />
+          <div class="return-box">
+            <h4>How did the size fit?</h4>
+            <div class="panel-sub" style="margin-top:0;">Added after the primary issue summary.</div>
+            <div id="returnChips" class="chips" style="margin-top:10px;">
+              <button class="chip active" data-fit="Runs small">Runs small</button>
+              <button class="chip" data-fit="True to size">True to size</button>
+              <button class="chip" data-fit="Runs large">Runs large</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="demo-card" id="return-confirm-section">
+        <h2>8. Return confirmation page</h2>
+        <p>The confirmation page only echoes the selected fit feedback from the AI summary page. No extra editing is added here.</p>
+        <div class="phone compact">
+          <img class="screen" src="savana_app_return_flow_long.png" alt="Return confirm" style="--focus-y: 60%;" />
+          <div class="confirm-box">
+            <div>
+              <div class="confirm-label">Fit feedback</div>
+              <div id="confirmValue" class="confirm-value">Runs small</div>
+            </div>
+            <div class="badge">Added</div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script>
+    const state = {
+      height: '165',
+      weight: '55',
+      reviewFit: 'True to size',
+      orderFit: '',
+      orderPromptOpen: true,
+      returnFit: 'Runs small'
+    };
+
+    const sizeCta = document.getElementById('sizeCta');
+    const heightInput = document.getElementById('heightInput');
+    const weightInput = document.getElementById('weightInput');
+    const recommendBox = document.getElementById('recommendBox');
+    const fitBox = document.getElementById('fitBox');
+    const recommendedSubtitle = document.getElementById('recommendedSubtitle');
+    const publishMeta = document.getElementById('publishMeta');
+    const publishChips = document.getElementById('publishChips');
+    const tagHeight = document.getElementById('tagHeight');
+    const tagWeight = document.getElementById('tagWeight');
+    const tagFit = document.getElementById('tagFit');
+    const orderScrim = document.getElementById('orderScrim');
+    const orderPrompt = document.getElementById('orderPrompt');
+    const orderClose = document.getElementById('orderClose');
+    const orderFitOptions = document.getElementById('orderFitOptions');
+    const orderInlineEntry = document.getElementById('orderInlineEntry');
+    const orderInlineTitle = document.getElementById('orderInlineTitle');
+    const orderInlineSub = document.getElementById('orderInlineSub');
+    const returnChips = document.getElementById('returnChips');
+    const confirmValue = document.getElementById('confirmValue');
+
+    function highlightCard(id) {
+      const target = document.getElementById(id);
+      if (!target) return;
+      target.classList.add('highlight');
+      setTimeout(() => target.classList.remove('highlight'), 1600);
+    }
+
+    document.querySelectorAll('[data-highlight-target]').forEach(link => {
+      link.addEventListener('click', () => {
+        const id = link.getAttribute('data-highlight-target');
+        setTimeout(() => highlightCard(id), 250);
+      });
+    });
+
+    function renderSharedMeasurements() {
+      publishMeta.textContent = `Height ${state.height}cm · Weight ${state.weight}kg · Bought size M`;
+      tagHeight.textContent = `${state.height}cm`;
+      tagWeight.textContent = `${state.weight}kg`;
+      recommendedSubtitle.textContent = `Based on shoppers with similar measurements`;
+    }
+
+    function renderReviewFit() {
+      [...publishChips.querySelectorAll('.chip')].forEach(chip => {
+        chip.classList.toggle('active', chip.dataset.fit === state.reviewFit);
+      });
+      tagFit.textContent = state.reviewFit;
+    }
+
+    function renderOrderState() {
+      if (state.orderPromptOpen) {
+        orderScrim.classList.remove('hidden');
+        orderPrompt.classList.remove('hidden');
+        orderInlineEntry.classList.add('hidden');
+      } else {
+        orderScrim.classList.add('hidden');
+        orderPrompt.classList.add('hidden');
+        orderInlineEntry.classList.remove('hidden');
+      }
+
+      [...orderFitOptions.querySelectorAll('.fit-pill')].forEach(pill => {
+        pill.classList.toggle('active', pill.dataset.fit === state.orderFit);
+      });
+
+      if (state.orderFit) {
+        orderInlineTitle.textContent = `Fit feedback: ${state.orderFit}`;
+        orderInlineSub.textContent = 'Tap to edit your feedback';
+      } else {
+        orderInlineTitle.textContent = 'Rate size fit';
+        orderInlineSub.textContent = 'Tap to give fit feedback';
+      }
+    }
+
+    function renderReturnState() {
+      [...returnChips.querySelectorAll('.chip')].forEach(chip => {
+        chip.classList.toggle('active', chip.dataset.fit === state.returnFit);
+      });
+      confirmValue.textContent = state.returnFit;
+    }
+
+    sizeCta.addEventListener('click', () => {
+      state.height = heightInput.value || '165';
+      state.weight = weightInput.value || '55';
+      recommendBox.classList.add('active');
+      fitBox.classList.add('active');
+      renderSharedMeasurements();
+      highlightCard('pdp-selected-section');
+      highlightCard('review-detail-section');
+      highlightCard('review-publish-section');
+    });
+
+    publishChips.addEventListener('click', (e) => {
+      const chip = e.target.closest('.chip');
+      if (!chip) return;
+      state.reviewFit = chip.dataset.fit;
+      renderReviewFit();
+      highlightCard('review-detail-section');
+    });
+
+    orderClose.addEventListener('click', () => {
+      state.orderPromptOpen = false;
+      renderOrderState();
+    });
+
+    orderFitOptions.addEventListener('click', (e) => {
+      const pill = e.target.closest('.fit-pill');
+      if (!pill) return;
+      state.orderFit = pill.dataset.fit;
+      state.orderPromptOpen = false;
+      renderOrderState();
+    });
+
+    orderInlineEntry.addEventListener('click', () => {
+      state.orderPromptOpen = true;
+      renderOrderState();
+    });
+
+    returnChips.addEventListener('click', (e) => {
+      const chip = e.target.closest('.chip');
+      if (!chip) return;
+      state.returnFit = chip.dataset.fit;
+      renderReturnState();
+      highlightCard('return-confirm-section');
+    });
+
+    renderSharedMeasurements();
+    renderReviewFit();
+    renderOrderState();
+    renderReturnState();
+  </script>
+</body>
+</html>

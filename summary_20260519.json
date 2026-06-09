@@ -1,0 +1,490 @@
+{
+  "total_count": 252,
+  "total_chats": 13,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 206,
+      "messages": [
+        {
+          "time": "2026-05-18 20:22",
+          "sender": "未知",
+          "content": "https://mayfairtech.larkenterprise.com/docx/XHxOdSbfkozhCCxbhxWc6nq1n50?dcuId=6964985335201677314&from=vc_assistant_notice#doxcn4OXZ8xD2Cs06DopzHTOKmf",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 20:34",
+          "sender": "王叠 Die Wang",
+          "content": "极速退的目标是啥呀，PRD里写的感觉在评审的时候就过时了\n[Image: img_v3_0211q_5ffd3159-fd51-4619-8b85-5c5a7b0bc51g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 19:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "for any return reasons?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 19:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "那你远程继续干活呗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 20:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "哈哈哈好",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 19:22",
+          "sender": "Anushka Kala",
+          "content": "+ COD fee deducted if COD order",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 19:41",
+          "sender": "Mohammad Habib",
+          "content": "Bestie for restie lol",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 20:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 19:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211q_9eb43f5c-e71f-4cc1-8f48-7be900f286cg]\nwhy did Shein return your COD fee?",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 19:22",
+          "sender": "闫昕 Jermmy Yan",
+          "content": "我去拜访供应商，干活只能晚上了",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 10,
+      "messages": [
+        {
+          "time": "2026-05-18 21:07",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song hey - can we add this info in meta tag \nuser id \nuser historic aov- order count, total number of returns \nso during api call it can be fetched from our database so decision is faster n",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 18:13",
+          "sender": "宋国兵 Colin Song",
+          "content": "@Ashutosh I don't have the data.  do you have any data? @王叠 Die Wang  @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 16:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh I think we should continue to use it, because we have no other options,right? haha",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 16:52",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi kinda yes- so now ask them for cost structure based on our usage?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 15:27",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song @易希倩 Queenie Yi hey - Now that we are live with the POC, could you share more on your evaluation/decision-making processes and timeliens? bureau is asking",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 18:13",
+          "sender": "宋国兵 Colin Song",
+          "content": "@Ashutosh I don't have the data.  do you have any data? @王叠 Die Wang  @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 16:52",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi kinda yes- so now ask them for cost structure based on our usage?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 15:27",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song @易希倩 Queenie Yi hey - Now that we are live with the POC, could you share more on your evaluation/decision-making processes and timeliens? bureau is asking",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 21:07",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song hey - can we add this info in meta tag \nuser id \nuser historic aov- order count, total number of returns \nso during api call it can be fetched from our database so decision is faster n",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 16:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh I think we should continue to use it, because we have no other options,right? haha",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 9,
+      "messages": [
+        {
+          "time": "2026-05-18 17:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Sheetal Jasoriya https://mayfairtech.larkenterprise.com/wiki/TzRtw1loYitPsWk6HcbcYoRbn2e",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 14:24",
+          "sender": "周美 Jane Zhou",
+          "content": "@Sheetal Jasoriya @Yogesh Agarwal hi ~~ we are planning to use wallet for May compaign, there may be compalince and finance issue invovled, pls help to check it...@易希倩 Queenie Yi could you pls share t",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 14:45",
+          "sender": "Sheetal Jasoriya",
+          "content": "@易希倩 Queenie Yi Pls share the details",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 11:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj No, it is an automatic system flow",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 10:44",
+          "sender": "Upender Bajaj",
+          "content": "@易希倩 Queenie Yi Ok, it is a manual process, supply team raise request then invoice revised with same invoice number, Right?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 10:31",
+          "sender": "Upender Bajaj",
+          "content": "@易希倩 Queenie Yi I shared the scenario initially that I know how the logic or system behave on it.\n\nScenario:\n\nOrder is in picking stage, invoice has been generated however customer partially cancelled",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 10:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj Hi, what logic do you mean? The latest invoice logic is designed based on your team's request last month",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 10:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj Confirmed with the tech team: The supply chain will send a message requesting the regeneration of the invoice, and then proceed with the new invoice information.",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 02:30",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi Kindly provide the logic of the invoicing process.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-05-18 21:19",
+          "sender": "孙鹏 Peng Sun",
+          "content": "@易希倩 Queenie Yi 这个数据直接查看有点麻烦， 可以先下载数据到本地吧",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 21:11",
+          "sender": "孙鹏 Peng Sun",
+          "content": "@易希倩 Queenie Yi 客服只看站内还是都看？  站外的难以关联到订单",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 17:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/docx/G8Kjd2Sv7obcEGxGflacPhsVn3f",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 17:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 做了近一年退货数据分析（92万条，18万有效腰围数据），主要结论：\n1. 偏大反馈拆解为三类原因\n- 尺码覆盖不足（3.5%）：腰围<63cm用户需XXS但只有XS，1,386人反馈偏大\n- 选码行为问题（17.8%）：有合适码但选错，6,999人反馈偏大\n- 选码合理仍偏大（78.7%）：选了理论上合理的码仍反馈偏大，31,042人\n\n2. 验证\"选码合理仍偏大\"是否系",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 17:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "http://192.168.188.124/body-analysis-final.html",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 15:01",
+          "sender": "胡伊涵 Aria Hu",
+          "content": "@易希倩 Queenie Yi https://mayfairtech.larkenterprise.com/wiki/FJ7qwDVSOiSJoukxTkicyU6hnEe",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 10:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "分析源数据\n1. 客服数据：\n  - ods.ods_in_chatwoot_product_conversations_hf\n  - ods.ods_in_chatwoot_product_messages_hf（消息表，有明细对话）\n2. 商品评论：\n  - [cdm.dwd_mf_trd_comment_ord_sku_df](https://dataworks.mayfair-inc.co",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "NSZ Closure Process alignment",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-18 18:27",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Yes CS side - like LM keeps track of the data of open cases I just wanted to confirm if CS also does it.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 17:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma Currently there is no other business team raising this issue, which business team do you mean? CS team?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 16:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma If only for data statistics, can we revise the logic of data statistics, cuz it is too complicated for the C side to revise system",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 17:00",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi I have one question before we decide this - in revrse order if an order is open indefinitely does any team have issues with it? Because the same issue of pendancy is there on the CRM s",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 13:46",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Till 15 days we try to assign but post that we give LM option to cancel the pickup as the pickup has become irrelvant for the customer as well since if it is our fault early refund is ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 10:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma What actions will LM take? Assigning this pickup to another carrier?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-18 16:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma CC @王叠 Die Wang",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-18 15:22",
+          "sender": "Shivani Verma",
+          "content": "@Ankit Gupta There is no system issue here your order is not tagged under the new flow hence you were not elligible for refund or message - \n[Image: img_v3_0211q_2357685a-54b8-442b-9360-5c95ceb266ag]\n",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 10:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh There are less users willing to pay[不看]",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-18 13:24",
+          "sender": "李霞 Lacie Li",
+          "content": "@陈振华 Anzhong Chen 我改一下cc@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 13:10",
+          "sender": "李霞 Lacie Li",
+          "content": "@易希倩 Queenie Yi 我看下哈",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 11:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@陈振华 Anzhong Chen @王叠 Die Wang \n[Image: img_v3_0211q_e1b3b8a2-ccc1-4aa4-b2b9-ee2e0287a91g]\n取件失败other是什么原因 CC@李霞 Lacie Li",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "产品小组",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-18 15:41",
+          "sender": "程茹洁 Rita Cheng",
+          "content": "@易希倩 Queenie Yi 我周六有点事情~",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 15:40",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@滕苗 Mia Teng @程茹洁 Rita Cheng 本周末大促，需安排值班，时间上有不方便的吗",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-18 12:25",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi  for me personally seems like a lot of work as a customer, i wouldnt use it [尬笑]",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-18 10:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Hi Anushka, what do you think Levi's Outfitting? Does it look good?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "质检操作规范培训",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-18 18:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "来了",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Return On Delivery Project Discussion Group",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-18 18:32",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi We started discussions with ZMC I will let you know once that part is finalised for you to proceed with app side work.",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "商详新增尺码偏大偏小提示",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-18 17:48",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@all 各位老师，如沟通，本周我们需要快速上线一个商详偏大偏小提示的需求，还请各位协助：\n即圈一批尺码偏大/偏小的商品，商详增加偏大/偏小提示（尺码是否选中时都展示），观测退货率变化\n[Image: img_v3_0211q_0ee36af8-c18e-4bf2-a80f-3d786a84776g]\n\n\nPRD：文档第2点描述[https://mayfairtech.larkenterprise",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-18 16:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @曹津 Jin Cao 这个看板没人看了吗\n[Image: img_v3_0211q_2122ae88-1985-4d97-9137-78debbcc2d5g]",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 13 个会话，252 条消息"
+}

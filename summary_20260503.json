@@ -1,0 +1,56 @@
+{
+  "total_count": 5,
+  "total_chats": 2,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-02 20:54",
+          "sender": "未知",
+          "content": "<card title=\"💬 有人在评论中提到了你\">\nTickets  Center · Tickets  Center · #6980842075\n[6980842075](https://project.feishu.cn/buyer-cs/story/detail/6980842075?tab_item_id=7635276433418390479&tab_key=comment#comm",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-02 11:23",
+          "sender": "未知",
+          "content": "📊 05月01日 工作汇总\n\n## 💡 昨天重点\n\n💬 **未知群聊**\n  🔸 Ghasaq Hamid：算法/AI相关事项跟进\n  🔸 Ghasaq Hamid：数据分析相关\n\n---\n📅 05月02日 | 🎯 0项待办",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-02 14:00",
+          "sender": "未知",
+          "content": "<card title=\"🕓 工单处理提醒\">\n工单中心 · 工单中心 · #6980842075\n[6980842075](https://project.feishu.cn/buyer-cs/story/detail/6980842075) 在当前状态已停留3天，请@ou_8e5ae10c82b5b3c009e45b9b3bd19cb9及时处理\n**当前状态:** 进行中\n**到达时间:** ",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-02 09:01",
+          "sender": "未知",
+          "content": "📰 **竞对动态速递 - 2026-05-02**\n\n🇮🇳 **印度市场竞对**\n📌 *关注：Myntra, Ajio, Meesho, Shein, Nykaa Fashion, Flipkart Fashion*\n\n1. 该公司计划于 6 月推出女士运动鞋，并计划于明年 1 月推出其童装品牌 Rare Ones 下的女童装。\n   🔗 [The House of Rare bets on li",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-02 21:59",
+          "sender": "Anjali Thakur",
+          "content": "Hey @易希倩 Queenie Yi There are instances where, when agents reopen their on-hold chats, those chats are automatically resolved by the bot. Please assist.Sample Chats : [https://aichat-in.urbanic-cs.com",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 2 个会话，5 条消息"
+}

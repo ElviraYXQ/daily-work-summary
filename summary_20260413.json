@@ -3,78 +3,15 @@
   "total_chats": 5,
   "chat_stats": [
     {
-      "name": "Savana 周会",
-      "type": "group",
-      "count": 7,
-      "messages": [
-        {
-          "time": "2026-04-12 23:20",
-          "sender": "薛驰 Chi Xue",
-          "content": "@易希倩 Queenie Yi 让Claude code把过去的都跑一遍 先搞个稍微简单模型上了呗 不然每天都可能会损失钱 我怀疑我们都被黑产搞好多年了 @罗军 Beiyan Luo ai找漏洞不是最牛逼的么",
-          "msg_type": "text",
-          "is_self": false
-        },
-        {
-          "time": "2026-04-12 21:58",
-          "sender": "薛驰 Chi Xue",
-          "content": "尺码得看看怎么理解 @张佳宜 Jiayi Zhang 后悔型得 @易希倩 Queenie Yi 看看",
-          "msg_type": "text",
-          "is_self": false
-        },
-        {
-          "time": "2026-04-12 20:39",
-          "sender": "薛驰 Chi Xue",
-          "content": "@易希倩 Queenie Yi 我们现在风控是有的么？iq",
-          "msg_type": "text",
-          "is_self": false
-        },
-        {
-          "time": "2026-04-12 20:58",
-          "sender": "薛驰 Chi Xue",
-          "content": "<p>@周美 Jane Zhou @易希倩 Queenie Yi @张佳宜 Jiayi Zhang @向瑾 Jin Xiang</p>",
-          "msg_type": "text",
-          "is_self": false
-        },
-        {
-          "time": "2026-04-12 22:47",
-          "sender": "易希倩 Queenie Yi",
-          "content": "@薛驰 Chi Xue 目前伊拉克和印度都只有基础的规则风控，比如分钟级、天级、7天级最大下单数管控和大额订单量管控，但因为所有用户同一份规则，所以对于恶意RTO DTO的作用有限。极速退项目中即将试点自建和第三方风控能力，后续逐步调试到稳定效果后可考虑迁移到下单链路，更前置拦截恶意行为",
-          "msg_type": "text",
-          "is_self": true
-        },
-        {
-          "time": "2026-04-12 23:34",
-          "sender": "易希倩 Queenie Yi",
-          "content": "@薛驰 Chi Xue 我们看看",
-          "msg_type": "text",
-          "is_self": true
-        },
-        {
-          "time": "2026-04-12 20:50",
-          "sender": "薛驰 Chi Xue",
-          "content": "@易希倩 Queenie Yi @张佳宜 Jiayi Zhang @周美 Jane Zhou bad dto, bad bad",
-          "msg_type": "text",
-          "is_self": false
-        }
-      ]
-    },
-    {
       "name": "未知群聊",
       "type": "p2p",
       "count": 7,
       "messages": [
         {
-          "time": "2026-04-12 19:23",
-          "sender": "Sara Karwan",
-          "content": "Hi Queeine can we make a call tomorrow ?",
-          "msg_type": "text",
-          "is_self": false
-        },
-        {
           "time": "2026-04-12 22:15",
           "sender": "Ashutosh",
-          "content": "[Image: img_v3_0210m_aa336ceb-5a39-4888-9d35-884aad70dahu]",
-          "msg_type": "image",
+          "content": "hey queenie have a check on this once",
+          "msg_type": "text",
           "is_self": false
         },
         {
@@ -87,7 +24,14 @@
         {
           "time": "2026-04-12 22:15",
           "sender": "Ashutosh",
-          "content": "hey queenie have a check on this once",
+          "content": "[Image: img_v3_0210m_aa336ceb-5a39-4888-9d35-884aad70dahu]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-12 19:23",
+          "sender": "Sara Karwan",
+          "content": "Hi Queeine can we make a call tomorrow ?",
           "msg_type": "text",
           "is_self": false
         },
@@ -109,6 +53,62 @@
           "time": "2026-04-12 09:01",
           "sender": "未知",
           "content": "📰 **每日市场新闻速递 - 2026-04-12**\n\n🇮🇳 **印度市场**\n\n1. 谷歌印度推出 Gemini 支持的购物更新，包括人工智能驱动的产品发现、对话式搜索和 Circle to Search 升级，以更轻松地...\n   🔗 [Google upgrades AI tools to simplify online shopping in India](https://www.st",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-12 22:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 目前伊拉克和印度都只有基础的规则风控，比如分钟级、天级、7天级最大下单数管控和大额订单量管控，但因为所有用户同一份规则，所以对于恶意RTO DTO的作用有限。极速退项目中即将试点自建和第三方风控能力，后续逐步调试到稳定效果后可考虑迁移到下单链路，更前置拦截恶意行为",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-12 23:20",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi 让Claude code把过去的都跑一遍 先搞个稍微简单模型上了呗 不然每天都可能会损失钱 我怀疑我们都被黑产搞好多年了 @罗军 Beiyan Luo ai找漏洞不是最牛逼的么",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-12 23:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@薛驰 Chi Xue 我们看看",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-12 20:58",
+          "sender": "薛驰 Chi Xue",
+          "content": "<p>@周美 Jane Zhou @易希倩 Queenie Yi @张佳宜 Jiayi Zhang @向瑾 Jin Xiang</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-12 20:39",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi 我们现在风控是有的么？iq",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-12 20:50",
+          "sender": "薛驰 Chi Xue",
+          "content": "@易希倩 Queenie Yi @张佳宜 Jiayi Zhang @周美 Jane Zhou bad dto, bad bad",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-12 21:58",
+          "sender": "薛驰 Chi Xue",
+          "content": "尺码得看看怎么理解 @张佳宜 Jiayi Zhang 后悔型得 @易希倩 Queenie Yi 看看",
           "msg_type": "text",
           "is_self": false
         }

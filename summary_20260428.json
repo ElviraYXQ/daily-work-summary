@@ -1,0 +1,406 @@
+{
+  "total_count": 322,
+  "total_chats": 11,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 265,
+      "messages": [
+        {
+          "time": "2026-04-27 19:55",
+          "sender": "罗军 Beiyan Luo",
+          "content": "期权 目前所有人都没有",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 19:58",
+          "sender": "罗军 Beiyan Luo",
+          "content": "就像AI客服 今年所有参与AI客服的核心同学，都打了高绩效",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 19:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "不知道什么绩效会有调薪、期权激励这些",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 19:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "对的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 20:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "是的 协调好了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 19:57",
+          "sender": "罗军 Beiyan Luo",
+          "content": "创业公司有其灵活性 相对应的也有不稳定性",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 19:58",
+          "sender": "罗军 Beiyan Luo",
+          "content": "年终都在5个月以上",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 19:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "她目前问题是缺工程资源",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 19:53",
+          "sender": "罗军 Beiyan Luo",
+          "content": "这是在行情好的时候",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 19:55",
+          "sender": "罗军 Beiyan Luo",
+          "content": "年终是3以上都有",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 31,
+      "messages": [
+        {
+          "time": "2026-04-27 20:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "来了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 19:53",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi toast提示吗 还是顶部文案",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 19:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 顶部是哪[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 20:00",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 快回来呀",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 18:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "稍等我开完会",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 18:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>@曹津 Jin Cao 用户第一个看到的，不太科学的话，可以是最早提交退货的</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 19:00",
+          "sender": "曹津 Jin Cao",
+          "content": "申请页限制一次性不允许退超过 2 件，这个 IQ 和 IN 都适用吗 @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 18:37",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 1、可以存在啊，用户有多单退货都取件超时，且风控通过，这个时候提前退权益都会展示出来。在其中一单发起了提前退，那其余单子还能继续发起？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 18:39",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 那像 1 的情况，给哪一单展示提前退权益呢",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 18:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 同人同时只能享受一笔策略上了之后为啥还有",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Vastvika Solanki, 徐慧君 David Xu, 易希倩 Queenie Yi, 马文相 Moda Ma等9人",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-27 17:48",
+          "sender": "马文相 Moda Ma",
+          "content": "@易希倩 Queenie Yi @王叠 Die Wang 帮忙看看",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 15:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma 帮看看这个是你这边不",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 15:29",
+          "sender": "马文相 Moda Ma",
+          "content": "@易希倩 Queenie Yi 这是什么功能，我好像没见过",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 15:19",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu 帮看看为什么@Vastvika Solanki 已有权限但是仍然报错呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 15:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma \n[Image: img_v3_02115_99239e92-81af-4272-b802-e19aee7c1d5g]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 13:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "please confirm if you log in via your lark account",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 13:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_02115_31f74bed-c53d-4108-b0bf-beb9eae04beg]\nHi dear, you have had this access",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-04-27 20:35",
+          "sender": "未知",
+          "content": "@Manipriya Tyagi Courier allocated - Shadowfax-R2037100133P for return request. Asked the courier to hold pickup. \n@易希倩 Queenie Yi @Shivani Verma - Proceed for rescheduling",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 18:54",
+          "sender": "Manipriya Tyagi",
+          "content": "Hi @易希倩 Queenie Yi @Shivani Verma I have created a return for one item S011260421104344033007 and it has to rescheduled from the crm. Please check",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 11:18",
+          "sender": "Upender Bajaj",
+          "content": "@易希倩 Queenie Yi kindly provide the access of instant refund dashboard for following resources.\n\n[https://data.mayfair-inc.com/bi/#/dashboard/38183?appId=1&sheetId=4518](https://data.mayfair-inc.com/bi",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 11:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj Please apply directly, our BI team member will approve. All dashboard access is generally managed by the BI team, I haven't approval access",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-27 17:51",
+          "sender": "Anubhav Agrawal",
+          "content": "<p>@易希倩 Queenie Yi for new users - change the instant refund eligibility to early refund today as we discussed...message is just a reminder [笑容满面]</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 18:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav AgrawalFor this point, it will take some time to develop, we can make it live on Wednesday CC @张佳宜 Jiayi Zhang",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 14:29",
+          "sender": "Yogesh Agarwal",
+          "content": "@张佳宜 Jiayi Zhang @向瑾 Jin Xiang @易希倩 Queenie Yi I am leaving today at 5 PM to India.. Can we prepone our discussions ?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-27 16:31",
+          "sender": "Mohammed Adel",
+          "content": "@易希倩 Queenie Yi Hi I’ve noticed this has happened more than once The chat gets assigned to an agent, and the agent sends a greeting, but the AI continues responding to the customer as shown in the scr",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 14:13",
+          "sender": "Joana Alaa",
+          "content": "@易希倩 Queenie Yi Hello dear sure , Conversation ID: 4224516",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 10:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Mohammad Habib @Joana Alaa Hi Joana, please share the chat ID CC @王叠 Die Wang",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退Instant Refund沟通群",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-27 17:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @盛伟松 Sam Sheng @曹津 Jin Cao @杨林 Sennia Yang 辛苦各位老板评估如下变更，给出一个计划时间哈：\n\n1. 根据Chi的建议（相信大多数用户是好人），极速退调整风控策略如下：\n[Image: img_v3_02115_91a9919d-279d-48e8-80dd-46e8b0c9d7cg]\n[Image: img_v3_02115_ac",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 11:15",
+          "sender": "未知",
+          "content": " @王越诗 Kice Wang 我已经将上周的真实用户的风控结果数据，同步到了多维表格。辛苦今天再review下[抱拳]。 表格参见：https://mayfairtech.larkenterprise.com/wiki/DQCtwxflziLjLLkOUcacuwIpnrb?table=tblHRE45hjcnC1wP&view=vew4essy6h \n我会基于review 后的数据，评估内审A",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-27 17:18",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "bureau 反馈数据没有问题，  \n[Image: img_v3_02115_78bdc0f8-f92a-4c96-a9ad-a9ee303e1a2g]\ncc @易希倩 Queenie Yi @王叠 Die Wang @杨林 Sennia Yang",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 09:47",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "这个对方还没回, 不过对方约了今天下午3:30~4:15的会议，到时候 @易希倩 Queenie Yi 也一起参加一下哈[抱拳]，我约了9-10的会议室",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "CRM System Technical Support",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-27 13:30",
+          "sender": "Ankit Gupta",
+          "content": "@易希倩 Queenie Yi It's impacting numbers, can it be done on a priority? As it seems to be a bug.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-27 10:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ishita Singh Hi Ishita, it will be fixed this week",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-27 11:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_02115_6504fc67-90f7-4fa0-b837-167bd7d462bg]\n这句话感觉核心还是一个商业效率的项目 不是单纯的消费者眼中的好坏了  那模型是需要调整",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-27 10:13",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/wiki/QXaqwAMhViRjOTkVZo3cpw2bn8f 北总分享了这个 大家一起研读一下吧",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Discussion for Zeropay Order",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-27 14:05",
+          "sender": "Parteek",
+          "content": "@柯佑坤 David O@易希倩 Queenie Yi  Hey Any update on this ?",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 11 个会话，322 条消息"
+}

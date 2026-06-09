@@ -1,0 +1,524 @@
+{
+  "title": "Savana 用户三围画像分析报告（正确单位版）",
+  "total_users": 794356,
+  "overall": {
+    "body_type_top10": [
+      {
+        "rank": 1,
+        "type": "average臀_average腹",
+        "count": 267603,
+        "percentage": 33.69
+      },
+      {
+        "rank": 2,
+        "type": "average臀_flatter腹",
+        "count": 127778,
+        "percentage": 16.09
+      },
+      {
+        "rank": 3,
+        "type": "wider臀_curvier腹",
+        "count": 101124,
+        "percentage": 12.73
+      },
+      {
+        "rank": 4,
+        "type": "average臀_curvier腹",
+        "count": 86274,
+        "percentage": 10.86
+      },
+      {
+        "rank": 5,
+        "type": "wider臀_average腹",
+        "count": 79879,
+        "percentage": 10.06
+      },
+      {
+        "rank": 6,
+        "type": "straighter臀_flatter腹",
+        "count": 70049,
+        "percentage": 8.82
+      },
+      {
+        "rank": 7,
+        "type": "straighter臀_average腹",
+        "count": 35725,
+        "percentage": 4.5
+      },
+      {
+        "rank": 8,
+        "type": "wider臀_flatter腹",
+        "count": 13455,
+        "percentage": 1.69
+      },
+      {
+        "rank": 9,
+        "type": "straighter臀_curvier腹",
+        "count": 10270,
+        "percentage": 1.29
+      },
+      {
+        "rank": 10,
+        "type": "(null)臀_(null)腹",
+        "count": 2193,
+        "percentage": 0.28
+      }
+    ],
+    "waist_distribution": {
+      "L腰(76-81cm)": {
+        "count": 122961,
+        "percentage": 15.48
+      },
+      "M腰(71-76cm)": {
+        "count": 161081,
+        "percentage": 20.28
+      },
+      "S腰(66-71cm)": {
+        "count": 101908,
+        "percentage": 12.83
+      },
+      "XL腰(81-86cm)": {
+        "count": 97001,
+        "percentage": 12.21
+      },
+      "XS腰(<66cm)": {
+        "count": 164267,
+        "percentage": 20.68
+      },
+      "XXL腰(86+cm)": {
+        "count": 147138,
+        "percentage": 18.52
+      }
+    },
+    "bust_distribution": {
+      "L胸(86-91cm)": {
+        "count": 164379,
+        "percentage": 20.69
+      },
+      "M胸(81-86cm)": {
+        "count": 166702,
+        "percentage": 20.99
+      },
+      "S胸(76-81cm)": {
+        "count": 69469,
+        "percentage": 8.75
+      },
+      "XL胸(91-96cm)": {
+        "count": 92447,
+        "percentage": 11.64
+      },
+      "XS胸(<76cm)": {
+        "count": 180571,
+        "percentage": 22.73
+      },
+      "XXL胸(96+cm)": {
+        "count": 120788,
+        "percentage": 15.21
+      }
+    },
+    "full_profile_top15": [
+      {
+        "rank": 1,
+        "profile": "wider臀_curvier腹|XXL腰(86+cm)|XXL胸(96+cm)",
+        "count": 32238,
+        "percentage": 4.06
+      },
+      {
+        "rank": 2,
+        "profile": "average臀_average腹|XS腰(<66cm)|XS胸(<76cm)",
+        "count": 31749,
+        "percentage": 4.0
+      },
+      {
+        "rank": 3,
+        "profile": "average臀_flatter腹|XS腰(<66cm)|XS胸(<76cm)",
+        "count": 28361,
+        "percentage": 3.57
+      },
+      {
+        "rank": 4,
+        "profile": "average臀_average腹|M腰(71-76cm)|M胸(81-86cm)",
+        "count": 25660,
+        "percentage": 3.23
+      },
+      {
+        "rank": 5,
+        "profile": "average臀_average腹|M腰(71-76cm)|L胸(86-91cm)",
+        "count": 23738,
+        "percentage": 2.99
+      },
+      {
+        "rank": 6,
+        "profile": "straighter臀_flatter腹|XS腰(<66cm)|XS胸(<76cm)",
+        "count": 20320,
+        "percentage": 2.56
+      },
+      {
+        "rank": 7,
+        "profile": "average臀_average腹|L腰(76-81cm)|L胸(86-91cm)",
+        "count": 19325,
+        "percentage": 2.43
+      },
+      {
+        "rank": 8,
+        "profile": "average臀_curvier腹|XXL腰(86+cm)|XXL胸(96+cm)",
+        "count": 18314,
+        "percentage": 2.31
+      },
+      {
+        "rank": 9,
+        "profile": "average臀_flatter腹|S腰(66-71cm)|M胸(81-86cm)",
+        "count": 13641,
+        "percentage": 1.72
+      },
+      {
+        "rank": 10,
+        "profile": "average臀_average腹|L腰(76-81cm)|M胸(81-86cm)",
+        "count": 13499,
+        "percentage": 1.7
+      },
+      {
+        "rank": 11,
+        "profile": "average臀_average腹|S腰(66-71cm)|M胸(81-86cm)",
+        "count": 12985,
+        "percentage": 1.63
+      },
+      {
+        "rank": 12,
+        "profile": "average臀_flatter腹|M腰(71-76cm)|M胸(81-86cm)",
+        "count": 12164,
+        "percentage": 1.53
+      },
+      {
+        "rank": 13,
+        "profile": "average臀_average腹|XXL腰(86+cm)|XXL胸(96+cm)",
+        "count": 11841,
+        "percentage": 1.49
+      },
+      {
+        "rank": 14,
+        "profile": "average臀_average腹|XL腰(81-86cm)|L胸(86-91cm)",
+        "count": 11079,
+        "percentage": 1.39
+      },
+      {
+        "rank": 15,
+        "profile": "average臀_average腹|L腰(76-81cm)|XL胸(91-96cm)",
+        "count": 10672,
+        "percentage": 1.34
+      }
+    ],
+    "avg_waist_cm": 71.4,
+    "avg_waist_inch": 28.1,
+    "avg_bust_cm": 78.8,
+    "avg_bust_inch": 31.0
+  },
+  "sites": {
+    "IN": {
+      "total_users": 685327,
+      "body_type_top5": [
+        {
+          "rank": 1,
+          "type": "average臀_average腹",
+          "count": 238953,
+          "percentage": 34.87
+        },
+        {
+          "rank": 2,
+          "type": "average臀_flatter腹",
+          "count": 106048,
+          "percentage": 15.47
+        },
+        {
+          "rank": 3,
+          "type": "wider臀_curvier腹",
+          "count": 82496,
+          "percentage": 12.04
+        },
+        {
+          "rank": 4,
+          "type": "average臀_curvier腹",
+          "count": 77936,
+          "percentage": 11.37
+        },
+        {
+          "rank": 5,
+          "type": "wider臀_average腹",
+          "count": 65932,
+          "percentage": 9.62
+        }
+      ],
+      "waist_distribution": {
+        "L腰(76-81cm)": {
+          "count": 111625,
+          "percentage": 16.29
+        },
+        "M腰(71-76cm)": {
+          "count": 151605,
+          "percentage": 22.12
+        },
+        "S腰(66-71cm)": {
+          "count": 92131,
+          "percentage": 13.44
+        },
+        "XL腰(81-86cm)": {
+          "count": 88985,
+          "percentage": 12.98
+        },
+        "XS腰(<66cm)": {
+          "count": 118920,
+          "percentage": 17.35
+        },
+        "XXL腰(86+cm)": {
+          "count": 122061,
+          "percentage": 17.81
+        }
+      },
+      "bust_distribution": {
+        "L胸(86-91cm)": {
+          "count": 153516,
+          "percentage": 22.4
+        },
+        "M胸(81-86cm)": {
+          "count": 159149,
+          "percentage": 23.22
+        },
+        "S胸(76-81cm)": {
+          "count": 63595,
+          "percentage": 9.28
+        },
+        "XL胸(91-96cm)": {
+          "count": 83305,
+          "percentage": 12.16
+        },
+        "XS胸(<76cm)": {
+          "count": 132537,
+          "percentage": 19.34
+        },
+        "XXL胸(96+cm)": {
+          "count": 93225,
+          "percentage": 13.6
+        }
+      },
+      "full_profile_top10": [
+        {
+          "rank": 1,
+          "profile": "average臀_average腹|M腰(71-76cm)|M胸(81-86cm)",
+          "count": 25111,
+          "percentage": 3.66
+        },
+        {
+          "rank": 2,
+          "profile": "wider臀_curvier腹|XXL腰(86+cm)|XXL胸(96+cm)",
+          "count": 24812,
+          "percentage": 3.62
+        },
+        {
+          "rank": 3,
+          "profile": "average臀_average腹|M腰(71-76cm)|L胸(86-91cm)",
+          "count": 22789,
+          "percentage": 3.33
+        },
+        {
+          "rank": 4,
+          "profile": "average臀_average腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 22708,
+          "percentage": 3.31
+        },
+        {
+          "rank": 5,
+          "profile": "average臀_average腹|L腰(76-81cm)|L胸(86-91cm)",
+          "count": 18391,
+          "percentage": 2.68
+        },
+        {
+          "rank": 6,
+          "profile": "average臀_flatter腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 17887,
+          "percentage": 2.61
+        },
+        {
+          "rank": 7,
+          "profile": "average臀_curvier腹|XXL腰(86+cm)|XXL胸(96+cm)",
+          "count": 15459,
+          "percentage": 2.26
+        },
+        {
+          "rank": 8,
+          "profile": "straighter臀_flatter腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 14833,
+          "percentage": 2.16
+        },
+        {
+          "rank": 9,
+          "profile": "average臀_average腹|L腰(76-81cm)|M胸(81-86cm)",
+          "count": 13187,
+          "percentage": 1.92
+        },
+        {
+          "rank": 10,
+          "profile": "average臀_flatter腹|S腰(66-71cm)|M胸(81-86cm)",
+          "count": 12814,
+          "percentage": 1.87
+        }
+      ],
+      "avg_waist_cm": 72.1,
+      "avg_waist_inch": 28.4,
+      "avg_bust_cm": 79.9,
+      "avg_bust_inch": 31.4
+    },
+    "IQ": {
+      "total_users": 109029,
+      "body_type_top5": [
+        {
+          "rank": 1,
+          "type": "average臀_average腹",
+          "count": 28650,
+          "percentage": 26.28
+        },
+        {
+          "rank": 2,
+          "type": "average臀_flatter腹",
+          "count": 21730,
+          "percentage": 19.93
+        },
+        {
+          "rank": 3,
+          "type": "wider臀_curvier腹",
+          "count": 18628,
+          "percentage": 17.09
+        },
+        {
+          "rank": 4,
+          "type": "wider臀_average腹",
+          "count": 13947,
+          "percentage": 12.79
+        },
+        {
+          "rank": 5,
+          "type": "straighter臀_flatter腹",
+          "count": 9588,
+          "percentage": 8.79
+        }
+      ],
+      "waist_distribution": {
+        "L腰(76-81cm)": {
+          "count": 11336,
+          "percentage": 10.4
+        },
+        "M腰(71-76cm)": {
+          "count": 9476,
+          "percentage": 8.69
+        },
+        "S腰(66-71cm)": {
+          "count": 9777,
+          "percentage": 8.97
+        },
+        "XL腰(81-86cm)": {
+          "count": 8016,
+          "percentage": 7.35
+        },
+        "XS腰(<66cm)": {
+          "count": 45347,
+          "percentage": 41.59
+        },
+        "XXL腰(86+cm)": {
+          "count": 25077,
+          "percentage": 23.0
+        }
+      },
+      "bust_distribution": {
+        "L胸(86-91cm)": {
+          "count": 10863,
+          "percentage": 9.96
+        },
+        "M胸(81-86cm)": {
+          "count": 7553,
+          "percentage": 6.93
+        },
+        "S胸(76-81cm)": {
+          "count": 5874,
+          "percentage": 5.39
+        },
+        "XL胸(91-96cm)": {
+          "count": 9142,
+          "percentage": 8.38
+        },
+        "XS胸(<76cm)": {
+          "count": 48034,
+          "percentage": 44.06
+        },
+        "XXL胸(96+cm)": {
+          "count": 27563,
+          "percentage": 25.28
+        }
+      },
+      "full_profile_top10": [
+        {
+          "rank": 1,
+          "profile": "average臀_flatter腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 10474,
+          "percentage": 9.61
+        },
+        {
+          "rank": 2,
+          "profile": "average臀_average腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 9041,
+          "percentage": 8.29
+        },
+        {
+          "rank": 3,
+          "profile": "wider臀_curvier腹|XXL腰(86+cm)|XXL胸(96+cm)",
+          "count": 7426,
+          "percentage": 6.81
+        },
+        {
+          "rank": 4,
+          "profile": "straighter臀_flatter腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 5487,
+          "percentage": 5.03
+        },
+        {
+          "rank": 5,
+          "profile": "wider臀_curvier腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 3822,
+          "percentage": 3.51
+        },
+        {
+          "rank": 6,
+          "profile": "wider臀_average腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 3737,
+          "percentage": 3.43
+        },
+        {
+          "rank": 7,
+          "profile": "average臀_average腹|XXL腰(86+cm)|XXL胸(96+cm)",
+          "count": 3250,
+          "percentage": 2.98
+        },
+        {
+          "rank": 8,
+          "profile": "average臀_curvier腹|XXL腰(86+cm)|XXL胸(96+cm)",
+          "count": 2855,
+          "percentage": 2.62
+        },
+        {
+          "rank": 9,
+          "profile": "wider臀_average腹|XXL腰(86+cm)|XXL胸(96+cm)",
+          "count": 2726,
+          "percentage": 2.5
+        },
+        {
+          "rank": 10,
+          "profile": "average臀_curvier腹|XS腰(<66cm)|XS胸(<76cm)",
+          "count": 1911,
+          "percentage": 1.75
+        }
+      ],
+      "avg_waist_cm": 66.6,
+      "avg_waist_inch": 26.2,
+      "avg_bust_cm": 71.9,
+      "avg_bust_inch": 28.3
+    }
+  }
+}

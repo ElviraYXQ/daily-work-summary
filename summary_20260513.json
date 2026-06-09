@@ -1,0 +1,357 @@
+{
+  "total_count": 227,
+  "total_chats": 10,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 188,
+      "messages": [
+        {
+          "time": "2026-05-12 23:41",
+          "sender": "周依逸 Iris Zhou",
+          "content": "我怎么连备货单号都看不到了\n[Image: img_v3_0211k_0933e806-24ae-4104-a4aa-9a9f87e0d9ag]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 23:41",
+          "sender": "周依逸 Iris Zhou",
+          "content": "坏了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 22:20",
+          "sender": "Ashutosh",
+          "content": "hey Queenie - would you be able to take out data of orders where pickup happened post D4 - in last one year?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 19:23",
+          "sender": "Ashutosh",
+          "content": "shall i check this first and then tell you?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 19:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "嗯嗯 但我没印象了 我问问",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 19:26",
+          "sender": "罗军 Beiyan Luo",
+          "content": "搞清楚了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 19:26",
+          "sender": "孙鹏 Peng Sun",
+          "content": "你的问问@夏佐杰 Summer Xia",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 19:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Skyflow 我们用了吗 合规项目中你有印象没",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 19:26",
+          "sender": "罗军 Beiyan Luo",
+          "content": "隐私数据库",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 19:29",
+          "sender": "Ashutosh",
+          "content": "for the data compliance part — to make sure customer PII (name, phone, email, address) isn't sitting in raw form in our backend. Skyflow holds the actual data in a tokenised vault, our systems only se",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 19,
+      "messages": [
+        {
+          "time": "2026-05-12 22:18",
+          "sender": "Rishi Gaurav",
+          "content": "[Image: img_v3_0211k_f2dde49f-ce1d-4f0f-a850-c6cbdc0fdf7g]\n@Shivani Verma @易希倩 Queenie Yi sharing a comparsion of Dashboard summary and as per coureir status (LM working) for [Instant + Early Refund] ",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 18:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@向瑾 Jin Xiang 不能这么看的，退货申请数目前是全量的，但功能是11号才完全推全的，所以看极速退占比，至少看12号的是相对准确的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 18:01",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@易希倩 Queenie Yi 明天看12号的数据？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 17:57",
+          "sender": "向瑾 Jin Xiang",
+          "content": "[Image: img_v3_0211k_57045cc2-6c82-48b1-8138-5a656eb28c5g]\n@张佳宜 Jiayi Zhang @易希倩 Queenie Yi @王越诗 Kice Wang 我觉得这里还是有很大的问题，没有多少人享受了急速退的服务。2%不到，这个无法说明急速退目前对退货客诉帮助",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 14:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal @Shivani Verma \n[Image: img_v3_0211k_c65edc37-da6c-415f-a118-23d0eddd64ag]\nHi where did you get this image? I didn't find it on CRM",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 14:41",
+          "sender": "Anubhav Agrawal",
+          "content": "This case is QC failed : S01326050617223954001\n\nOriginal Image (CRM): \n[Image: img_v3_0211k_d45eaef1-c906-49e7-bf59-07adf2e1081g]\n\n\nQC image captured by 3PL : Little box item \n[Image: img_v3_0211k_298",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 14:50",
+          "sender": "Anubhav Agrawal",
+          "content": "@张佳宜 Jiayi Zhang @易希倩 Queenie Yi @李霞 Lacie Li We will do 1 more comprehensive checks to see if dashboard is capturing the correct bifurcation of failed cases post refund - For this we would raw data o",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 14:43",
+          "sender": "Anubhav Agrawal",
+          "content": "S01326050617223954001 - In this case : Image passed to 3PL was also not correct : \n\nImage passed : \n[Image: img_v3_0211k_aac2ff64-9b26-4b1e-bb85-221b2e824d7g]\nWhile CRM Image shows : \n[Image: img_v3_0",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 14:51",
+          "sender": "李霞 Lacie Li",
+          "content": "@Anubhav Agrawal @易希倩 Queenie Yi\n [https://applink.larkenterprise.com/client/message/link/open?token=AmZG81vfC0AcagLNydfAS80%3D](https://applink.larkenterprise.com/client/message/link/open?token=AmZG8",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 14:54",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi There are two items in this pickup this is second item",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-12 15:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "刚才和@胡伊涵 Aria Hu 对了一下，实验商品业务侧已经不备货了，但由于这批品还有库存，所以最终结论如下：\n1. @胡伊涵 Aria Hu 侧操作预约下架\n2. 算法侧回滚，不再做流量侧控制\n\n@孙鹏 Peng Sun 你看下哈",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 11:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "晚点咱们对对哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 11:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "chi的意思是让我们2周内有突破：\n- 真实用户声音反哺品控和质检：优先结合各个渠道用户反馈，总结出真正用户反馈的点，再结合真实用户退货样衣，确认是否用户表达和真实情况一致。总结出真实用户在意内容反哺品控和质检\n- UVC作为参考：看很多用户反馈的商品是否真的UVC低，可能反馈多不等于UVC低",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 10:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[白眼]等一下周会文档",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 10:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Sticker]",
+          "msg_type": "sticker",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 10:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/docx/MUIddao3ao2f6TxSDGCciUIZnfB",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-12 19:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li @肖帝鸿 Hardy Xiao 这几类下装退货原声看也是反馈偏大偏多，我明天再拉一下这批用户的身高体重三围和购买的尺码看下吧\n[Image: img_v3_0211k_854cb24e-d387-4fcf-ac78-9ece0c6dae1g]\n[Image: img_v3_0211k_87cd02a0-4293-4151-9931-313a3b741a4g]\n[Image",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 19:36",
+          "sender": "肖帝鸿 Hardy Xiao",
+          "content": "@易希倩 Queenie Yi 这里的偏大是否包含长度呀",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 18:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 我在了哈，怎么没有人[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 10:33",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 今天我们快速碰一下，看起来偏差很大目前的尺码和这个数据。我们一起定action",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 10:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 好的 我空的日程你直接拉就好哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-12 16:39",
+          "sender": "王俊 June Wang",
+          "content": "@易希倩 Queenie Yi Queenie，这个是之前印度财务提的自动下载报告需求对应的报告格式要求，你看下哈",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 14:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma which order?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-12 14:11",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi Can we adjust the user score for @Mohit Choudhary so that when he places order for second case he can get instant refund?\ncc- @Anubhav Agrawal also this case we added on LM request but",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "VoC舆情告警",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-12 09:43",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@易希倩 Queenie Yi 为什么这个用户没有享受4天未取件退款呀？是没给button吗？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-12 10:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@向瑾 Jin Xiang 这个客户逆向单很多，看了一下每笔关闭原因都不太一样，截图抽了几笔放在下面了。目前她还有进行中的单子，还没到4天，没有到提前退触发时间\n\nS01326050617223954001 @向瑾 Jin Xiang 这一笔建议你们重点看下，6号发起，7号就标记Non-verified关闭了，感觉也不符合上门3次的SOP\n[Image: img_v3_0211k_b9a42853",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-12 20:55",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 确认一下现在的工作时间？需要改的话我们明天来改",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "RTO Reduction Project",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-12 21:58",
+          "sender": "Ashutosh",
+          "content": "<p>@易希倩 Queenie Yi hey sorry but its taking more time to get factual data - trying for tomorrow</p>",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "CRM System Technical Support",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-12 21:33",
+          "sender": "Sara Karwan",
+          "content": "@王叠 Die Wang @易希倩 Queenie Yi Hello dears B469-05-8776565 i can not find this tracking number on CRM and i do not know what is the reason can you guys check it",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-12 18:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "是的，还是有成本管控的，合理使用就行",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 10 个会话，227 条消息"
+}

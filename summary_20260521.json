@@ -1,0 +1,469 @@
+{
+  "total_count": 367,
+  "total_chats": 13,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 321,
+      "messages": [
+        {
+          "time": "2026-05-20 22:13",
+          "sender": "Ashutosh",
+          "content": "<p>hey queenie this is sorted now btw data is ready</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 22:13",
+          "sender": "Ashutosh",
+          "content": "dies hasn't done it?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 20:44",
+          "sender": "未知",
+          "content": "https://mayfairtech.larkenterprise.com/docx/PXYsdWZU6oQ8Tqx41n2cbJcjnF9?dcuId=6964985335201677314&from=vc_assistant_notice#doxcnGalH2r6quLIAdFuWbBRKif",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:38",
+          "sender": "未知",
+          "content": "<card title=\"朱智慧 Vincent Zhu提交的 “BI仪表盘申请” 待你审批\">\n**申请人**\n@ou_ff4d2384422c3af2a8f170d80726346a Shopping Assistant Tech\n**审批事由**\n仪表盘名称: Wallet Dashboard(id:37661)\n权限类型: 编辑\n仪表盘链接: http://data.mayfair-inc",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:16",
+          "sender": "Ashutosh",
+          "content": "ok ok",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Die is checking, I have asked him to put the reschedule button there",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 19:32",
+          "sender": "Jennifer Li",
+          "content": "[Video call]",
+          "msg_type": "video_chat",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:04",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "好的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:03",
+          "sender": "Ashutosh",
+          "content": "[Image: img_v3_0211s_308ada20-ecc3-444b-995b-31a59ffe91hu]",
+          "msg_type": "image",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:28",
+          "sender": "Anushka Kala",
+          "content": "hii, i have added a smaller summary on return incentives and/or penalties by other brands here at the start with some insights: [https://mayfairtech.larkenterprise.com/wiki/XHIwwGJSwi7ZtPkYagTcV2Tfn2d",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 13,
+      "messages": [
+        {
+          "time": "2026-05-20 16:48",
+          "sender": "李霞 Lacie Li",
+          "content": "@易希倩 Queenie Yi 我看下哈",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 14:37",
+          "sender": "Anubhav Agrawal",
+          "content": "@易希倩 Queenie Yi @向瑾 Jin Xiang @张佳宜 Jiayi Zhang We should discuss these limitations and see how we can cover more good customers and avoid bad ones. \n\nWe should also see customer complaint data and see",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 14:23",
+          "sender": "Anubhav Agrawal",
+          "content": "@易希倩 Queenie Yi 1. Can this be the additional reason for low early refund exposure? \n\nCan we know the percentages of each reason contributing to the early refund button not visible? It would be better",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 14:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal Please take this for reference",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 14:14",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal We have lots of limitations leading to a low Early Refund rate:\n1. Users must check their return details page, then the risk control engine will determine realtime\n2. One user only en",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 13:57",
+          "sender": "Anubhav Agrawal",
+          "content": "[Image: img_v3_0211s_8a268087-ddb5-44be-bbbf-8bd0caa838ag]\nBecause as per this early refund exposed reverse count is 1% and 68% of people have pressed the button. But eligible %age is just 1% which is",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 11:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh @李霞 Lacie Li 霞姐帮看看能不能拉一批4天内unverified取消的逆向单单号",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 11:13",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@Anubhav Agrawal I think now there are only two option.\n1. For those unverified close, our vendor shares the support, to prove they did 6 attempt.\n2. Or, we refuse all the  unverified close status, if",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 10:27",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi - can you share like 20 cases closed on Day1-Day4 Like each day - to check?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 10:13",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "@易希倩 Queenie Yi 那。。。感觉不解决问题。。",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "商详新增尺码偏大偏小提示",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-05-20 13:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun 不AB没法看数据",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 13:26",
+          "sender": "孙鹏 Peng Sun",
+          "content": "同一个商品还要AB吗？@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 13:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "按人AB就好，有的用户看不到提示",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 11:26",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@孙鹏 Peng Sun [https://mayfairtech.larkenterprise.com/sheets/OYFWsLCNKhW8gstMvl4cxWucnAh](https://mayfairtech.larkenterprise.com/sheets/OYFWsLCNKhW8gstMvl4cxWucnAh)实验商品名单：\n一共256个商品，IN233个，IQ23个.\n筛选逻辑：\n",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 10:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@刘凯 Kai Liu 好的 周五放量预计多久推全呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 10:11",
+          "sender": "刘凯 Kai Liu",
+          "content": "@易希倩 Queenie Yi 最近大促封网估计到下周推全了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 09:40",
+          "sender": "刘凯 Kai Liu",
+          "content": "@易希倩 Queenie Yi 对了，这个需要今天发要周五才放量，IN大促的app icon需要周五上午十点上线",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN-降 RTO",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-20 19:42",
+          "sender": "宋国兵 Colin Song",
+          "content": "@徐基跃 Star Xu @易希倩 Queenie Yi  是只改了UPI的优惠，只需要看UPI的曝光点击率变化就行了，是吧",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:46",
+          "sender": "徐基跃 Star Xu",
+          "content": "<p>@易希倩 Queenie Yi 没有默认选中（弹窗那个做完才有个默认选中逻辑）</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@宋国兵 Colin Song 默认选中UPI的 埋点里体现是点击了还是没点击",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 19:53",
+          "sender": "宋国兵 Colin Song",
+          "content": "@易希倩 Queenie Yi 点击埋点一定是点击动作才会发出，默认选中是不会有点击埋点的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:32",
+          "sender": "徐基跃 Star Xu",
+          "content": "[Image: img_v3_0211s_9b23b353-7368-400f-98c3-c91592d8e78g]\n@桂良伟 Liangwei Gui @易希倩 Queenie Yi 文案已调整\nCC @马文相 Moda Ma",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 19:01",
+          "sender": "桂良伟 Liangwei Gui",
+          "content": "@宋国兵 Colin Song @易希倩 Queenie Yi @刘凯 Kai Liu @马文相 Moda Ma @杨林 Sennia Yang @李叶飞 Yefei Li @徐基跃 Star Xu",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐需求-技术沟通群",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-20 13:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 我昨天都补充了 那个是服务端的是吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 13:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 都加上了哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 13:42",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi [https://itp.mayfair-inc.com/translation/edit?id=301](https://itp.mayfair-inc.com/translation/edit?id=301) 这里三个文案有空补充一下阿语的文案哈\n[Image: img_v3_0211s_c02cbce9-0b0e-463e-b311-6add2448f24g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 13:46",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 看到了 collecting和typical有了 还少一个Find My Size",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 13:46",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 稍等",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 11:29",
+          "sender": "陈嘉义 Jiayi Chen",
+          "content": "[Image: img_v3_0211s_c903c6ce-fd77-41a0-a8d3-193ad4e57f9g]\n@桂良伟 Liangwei Gui  线上尺码这里，原本字重是medium（500）的，我看你新设计稿全部改成 400了，这个确定要这么做吗。 cc@易希倩 Queenie Yi",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-20 15:39",
+          "sender": "宋国兵 Colin Song",
+          "content": "@Ashutosh can't from app side. @王叠 Die Wang can we get them from backend? cc @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 11:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh Now is it manual ? Sorry, I didn't get your point",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 11:11",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi nah - we dont pass it as far i know",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 10:34",
+          "sender": "Ashutosh",
+          "content": "@宋国兵 Colin Song @易希倩 Queenie Yi ?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 15:39",
+          "sender": "宋国兵 Colin Song",
+          "content": "@Ashutosh can't from app side. @王叠 Die Wang can we get them from backend? cc @易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-20 20:36",
+          "sender": "Ashutosh",
+          "content": "@夏佐杰 Summer Xia hey there 8 - will share others too soon \n\n@Sakshi Bansal -  fine from language angle- @Krishna  Srivastava passed. \n\n@易希倩 Queenie Yi hey -you will have to give option to people select",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-20 20:36",
+          "sender": "Ashutosh",
+          "content": "@夏佐杰 Summer Xia hey there 8 - will share others too soon \n\n@Sakshi Bansal -  fine from language angle- @Krishna  Srivastava passed. \n\n@易希倩 Queenie Yi hey -you will have to give option to people select",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-20 11:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<file key=\"file_v3_0011s_445f706c-eff3-447f-b954-6ff428ae8acg\" name=\"逐条打标明细表_完整版.xlsx\"/>",
+          "msg_type": "file",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-20 11:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "【数据概况】\n\n  已分析退货原声（425-518）：407,656 条\n  - ✅ 高置信质量定位：14,205 条（3%）\n  - ⚠️ 中置信质量定位：17,975 条（4%）\n  - ❓ 低置信质量定位：2,776 条（1%）\n  - 📝 有效但非质量问题：320,634 条（79%）\n  - 🔇 噪音排除（无效原声）：52,066 条（13%）\n\n  高置信覆盖商品：5,131 个，全部",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-20 17:50",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao \n[Image: img_v3_0211s_3a57fe0a-69a8-4243-8213-ea2339d5a5ag]\n这个2000能临时放开一下吗  有一批WhatsApp要发，需要手机号，大概14W人",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "产品技术核心管理群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-20 16:35",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi 密切关注好本地的舆情和业务的反馈",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Instant refund- recovery link pay test",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-20 13:34",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi doesn’t look like lot of them want to pay",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-20 11:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@_all 后续所有的涉及C端用户交互的方案评审前都先发我看下哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "iOS原生测试",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-20 10:59",
+          "sender": "刘凯 Kai Liu",
+          "content": "@易希倩 Queenie Yi 间距改了，可以再看下",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 13 个会话，367 条消息"
+}

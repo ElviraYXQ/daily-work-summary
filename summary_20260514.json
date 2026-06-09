@@ -1,0 +1,385 @@
+{
+  "total_count": 516,
+  "total_chats": 9,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 474,
+      "messages": [
+        {
+          "time": "2026-05-13 21:23",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "[Sticker]",
+          "msg_type": "sticker",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 21:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211l_25da9731-23a3-46f5-b84f-2f1fd3a7104g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 21:00",
+          "sender": "Ashutosh",
+          "content": "Sharing the data sheet on OTM performance PDF. This is compiled from aggregated brand trends  Pinelab one our PG seeing across merchants on the platform.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 21:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "这个好加吗 衍儒老师[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 20:59",
+          "sender": "Ashutosh",
+          "content": "<file key=\"file_v3_0011l_7076dd3a-0426-4493-8671-0854dafda2hu\" name=\"OTM_Performance Analysis.pdf\"/>",
+          "msg_type": "file",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 21:23",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "没那么好加",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 21:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "你可别多想",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 21:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "哈哈哈我可没有这个意思",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 21:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "今天很晚了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 21:23",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "得明天了",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "DTO&质量当前现状碰一下",
+      "type": "group",
+      "count": 17,
+      "messages": [
+        {
+          "time": "2026-05-13 19:13",
+          "sender": "周美 Jane Zhou",
+          "content": "<forwarded_messages>\n[2026-04-12T20:39:20+08:00] 薛驰 Chi Xue:\n    <forwarded_messages>\n    [2026-04-12T20:22:17+08:00] cli_a92c07bfbff8dbc4:\n        <card>\n        页面完整，所有模块正常渲染。逐项校验通过：KPI数字一致、表格无空值、署名",
+          "msg_type": "merge_forward",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 19:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 应该不是来不及，我觉得就是原本比如用户要过生日，买了衣服但是生日到了货没到，最后就会RTO，226后我们速度快了，这种情况会减少，所以RTO就降了，但收货后试穿可能还是不合适/不喜欢，只能退货",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 19:13",
+          "sender": "罗军 Beiyan Luo",
+          "content": "@易希倩 Queenie Yi 是一个思路",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 19:11",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 那么退回来的东西金额也会高一些",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 19:10",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 所以就是来不及RTO了，转移到DTO是吗。DTO如果以后能加上原因就最好了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 19:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "有个思路 大家一起看看呢\n[Image: img_v3_0211l_52537a82-f334-4e23-9857-12d07057d4dg]\n226IQ切了本地仓，DTO开始涨，RTO开始降，因为原本用户购买的有时效要求的商品因为速度提升就不return on delivery了（体现在RTO降），收货后试穿发现还是不太合适退货（体现在DTO涨+退货导致的DTO涨）",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 19:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "另外从运营那边了解到，我们IQ价格在2月底也做了大幅调整，包含闪购取消、折扣幅度上调等，但货其实是没有变的，有可能用户心理预期也会抬升",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 18:52",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211l_40418301-5ce7-4247-b64b-99e33889095g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 18:57",
+          "sender": "周美 Jane Zhou",
+          "content": "@易希倩 Queenie Yi 新老都是上升的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 18:51",
+          "sender": "Jennifer Li",
+          "content": "@周美 Jane Zhou @易希倩 Queenie Yi 可以看看运营有没有推新人群/区",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-05-13 20:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 明天上午给出来哈，数据还有些问题 我再看下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 15:25",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi @肖帝鸿 Hardy Xiao",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 15:24",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@肖帝鸿 Hardy Xiao 这个可以稍等 我也正在看退货中反馈偏大的用户留存的身材信息以及她们购买的尺码 看看他们购买的尺码本身有没有问题",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 15:25",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li 应该可以的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 15:24",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi 这个今天会有结论吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 15:04",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi @肖帝鸿 Hardy Xiao 那么新的身材尺码标准这周能出吗？和怎么映射IQ尺码",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 14:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Jennifer Li Hi Jennifer，\n2） 数据准确性：我又和大数据同学一起验证了下，没有问题\n3） 尺码推荐：目前我们计划先用历史购买用户的身材+对尺码的反馈，计算出推荐尺码给后续用户推荐，这样对衣服本身的尺码依赖比较低，已经在开发评估中了，后续上线可以看下效果",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 09:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@肖帝鸿 Hardy Xiao 有可能的，因为这里就完全是按照用户自己表达的总结出来的，她可能原始说的就是“衣服太大了”类似这种",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-05-13 20:21",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma @王叠 Die Wang 这笔单子辛苦帮配置下风控分在R1R2范围内，要看下极速退",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 20:15",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi S011260424155855018004 this one is Mohit's forward order please help for instant refund adjustment[双手合十]",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 19:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma Hi Shivani, if he has raised the return, it is too late to configure its risk score, we must configure it before return. So please provide order ID, you can raise return after we finish",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 16:40",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi In one of other cases we wanted to check the below:\n1. Instant refund happens \n2. Pickup is QC failed\n3. No WA follow up is triggered\nFor testing this out with DEL courier Mohit has ra",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 16:22",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi \n\nFor my understanding, can you help me out how the system behaves in the below scenario:\n\nOrder is in picking stage, invoice has been generated however customer partially cancelled th",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 14:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj Hi, all dashboards maintained by BI or tech team, I don't have approval access either. Please apply directly, then the owners will approve",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-13 15:35",
+          "sender": "Anubhav Agrawal",
+          "content": "@向瑾 Jin Xiang @易希倩 Queenie Yi @张佳宜 Jiayi Zhang Ideally, we would want early refunds to increase. Early refund risk checks should be tweaked to include more customers while keeping the same level of In",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 15:15",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@Anubhav Agrawal The Instant refund ratio increased over the past two days, now it is 9-10% per day. Please pay attention to the vendor pickup quality.\n@易希倩 Queenie Yi 4 days refund ratio not changed ",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 15:48",
+          "sender": "李霞 Lacie Li",
+          "content": "@易希倩 Queenie Yi [https://data.mayfair-inc.com/bi/#/dashboard/38183?appId=1&sheetId=4518](https://data.mayfair-inc.com/bi/#/dashboard/38183?appId=1&sheetId=4518)。这一部分点击可与逆向单明细联动。\n[Image: img_v3_0211l_1",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 12:10",
+          "sender": "Ashutosh",
+          "content": "<p>the link payment situation- @易希倩 Queenie Yi @张佳宜 Jiayi Zhang honestly sample is too low to make a decision whether a second payment feature shall be there or not</p>",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Savana 周会",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-13 17:50",
+          "sender": "邓秋霖 Eddie Deng",
+          "content": "拆一下类目看一下，我记得之前是传统服饰和大码变非常差 @易希倩 Queenie Yi @Jennifer Li @周美 Jane Zhou",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 18:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@邓秋霖 Eddie Deng 我看了一下，好像不是单一品类的问题，GMV占比较高的品类都在2月中下旬退货率有抬升趋势，比如longewear,curve,bag,co-ords,dresses,T-shirts,tops\n[Image: img_v3_0211l_f90f0909-248d-42fd-8e92-79c57e4bb67g]",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-13 17:40",
+          "sender": "薛驰 Chi Xue",
+          "content": "[Image: img_v3_0211l_d8345708-2824-4a33-a109-feea3cc1c75g]\n@易希倩 Queenie Yi @向瑾 Jin Xiang 你们觉得为啥最近退货率暴涨iq",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-13 16:30",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 我记得之前是5.几，放开pincode变成9.5%基本上符合预期吧？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-13 15:18",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @盛伟松 Sam Sheng \n[Image: img_v3_0211l_8d7add8f-8c1f-4c10-805d-85df56d2a78g]\n昨天推全后 极速退一天也只有10% 是不是有点少",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "RTO Reduction Project",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-13 23:12",
+          "sender": "Ashutosh",
+          "content": "<p>@易希倩 Queenie Yi hey check once if this covers- its for Only Fashion</p>",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-13 13:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang  9 am to 1 am 需要调一下哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 9 个会话，516 条消息"
+}

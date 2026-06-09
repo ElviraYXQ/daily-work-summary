@@ -1,0 +1,672 @@
+{
+  "total_count": 280,
+  "total_chats": 14,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 184,
+      "messages": [
+        {
+          "time": "2026-04-24 20:46",
+          "sender": "罗军 Beiyan Luo",
+          "content": "<todo task_id=\"b9264f1b-f5be-4554-9805-0a83d3ee0b0c\">\n项目资料你整理一下发给我\nDue: 2026-04-25 08:00:00\n</todo>",
+          "msg_type": "todo",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 20:44",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/docx/YIMsdWYMQo0RiMxFOWLc0k3pnUd",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 20:45",
+          "sender": "罗军 Beiyan Luo",
+          "content": "好的 我明天看完反馈你",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 21:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Thank you dear",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 23:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "北总，本周周报请查收https://mayfairtech.larkenterprise.com/docx/Bb0XdleqpobLDOx9unQcnP9Bnec",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 20:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "Great, dear. It helps a lot, can you help do another survey? \nAre there any size recommendation they think is very helpful? If any, which is it? And how do these competitors do?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 19:53",
+          "sender": "罗军 Beiyan Luo",
+          "content": "项目资料你整理一下发给我",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 21:17",
+          "sender": "Ghasaq Hamid",
+          "content": "Sure dear will send it tomorrow and will send you the results next Friday",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 18:44",
+          "sender": "王叠 Die Wang",
+          "content": "是啥来着，我好像有印象",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 18:42",
+          "sender": "易希倩 Queenie Yi",
+          "content": "S071260331175446044001 你知道这种伊拉克zeropay是啥吗",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 23,
+      "messages": [
+        {
+          "time": "2026-04-24 16:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh Nono, Instant refund will come once return approved, Early refund will display after 4 days of return approved",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:22",
+          "sender": "Ashutosh",
+          "content": "<p>@易希倩 Queenie Yi ahh ok ok- sorry my bad - i got little confused</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 14:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@向瑾 Jin Xiang I think we need to, because sometimes their return will be reviewed by the CS time, it will take some time",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 14:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh This means return approval, so your point is it is a little misunderstanding?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 14:42",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi yeah we need to mention it like return approval not refund - and this line actually won't be needed here since instant refund would come after 3 days of return approved",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 14:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh no, we initial refund after return approved",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 14:13",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi thats what I'm saying it would come after return is approved and this 3 days time of instant refund would come after return is approved so why refund would need approval",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 14:11",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi refund doesnt need review it's for return",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 14:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@向瑾 Jin Xiang Later we will decide based on final test result, maybe we can open more",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 13:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ashutosh once refund finished, there are different scripts for different refund method",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 21,
+      "messages": [
+        {
+          "time": "2026-04-24 16:27",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi @Anushka Kala Yiu can use the alternate item and update reverse Id for that one maybe",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 16:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma It is right, this case is an Early Refund based on riskScore, but we need @Anushka Kala change her pickup address so as not to trigger an Early Refund.\n[Image: img_v3_02112_41958776-dc2",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:12",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi so i'll change my pickup address on the app\nis it ok if its the same pincode",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 16:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala OK",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:17",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi unable to change address, i think pickup got scheduled so the option went[尬笑]",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 16:18",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Can you change from CRM?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:19",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi unable to. @Ankit Gupta/@Rishi Gaurav do you have access to do this?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 15:52",
+          "sender": "Anushka Kala",
+          "content": "hey @易希倩 Queenie Yi, this one had similar wrong tagging on CRM \n[Image: img_v3_02112_a1aada49-6287-4691-a3ba-39b9dc89766g]\ncorrect reason: change of mind \nhave added all info on doc",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 15:53",
+          "sender": "Shivani Verma",
+          "content": "@Anushka Kala @易希倩 Queenie Yi Please check case not completed. do we need to cancel and retry?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 16:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Can you cancel it and resubmit?",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 11,
+      "messages": [
+        {
+          "time": "2026-04-24 17:01",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "orderId: S011260405011015002003   bureau，风控分0分 @王叠 Die Wang @易希倩 Queenie Yi @杨林 Sennia Yang",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 16:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang [新月脸]希望她选钱包不是选错了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang 就会来客服要求退回原路[衰]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:58",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 选错了会咋样，客户会想要取消嘛，或者来咨询退到账号？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 16:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@杨林 Sennia Yang 我来拉群",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 15:42",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 极速退准备开灰了，因为今天周五，线上变更需要走紧急变更流程。你看拉群说明一下。\n[Image: img_v3_02112_5b5b361d-bc1f-46a8-ac73-9e8716d23eeg]\n[https://mayfairtech.larkenterprise.com/wiki/M5S4w3iCPiQHsfkwn7ec9eoPnzg?fromScene=sp",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 15:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://data.mayfair-inc.com/bi/#/dashboard/38183?appId=1&sheetId=4518 活动看板@_all",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 13:29",
+          "sender": "杨林 Sennia Yang",
+          "content": "@易希倩 Queenie Yi 让他们退款成功后whatsApp的消息也看下，那个跳转链接之前测试环境看不了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 13:14",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao 在了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 13:11",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 有人试单了吗",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "易希倩 Queenie Yi, 王叠 Die Wang, 刘雅珺 Chelsea Liu, 徐慧君 David Xu等6人",
+      "type": "group",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-04-24 17:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu 新员工就是直接用公司邮箱和密码登录，在4A手动创建就好了吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu 那是怎么提需求给你们？大概多久呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:08",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu 登陆方式是指啥？\n现在：飞书登录\n不用飞书后：使用原飞书关联的公司账号和密码登录",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu 是需要你们这边开发吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "后续希望继续用邮箱和密码登陆，但是账号和之前飞书的是同一个",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:40",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@刘雅珺 Chelsea Liu 请问一下目前公司邮箱和飞书强绑定吗？背景是后续印度客服同事不用飞书了，公司邮箱还可以正常使用吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu 她们公司邮箱还在且不变，只是不用飞书了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@徐慧君 David Xu 徐总，请问一下印度同事后续不用飞书了，但公司邮箱还在，她们4A账号还是同一个吗？就是比如原来用飞书登陆CRM的，后续使用公司邮箱和密码登陆是不是一样的",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Bureau call",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-24 20:36",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "[Image: img_v3_02112_0139de79-80ac-45d9-9783-67159b6cd45g]\n新增了一部分Bureau的结果，但也都是0，我找bureau 确认了。cc @易希倩 Queenie Yi @王叠 Die Wang @杨林 Sennia Yang",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 20:48",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi  bureau还没回复",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 20:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng 都正常吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 21:33",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi @王叠 Die Wang bureau 反馈没有问题\n[Image: img_v3_02112_46841f9d-354d-4474-98f3-87e6984f900g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 20:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "有非0分的吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@盛伟松 Sam Sheng 再观察一下，看看有没有非0的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:54",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "[Image: img_v3_02112_c48906f8-e8e4-4996-a336-825f7b46f03g]\n\ncc @易希倩 Queenie Yi @王叠 Die Wang",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "AI chatbot IQ & IN",
+      "type": "group",
+      "count": 6,
+      "messages": [
+        {
+          "time": "2026-04-24 18:14",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi Sure.. Let me highlight the new fields and confirm",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 17:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Yogesh Agarwal what is it?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:27",
+          "sender": "Yogesh Agarwal",
+          "content": "@易希倩 Queenie Yi any progress on the Transcripts dashboard as well??",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 17:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Yogesh Agarwal Can you only mark the new fields you want to add this time? I noted there are many existing fields in our dashboard",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:26",
+          "sender": "Yogesh Agarwal",
+          "content": "@易希倩 Queenie Yi Please ask the team member to make all headers in English so that everyone of us can understand it clearly",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 16:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://data.mayfair-inc.com/bi/#/dashboard/38183?appId=1&sheetId=4518  It is T+1 data dashboard for Instant Refund project",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "李霞 Lacie Li, 王越诗 Kice Wang, 易希倩 Queenie Yi, 王叠 Die Wang",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-24 17:30",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李霞 Lacie Li 看板有没有什么方法AI加个英文翻译，印度人也要看[不看]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:33",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李霞 Lacie Li [不看]看看有没有什么AI一键翻译的能力",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 17:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李霞 Lacie Li 今天已经有单子了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:54",
+          "sender": "李霞 Lacie Li",
+          "content": "https://data.mayfair-inc.com/bi#/dashboard/38183?appId=1&sheetId=4518 @王越诗 Kice Wang 昨天对焦的P0 指标也放上去了，因为基本没有数据，也没法验证，等有正式数据了再看cc@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 17:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "明天就有数据了",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "产品小组",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-04-24 14:23",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@滕苗 Mia Teng @程茹洁 Rita Cheng 周报记得哈",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 11:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_02112_ebd31309-028b-499c-a048-73307e5a42dg]\n按这个了哈",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 11:53",
+          "sender": "滕苗 Mia Teng",
+          "content": "@易希倩 Queenie Yi 我5.6号请一天假，5.2晚上有航班，需要避开这两天5.2/5.6",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 11:52",
+          "sender": "程茹洁 Rita Cheng",
+          "content": "@易希倩 Queenie Yi 我都可以，随便安排吧，另外我430会请一天假哈",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 11:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@滕苗 Mia Teng @程茹洁 Rita Cheng 五一需要安排oncall值班，有没有需要请假或者不方便的时间，发我一下哈",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-04-24 16:42",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi 用的是4a账号，不用了飞书4a账号还在不？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-24 16:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "就是用账号密码那一套",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "和三方员工一样",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 16:41",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang 印度客服后续没有飞书了，能直接用目前的飞书账号邮箱、密码登陆AI chat吗",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-24 20:53",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Please also send the doc",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 10:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<forwarded_messages>\n[2026-04-23T21:03:52+08:00] 薛驰 Chi Xue:\n    <forwarded_messages>\n    [2026-04-23T20:39:12+08:00] 薛驰 Chi Xue:\n        @田冀雨 Yosa Tian 我觉得按照我和张明的经验是，你们需要都做\n    [2026-04-23T20:39:20+0",
+          "msg_type": "merge_forward",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-24 10:04",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>大家可以仔细揣摩一下老板的意思，放弃一些固化的思维，用更开放的心态使用AI，使其发挥最大的价值，然后应用到自己的项目中</p>",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退Instant Refund沟通群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-24 20:41",
+          "sender": "王叠 Die Wang",
+          "content": "刚才碰到北总，周一我们基于周末的数据给出一个AI风控模型表现的评估报告 @盛伟松 Sam Sheng  @易希倩 Queenie Yi  cc @孟敏敏 Yitong Meng",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "产品技术核心管理群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-24 21:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>@罗军 Beiyan Luo 恭喜yitong老师 @孟敏敏 Yitong Meng</p>",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退切流紧急审批",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-24 16:14",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo @孟敏敏 Yitong Meng 北总、yitong老师，昨日极速退项目功能上线，今日已完成极速退场景相关白单验证（提前退需4天后方可验证），验证后无重大影响用户体验、业务转化的问题，因此期望今日可以正式开灰度20%，同步验证真实用户数据。请批准。",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 14 个会话，280 条消息"
+}

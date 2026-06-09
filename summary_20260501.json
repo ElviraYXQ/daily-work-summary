@@ -1,0 +1,238 @@
+{
+  "total_count": 52,
+  "total_chats": 6,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 35,
+      "messages": [
+        {
+          "time": "2026-04-30 19:38",
+          "sender": "易希倩 Queenie Yi",
+          "content": "好了",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 20:55",
+          "sender": "王俊 June Wang",
+          "content": "好滴多谢",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 19:34",
+          "sender": "易希倩 Queenie Yi",
+          "content": "什么时候宣传",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 19:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "目前在灰度 不是所有用户都覆盖的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 19:38",
+          "sender": "未知",
+          "content": "<card title=\"BI权限申请提交成功!\">\n**你本次提交 1 条权限申请**\n[\\[数据集\\]- 行列数据权限 dwd_mf_sc_fmt_ord_package_sku_df](https://applink.feishu.cn/client/mini_program/open?mode=appCenter&appId=cli_9cb844403dbb9108&width=1136&",
+          "msg_type": "interactive",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 19:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "不能退商品不能申请退货 也就没有退款一说",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 20:20",
+          "sender": "易希倩 Queenie Yi",
+          "content": "退货提交后根据风控分判断，每个用户不尽相同：\n部分用户会享受极速退：在退货申请审核通过后立即发起退款，然后后续再取件多数用户会享受提前退：在退货申请审核通过后如果4天内没有完成取件，除用户自行推迟取件或不可抗力外，会出现提前退款按钮，用户点击后可立即退款，然后后续正常取件极少数用户还是走普通退款：即取件质检完成后退款\n\n注意：\n有过退款不退货记录的用户无法再次享受后续极速退或提前退同一个用户同一时",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 20:55",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/wiki/L7zxwasp3izeI9kdpCFc5NonnCd\n发券SOP写好了，看看可以嘛",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 19:43",
+          "sender": "莫骄 Yucy Mo",
+          "content": "好的，只是想先了解一下规则",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 19:46",
+          "sender": "未知",
+          "content": "<card title=\"你发起的 “BI行列权限申请” 已通过\">\n---\n**审批事由**\n权限内容: Column permissions: 【Model Field】: sub_ord_sku_discount_price,in_price,sub_ord_pay_amt_usd,sub_ord_pay_amt,usr_email,ord_pay_amt,sub_ord_sku_disco",
+          "msg_type": "interactive",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 10,
+      "messages": [
+        {
+          "time": "2026-04-30 22:09",
+          "sender": "曹津 Jin Cao",
+          "content": "<p>@易希倩 Queenie Yi 此人当时有一单进行中的提前退售后单：https://crm.mayfair-inc.com/refund-detail?reverseId=S01326042413112621001，同时只能享受一笔，所以无权益</p>",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 19:51",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi @曹津 Jin Cao 我这边返回了 64分，应该是符合提前退。你看下[Image: img_v3_02118_5f68e0c4-bd1f-4f48-9727-54e40ca0363g]",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 19:39",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma What is the issue Shivani? I can't get previous information",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 19:36",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Ishita Singh @盛伟松 Sam Sheng 帮看看这个单子应该是提前退的，但没有出现按钮",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 13:26",
+          "sender": "Shivani Verma",
+          "content": "@Ankit Gupta second one Queenie will check first on early refund part cc-@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 13:05",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey can you get this checked since die on holiday",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 13:27",
+          "sender": "Shivani Verma",
+          "content": "Okay. @易希倩 Queenie Yi for this one we have got online from ofc please check if there is any problem here",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 03:19",
+          "sender": "Shivani Verma",
+          "content": "@陈振华 Anzhong Chen ok\ncc-@易希倩 Queenie Yi these orders were impacted.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 00:48",
+          "sender": "Upender Bajaj",
+          "content": "@易希倩 Queenie Yi Kindly provide the list of users who have customer data access on CRM like customer name / address / phone number / e-mail / UPI details along with access / usage log for FY 25-26 (Apr",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 10:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Upender Bajaj @徐慧君 David Xu 帮看看这个信息在哪里查呀",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "滕苗 Mia Teng, 徐基跃 Star Xu, 李霞 Lacie Li, 易希倩 Queenie Yi",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-04-30 11:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "按时间吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 11:47",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李霞 Lacie Li 这个明细怎么区分是新版退货原因的呀",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-30 11:40",
+          "sender": "滕苗 Mia Teng",
+          "content": "@易希倩 Queenie Yi",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Ria Dutta, Queenie Yi, June Wang, Sheetal Jasoriya and 3 more",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-30 21:13",
+          "sender": "Sheetal Jasoriya",
+          "content": "@李燕 Lareina Li @易希倩 Queenie Yi @王俊 June Wang This will solve the future problem. \n\nBut the existing \"General\" coupons are still valid, so customers will continue the use those coupons and that will be",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-30 21:37",
+          "sender": "王俊 June Wang",
+          "content": "@易希倩 Queenie Yi We can try to see if we can obtain this data after the holiday. @Sheetal Jasoriya Can you help build a risk probability model to assess how large our hit exposure to the impact of gene",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "新的尺寸部位方案",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-30 20:09",
+          "sender": "Jennifer Li",
+          "content": "@肖帝鸿 Hardy Xiao @易希倩 Queenie Yi 我们计划一下。这个也很重要",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN周年庆抽免单",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-30 10:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma 和业务确认过了，不上策略，知识库兜底",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    }
+  ],
+  "summary": "共 6 个会话，52 条消息"
+}

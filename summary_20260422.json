@@ -1,0 +1,336 @@
+{
+  "total_count": 264,
+  "total_chats": 7,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 234,
+      "messages": [
+        {
+          "time": "2026-04-21 22:36",
+          "sender": "程茹洁 Rita Cheng",
+          "content": "好的～",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 21:16",
+          "sender": "罗军 Beiyan Luo",
+          "content": "收更多Fee？",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 20:46",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "身高体重应该没那么稀疏",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 20:43",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "有地域的和没有地域的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 20:45",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "会合并很多",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 20:42",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "[捂脸]",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 20:45",
+          "sender": "易希倩 Queenie Yi",
+          "content": "为啥",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 20:43",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "不会",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 20:43",
+          "sender": "易希倩 Queenie Yi",
+          "content": "能不能突破一下",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 20:52",
+          "sender": "王衍儒 Yanru Wang",
+          "content": "当你需要看大盘的时候，去掉省份维度，然后技术不同用户id",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "售后🐂🐎碰碰",
+      "type": "group",
+      "count": 10,
+      "messages": [
+        {
+          "time": "2026-04-21 16:23",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 那不知道了 脱敏完下发的就是这么长 估计是某个地名 脱敏也不会做缩短处理 就这样了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 16:22",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 现在就是换行了呀 但是这个单词长到一行都展示不下就变成这样了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 16:22",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li [捂脸]什么单词这么长",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 16:16",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 不是应该展示不下就放到第二行展示吗 不可能截断单词的吧",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 16:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "那等展示完全吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 16:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li 所以不脱敏的时候 展示也会超出去吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 16:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@李叶飞 Yefei Li \n[Image: img_v3_0210v_bbd0e86a-06a6-475a-be43-6f814e48993g]\n这里是不是有bug",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 16:12",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 这个是因为单词太长了 没法换行",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 16:14",
+          "sender": "李叶飞 Yefei Li",
+          "content": "@易希倩 Queenie Yi 要是太长还是会这样的 除非强制换行 那样更看不懂了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 16:11",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://crm.mayfair-inc.com/refund-detail?reverseId=S01326042113354139001 展示到外面去了",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Yitong & Queenie",
+      "type": "group",
+      "count": 9,
+      "messages": [
+        {
+          "time": "2026-04-21 14:35",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo \n还有退货原因，原因和图片要一致，且图片应该包含包装袋、问题部位、标签",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 14:03",
+          "sender": "易希倩 Queenie Yi",
+          "content": "比如sys_only，就是质检时仅以我方系统图片为准",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 14:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210v_dcdc59c9-ee59-4121-900f-f7f67b64433g]\n这里记得选下生效",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 14:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 这个是供应链那边用的，意思是快递员参考图片的顺序",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 14:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210v_cc0b90c0-b3b5-4b62-8099-58bb96b7982g]",
+          "msg_type": "image",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 14:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://crm.mayfair-inc.com/mld/return-reason-secondary，CRM配置和管理的",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 13:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0210v_cc65586a-3405-4d0f-9928-227b03bc3e3g]\n[Image: img_v3_0210v_25bdae7a-9af9-4c37-a0b9-3c1c5c3f06cg]\n[Image: img_v3_0210v_9b0956da-3146-421a-99fd-3a3551ca6a0g]\n[Image: img_v3_0210v_ce",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 13:58",
+          "sender": "易希倩 Queenie Yi",
+          "content": "如果选择了不想要了，就不需要图片",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 13:57",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@罗军 Beiyan Luo 根据退货原因来的 比如选择了破损，那就必须上传图片，",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退Instant Refund沟通群",
+      "type": "group",
+      "count": 7,
+      "messages": [
+        {
+          "time": "2026-04-21 19:02",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi yes all forward orders placed and updated in your test doc and user IDs are also mentioned",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 19:46",
+          "sender": "易希倩 Queenie Yi",
+          "content": "<p>https://mayfairtech.larkenterprise.com/wiki/QHGJwddqpirt04kvbbEcBtVbnxg @王叠 Die Wang 后续加白参考这个文档哈</p>",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 18:54",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shivani Verma Hi Shivani, did all testers finish to placing their orders?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 18:10",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @盛伟松 Sam Sheng @陈振华 Anzhong Chen [https://mayfairtech.larkenterprise.com/wiki/VZHzwTBJoiINjwkdGnKcOkoAnEe](https://mayfairtech.larkenterprise.com/wiki/VZHzwTBJoiINjwkdGnKcOkoAnEe)\n[Image:",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-04-21 16:03",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@王越诗 Kice Wang  @易希倩 Queenie Yi  麻烦看下 针对反馈一的解决方案是否可以?\n- 关于反馈1（最终退款策略不一致）：\n  - 原因：风控分与退款策略的映射区间比较宽松，导致部分 case 落入了更高级别的退款策略。\n  - 解决方案：收紧映射区间\n    - 极速退：≤39（原≤49）\n    - 提前退：40-64（原50-69）\n    - 普通退：≥65（原≥7",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 16:19",
+          "sender": "盛伟松 Sam Sheng",
+          "content": "@易希倩 Queenie Yi @王越诗 Kice Wang 按照约定，模型效果业务审核通过率超过85%可上线。当前超过95%，已符合上线要求。 cc @孟敏敏 Yitong Meng  @王叠 Die Wang @杨林 Sennia Yang",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 13:29",
+          "sender": "未知",
+          "content": "@盛伟松 Sam Sheng cc  @易希倩 Queenie Yi @孟敏敏 Yitong Meng @王叠 Die Wang\nhey dears - 已review最新版，共标记 23 条“否”：\n省流版结论：（1）模型认为的中高风险->输出的分数->和最终退款策略映射不一致；（2）有一个风险模型分数异常值，为-1\n\n1. 主要问题集中在 策略被放宽，但评估理由并不支持放宽：其中 19 条是普",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-04-21 18:32",
+          "sender": "Joana Alaa",
+          "content": "@易希倩 Queenie Yi Got it dear thank you [爱心]",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-04-21 18:12",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Joana Alaa If the order is Fast, then it can be canceled entirely only. Because currently in Iraq, all our orders are Fast, so it can't be cancelled partially",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-21 17:53",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi All orders are placed & UUIDs also shared on the doc you created. We can move to the next step after release [碰拳]",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Savana包装标准同步群",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-04-21 17:38",
+          "sender": "曾繁旭 Derian Zeng",
+          "content": "<forwarded_messages>\n[2026-04-17T13:35:31+08:00] Ashutosh:\n    <forwarded_messages>\n    [2026-04-16T18:34:27+08:00] 张佳宜 Jiayi Zhang:\n        During the return process of non-apparel products, have we ",
+          "msg_type": "merge_forward",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 7 个会话，264 条消息"
+}

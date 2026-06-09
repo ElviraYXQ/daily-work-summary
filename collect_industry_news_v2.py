@@ -372,11 +372,11 @@ def generate_summary_with_ai(news_raw: str, history_actions: str) -> str:
     )
 
     api_base = os.environ.get('ANTHROPIC_BASE_URL', 'https://litellm-sg.mayfair-inc.com')
-    api_key = os.environ.get('ANTHROPIC_AUTH_TOKEN', '')
+    api_key = os.environ.get('ANTHROPIC_AUTH_TOKEN') or os.environ.get('CLAUDE_API_KEY', '')
     model = os.environ.get('ANTHROPIC_MODEL', 'claude-sonnet-4-5-20250929')
 
     if not api_key:
-        print("   ❌ 未配置ANTHROPIC_AUTH_TOKEN")
+        print("   ❌ 未配置ANTHROPIC_AUTH_TOKEN或CLAUDE_API_KEY")
         return None
 
     print("\n🤖 AI正在生成推送...")

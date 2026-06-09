@@ -1,0 +1,176 @@
+========================================
+开始时间: 2026年 4月13日 星期一 17时07分38秒 CST
+========================================
+============================================================
+🚀 开始执行每日工作汇总任务
+⏰ 时间: 2026-04-13 17:07:38
+============================================================
+
+📥 步骤 1/5: 获取昨天的消息...
+📅 获取消息时间范围：2026-04-12T00:00:00+08:00 到 2026-04-12T23:59:59+08:00
+📦 获取第 1 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 2 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 3 页消息...
+   ✓ 获取 16 条消息
+
+✅ 总共获取 116 条消息
+
+🔍 步骤 2/5: 过滤与你相关的消息...
+   ✓ 过滤掉 96 条无关消息
+   ✓ 保留 20 条相关消息
+
+🔍 步骤 3/5: 分析消息...
+⚠️  未配置 CLAUDE_API_KEY，使用简单分析模式
+   ✓ 使用简单统计分析
+
+📝 步骤 4/5: 生成汇总报告...
+   ✓ 报告生成完成
+
+📤 步骤 5/5: 发送到飞书...
+❌ 缺少飞书配置
+   ✓ 详细数据已保存到: summary_20260413.json
+
+============================================================
+✅ 任务执行完成！
+============================================================
+结束时间: 2026年 4月13日 星期一 17时07分47秒 CST
+
+========================================
+开始时间: 2026年 4月13日 星期一 17时10分26秒 CST
+========================================
+============================================================
+🚀 开始执行每日工作汇总任务
+⏰ 时间: 2026-04-13 17:10:26
+============================================================
+
+📥 步骤 1/5: 获取昨天的消息...
+📅 获取消息时间范围：2026-04-12T00:00:00+08:00 到 2026-04-12T23:59:59+08:00
+📦 获取第 1 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 2 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 3 页消息...
+   ✓ 获取 16 条消息
+
+✅ 总共获取 116 条消息
+
+🔍 步骤 2/5: 过滤与你相关的消息...
+   ✓ 过滤掉 96 条无关消息
+   ✓ 保留 20 条相关消息
+
+🔍 步骤 3/5: 分析消息...
+⚠️  未配置 CLAUDE_API_KEY，使用简单分析模式
+   ✓ 使用简单统计分析
+
+📝 步骤 4/5: 生成汇总报告...
+   ✓ 报告生成完成
+
+📤 步骤 5/5: 发送到飞书...
+命令执行失败: lark-cli im messages create --receive_id_type open_id --receive_id ou_cc38ac881bcf17d997f0cad7d9a9a621 --msg_type text --content '{"text": "
+📊 **每日工作汇总 - 2026年04月12日**
+
+## 📈 总体统计
+
+- 相关消息：20 条
+- 涉及会话：5 个
+
+💡 *仅统计@了你或你参与的消息*
+
+## 💬 主要会话
+
+1. 👥 **Savana 周会** - 7 条消息
+2. 💬 **未知群聊** - 7 条消息
+3. 👥 **IQ-AI chatbot and CS system upgrade** - 3 条消息
+4. 👥 **极速退Instant Refund沟通群** - 2 条消息
+5. 👥 **Instant Refund Project - Supply Chain** - 1 条消息
+
+---
+💡 *详细内容请查看完整文档*"}' --as bot --format json
+错误: Usage:
+  lark-cli im messages [command]
+
+Available Commands:
+  delete        撤回消息。Identity: supports `user` and `bot`; for `bot` calls, the bot must be in the chat to revoke group messages; to revoke another user's group message, the bot must be the owner, an admin, or the creator; for user P2P recalls, the target user must be within the bot's availability.
+  forward       转发消息。Identity: `bot` only (`tenant_access_token`).
+  merge_forward 合并转发消息。Identity: `bot` only (`tenant_access_token`).
+  read_users    查询消息已读信息。Identity: `bot` only (`tenant_access_token`); the bot must be in the chat, and can only query read status for messages it sent within the last 7 days.
+
+Flags:
+  -h, --help   help for messages
+
+Use "lark-cli im messages [command] --help" for more information about a command.
+
+Error: unknown flag: --receive_id_type
+
+❌ 消息发送失败
+   ✓ 详细数据已保存到: summary_20260413.json
+
+============================================================
+✅ 任务执行完成！
+============================================================
+结束时间: 2026年 4月13日 星期一 17时10分36秒 CST
+
+========================================
+开始时间: 2026年 4月13日 星期一 17时11分10秒 CST
+========================================
+============================================================
+🚀 开始执行每日工作汇总任务
+⏰ 时间: 2026-04-13 17:11:10
+============================================================
+
+📥 步骤 1/5: 获取昨天的消息...
+📅 获取消息时间范围：2026-04-12T00:00:00+08:00 到 2026-04-12T23:59:59+08:00
+📦 获取第 1 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 2 页消息...
+   ✓ 获取 50 条消息
+📦 获取第 3 页消息...
+   ✓ 获取 16 条消息
+
+✅ 总共获取 116 条消息
+
+🔍 步骤 2/5: 过滤与你相关的消息...
+   ✓ 过滤掉 96 条无关消息
+   ✓ 保留 20 条相关消息
+
+🔍 步骤 3/5: 分析消息...
+⚠️  未配置 CLAUDE_API_KEY，使用简单分析模式
+   ✓ 使用简单统计分析
+
+📝 步骤 4/5: 生成汇总报告...
+   ✓ 报告生成完成
+
+📤 步骤 5/5: 发送到飞书...
+命令执行失败: lark-cli im +messages-send --to ou_cc38ac881bcf17d997f0cad7d9a9a621 --text "\n📊 **每日工作汇总 - 2026年04月12日**\n\n## 📈 总体统计\n\n- 相关消息：20 条\n- 涉及会话：5 个\n\n💡 *仅统计@了你或你参与的消息*\n\n## 💬 主要会话\n\n1. 💬 **未知群聊** - 7 条消息\n2. 👥 **Savana 周会** - 7 条消息\n3. 👥 **IQ-AI chatbot and CS system upgrade** - 3 条消息\n4. 👥 **极速退Instant Refund沟通群** - 2 条消息\n5. 👥 **Instant Refund Project - Supply Chain** - 1 条消息\n\n---\n💡 *详细内容请查看完整文档*" --as bot --format json
+错误: Usage:
+  lark-cli im +messages-send [flags]
+
+Flags:
+      --as string                identity type: user | bot (default "bot")
+      --audio string             audio file_key, local file path
+      --chat-id string           (required, mutually exclusive with --user-id) chat ID (oc_xxx)
+      --content string           (one of --content/--text/--markdown/--image/--file/--video/--audio required) message content JSON
+      --dry-run                  print request without executing
+      --file string              file_key, local file path
+  -h, --help                     help for +messages-send
+      --idempotency-key string   idempotency key (prevents duplicate sends)
+      --image string             image_key, local file path
+      --markdown string          markdown text (auto-wrapped as post format with style optimization; image URLs auto-resolved)
+      --msg-type string          message type for --content JSON; when using --text/--markdown/--image/--file/--video/--audio, the effective type is inferred automatically (text|post|image|file|audio|media|interactive|share_chat|share_user) (default "text")
+      --text string              plain text message (auto-wrapped as JSON)
+      --user-id string           (required, mutually exclusive with --chat-id) user open_id (ou_xxx)
+      --video string             video file_key, local file path; must be used together with --video-cover
+      --video-cover string       video cover image_key, local file path; required when using --video
+
+Error: unknown flag: --to
+
+❌ 消息发送失败
+   ✓ 详细数据已保存到: summary_20260413.json
+
+============================================================
+✅ 任务执行完成！
+============================================================
+结束时间: 2026年 4月13日 星期一 17时11分20秒 CST
+

@@ -1,0 +1,511 @@
+{
+  "total_count": 160,
+  "total_chats": 13,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 97,
+      "messages": [
+        {
+          "time": "2026-05-11 20:49",
+          "sender": "易希倩 Queenie Yi",
+          "content": "这个是老品还是新品",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 20:32",
+          "sender": "未知",
+          "content": "https://mayfairtech.larkenterprise.com/docx/NGfnddoL0ontlbxHPEwcod0tnue?dcuId=6964985335201677314&from=vc_assistant_notice#doxcnNNPaNV7vt8oQwmmA0HL1Bh",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 20:20",
+          "sender": "未知",
+          "content": "Good evening, How's everything?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 21:15",
+          "sender": "未知",
+          "content": "“高退”下降的动作还在持续做吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 21:28",
+          "sender": "易希倩 Queenie Yi",
+          "content": "https://mayfairtech.larkenterprise.com/docx/MUIddao3ao2f6TxSDGCciUIZnfB 明天周会内容你看下哈 北总",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 21:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "lol",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 20:32",
+          "sender": "未知",
+          "content": "savana is really powerful hh",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 21:27",
+          "sender": "易希倩 Queenie Yi",
+          "content": "第一批下架品已经推全了\n目前结合TQRR的一版分析思路也已经有了，计划迭代模型，但是因为孙鹏暂时支持其他项目，暂时还未启动",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 20:20",
+          "sender": "未知",
+          "content": "Dear, do you have any ideas for this week’s survey, or is there anything you’d like me to highlight?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 21:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "OKOK",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 24,
+      "messages": [
+        {
+          "time": "2026-05-11 18:40",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@Ashutosh Anyway, we need to know how much this part, compare to whole orders.\nAlso, how is the TAT of this part customer.\nCC@易希倩 Queenie Yi @李霞 Lacie Li",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 19:07",
+          "sender": "李霞 Lacie Li",
+          "content": "@易希倩 Queenie Yi 我能说那印度同事没回复我么[捂脸]就上次我和你说的",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 18:20",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anubhav Agrawal @李霞 Lacie Li 霞姐 看板和UAP口径差异的问题有结论了嘛",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 16:20",
+          "sender": "Anubhav Agrawal",
+          "content": "@易希倩 Queenie Yi @Shivani Verma For now, gaps look the same to me. I hope someone is working on solving these pointers [双手合十]. @向瑾 Jin Xiang FYI.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 13:05",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi hey this one came earlier To as a point - you plan to add it in next phase?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 13:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@张佳宜 Jiayi Zhang 先手动看下用户意愿吧，而且我觉得如果用户主动愿意付，她会联系我们的，而不是我们主动问了她才说愿意付[不看]。做成系统功能倒是不难，但是完整方案需要再想下，比如多久不支付打坏标，无论设置多久都可能存在用户超时后跑来说愿意付钱，还是需要人工兜底",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 13:14",
+          "sender": "Ankit Gupta",
+          "content": "<p>@易希倩 Queenie Yi But still if the user intent was not to return the product at first go post taking the refund. We can still give this option to the user to make the payment for the previous order o",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 13:00",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@张佳宜 Jiayi Zhang Are there any users want to pay after we mark them as bad?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 11:12",
+          "sender": "向瑾 Jin Xiang",
+          "content": "@易希倩 Queenie Yi @李霞 Lacie Li 把这部分的4天取件情况也展示出来吧",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 13:03",
+          "sender": "张佳宜 Jiayi Zhang",
+          "content": "@易希倩 Queenie Yi 这些，应该是还没mark bad, 但是电话中明确表示愿意付钱。这次可以先手动发link，也看看用户表达的意愿是否真实。不过常态来看，确实应该给用户这样一个选项，这样我们mark他bad也更有理有据——钱也不还，货也不给",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 10,
+      "messages": [
+        {
+          "time": "2026-05-11 21:51",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi @Anjali Thakur \nS011260403013740093003\nS011260413125909094003\nS011260424222814083005\nS011260427111147016004\nS011260413234927011007\nS011260407144148063009\nS011260427181427183001\nS011260",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 21:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anjali Thakur @王叠 Die Wang Please help provide list",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 20:20",
+          "sender": "Anjali Thakur",
+          "content": "@易希倩 Queenie Yi Yes, these users should be informed proactively from our end, as it will help them receive their refunds instead of having to reach out to us separately.\n\nIt would be helpful if we cou",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 19:06",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anjali Thakur We also found there are 50+ users encountered this issue, do you think the CS team needs to inform these users? CC @王叠 Die Wang",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 18:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anjali Thakur Hi Anjali, we have fixed the issue, please check and assist handling related complaints from users. BTW, how many users did they raise this issue?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 18:59",
+          "sender": "Anjali Thakur",
+          "content": "@易希倩 Queenie Yi Hey ! \nThe customers have updated their refund mode, and the refunds have now been processed successfully. As of now, 4 users have reported this concern.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 16:54",
+          "sender": "Shivani Verma",
+          "content": "@易希倩 Queenie Yi please help confirm if this is done",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 10:31",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 这个昨天已经拉群处理中了",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 10:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anjali Thakur @曹津 Jin Cao 曹老师看下 好像是极速退项目影响到了这个功能",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 10:01",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anjali Thakur Hey Anjali, when did you find customers who are currently unable to add the refund details? CC @王叠 Die Wang @杨林 Sennia Yang Let us keep eye on whether it was impacted because of Instant",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "C端及AI创新",
+      "type": "group",
+      "count": 8,
+      "messages": [
+        {
+          "time": "2026-05-11 16:15",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala cool",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 16:05",
+          "sender": "易希倩 Queenie Yi",
+          "content": "[Image: img_v3_0211j_fc35ddf0-bea6-4559-a955-d19752250abg]\nwhere is this data from? Captured by AI or collected from users?",
+          "msg_type": "post",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 16:06",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi all by AI from the video input i gave",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 16:01",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi so i tried with a model photo and then with me with the video on. both are accurate. but i dont think users will like the video feature (its really creepy). they might still use the ph",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 16:21",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi height added manually by me before video started. sorry i didnt read the chart fully🥲",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 16:31",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala It's okay, I know, I checked your video[送心]",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 15:32",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Anushka Kala Cool, do you think its result matches your figure? And noted there is privacy policy, do users mind providing their height and weight in India?",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 14:45",
+          "sender": "Anushka Kala",
+          "content": "@易希倩 Queenie Yi \n[Media: file_v3_0011j_b99ba21a-2a2c-4201-a82c-e0d727da5a5g]",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IQ-AI chatbot and CS system upgrade",
+      "type": "group",
+      "count": 5,
+      "messages": [
+        {
+          "time": "2026-05-11 16:59",
+          "sender": "邹家辉 Jiahui Zou",
+          "content": "@易希倩 Queenie Yi @Shilan Bahjat \nhello, thank you for reporting this issue. The problem was caused by an issue with the data format, and a fix has now been released.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 15:23",
+          "sender": "Shilan Bahjat",
+          "content": "Hi dear @易希倩 Queenie Yi , AI answered this CST mistakenly in this chat and mentioned that lingerie is retunable\n[AI Chat](https://aichat.urbanic-cs.com/app/accounts/1/conversations/4395933)",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 09:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Shilan Bahjat@王叠 Die Wang [不看]帮看看 我看了下，1H20mins后触发转人工，是之前AI超时了吗",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 09:56",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@San Kamaran @曹津 Jin Cao 帮更新下哈 曹老师",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 10:00",
+          "sender": "王叠 Die Wang",
+          "content": "@易希倩 Queenie Yi @邹家辉 Jiahui Zou 帮看一下",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "Discussion for Zeropay Order",
+      "type": "group",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-11 13:09",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Parteek Hi, @王叠 Die Wang said they are B2C orders, are there any issues? maybe you can contact him directly",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 13:10",
+          "sender": "Parteek",
+          "content": "@易希倩 Queenie Yi According to @柯佑坤 David O, these are KOL influencer orders.",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 12:52",
+          "sender": "Parteek",
+          "content": "@易希倩 Queenie Yi Hey, have you checked this ?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 12:59",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@Parteek the tech guy @王叠 Die Wang  is checking",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "极速退干活群",
+      "type": "group",
+      "count": 3,
+      "messages": [
+        {
+          "time": "2026-05-11 10:07",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@曹津 Jin Cao PRD 4.2 灰度部分 https://mayfairtech.larkenterprise.com/wiki/VZHzwTBJoiINjwkdGnKcOkoAnEe",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 10:04",
+          "sender": "曹津 Jin Cao",
+          "content": "@易希倩 Queenie Yi 推全可以理解为不校验 pincode 吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 10:02",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@王叠 Die Wang @曹津 Jin Cao PIN code辛苦今日推全",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "消费者眼中的好商品&坏商品",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-11 19:28",
+          "sender": "未知",
+          "content": "@易希倩 Queenie Yi ai汇总的表格有点重复了 实际一个是客服咨询一个是商评论 我改下[呲牙]",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 19:17",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@胡伊涵 Aria Hu \n[Image: img_v3_0211j_93ba3731-64d6-4d83-ab52-99644028608g]\nSF和CR在我们的场景中怎么区分呀 如果能区分出来 这套感觉确实可以精进一下我们的模型",
+          "msg_type": "post",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "Ria Dutta, Queenie Yi, June Wang, Sheetal Jasoriya and 8 more",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-11 20:39",
+          "sender": "马文相 Moda Ma",
+          "content": "@Ria Dutta @易希倩 Queenie Yi 这个你安排下吗",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-11 21:29",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@马文相 Moda Ma 明天对一下先",
+          "msg_type": "text",
+          "is_self": true
+        }
+      ]
+    },
+    {
+      "name": "尺码推荐new",
+      "type": "group",
+      "count": 2,
+      "messages": [
+        {
+          "time": "2026-05-11 17:37",
+          "sender": "易希倩 Queenie Yi",
+          "content": "@管可发 Frank Guan @张万里 Wanli Zhang 老板们来评一下需求啦",
+          "msg_type": "text",
+          "is_self": true
+        },
+        {
+          "time": "2026-05-11 17:37",
+          "sender": "张万里 Wanli Zhang",
+          "content": "@易希倩 Queenie Yi 前端的先找叶飞",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "RTO Reduction Project",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-11 18:02",
+          "sender": "Ashutosh",
+          "content": "@易希倩 Queenie Yi - cool will pass tomorrow max",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN周年庆 - 产技沟通",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-11 15:58",
+          "sender": "马文相 Moda Ma",
+          "content": "@易希倩 Queenie Yi @滕苗 Mia Teng 周年庆“抽奖免”和“撒金币”的客服内容准备好了吗",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "质检问题讨论",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-11 09:46",
+          "sender": "Jennifer Li",
+          "content": "@易希倩 Queenie Yi @肖帝鸿 Hardy Xiao 看了后今天给我一个汇报，和目前Savana IN 和 IQ 标准差距多少和建议",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 13 个会话，160 条消息"
+}

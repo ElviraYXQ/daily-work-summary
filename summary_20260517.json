@@ -1,0 +1,70 @@
+{
+  "total_count": 6,
+  "total_chats": 3,
+  "chat_stats": [
+    {
+      "name": "未知群聊",
+      "type": "p2p",
+      "count": 4,
+      "messages": [
+        {
+          "time": "2026-05-16 10:00",
+          "sender": "未知",
+          "content": "📊 05月15日 工作汇总\n\n## 💡 昨天重点\n\n💬 **未知群聊**\n  ✅ 你：Then we can both keep a good feeling for old users and remain active for the group\n\n👥 **NSZ Closure Process alignment**\n  ✅ 你：@Shivani Verma I agree with you",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-16 08:27",
+          "sender": "薛驰 Chi Xue",
+          "content": "[Image: img_v3_0211o_29e1196a-a38d-446a-81de-2bda8bff673g]\n我们都寄售了standard怎么还会有发货延迟这类原因的取消。。。",
+          "msg_type": "post",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-16 00:04",
+          "sender": "Ashutosh",
+          "content": "hey queenie - ⁠⁠Claude API or Open AI API- which one you found better for CS?",
+          "msg_type": "text",
+          "is_self": false
+        },
+        {
+          "time": "2026-05-16 09:01",
+          "sender": "未知",
+          "content": "📰 **竞对动态速递 - 2026-05-16**\n\n🇮🇳 **印度市场竞对**\n📌 *关注：Myntra, Ajio, Meesho, Shein, Nykaa Fashion, Flipkart Fashion*\n\n1. With over 6 million sign-ups on Ultimate Glam Clan already, the fashion platform is now",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "IN- Instant refund service",
+      "type": "group",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-16 16:55",
+          "sender": "Ashutosh",
+          "content": "the link payment situation- @易希倩 Queenie Yi hey need more sample to validate?\n\n@张佳宜 Jiayi Zhang hey we have sent reminders as well already",
+          "msg_type": "text",
+          "is_self": false
+        }
+      ]
+    },
+    {
+      "name": "未知群聊",
+      "type": "unknown",
+      "count": 1,
+      "messages": [
+        {
+          "time": "2026-05-16 22:35",
+          "sender": "Ishita Singh",
+          "content": "@王越诗 Kice Wang @易希倩 Queenie Yi - need help in the below\n[https://aichat-in.urbanic-cs.com/app/accounts/2/inbox/4/conversations/3135730](https://aichat-in.urbanic-cs.com/app/accounts/2/inbox/4/conversa",
+          "msg_type": "post",
+          "is_self": false
+        }
+      ]
+    }
+  ],
+  "summary": "共 3 个会话，6 条消息"
+}
