@@ -1,4 +1,4 @@
-name: Daily Industry News
+name: Daily Industry News (Simple)
 
 on:
   schedule:
@@ -22,14 +22,22 @@ jobs:
       run: |
         pip install requests
 
-    - name: Run industry news script
+    - name: Generate industry news
       env:
         SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
-        LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
-        LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
       run: |
-        python3 collect_industry_news_v2.py
+        # 生成新闻（不推送飞书）
+        python3 <<'PYTHON'
+        import os
+        os.environ['LARK_USER_ID'] = 'ou_cc38ac881bcf17d997f0cad7d9a9a621'
+
+        # 加载脚本主体
+        exec(open('collect_industry_news_v2.py').read().replace(
+            'send_to_lark(summary)',
+            'print("✅ 新闻生成完成，跳过飞书推送")'
+        ))
+        PYTHON
 
     - name: Commit news file
       run: |
@@ -38,3 +46,8 @@ jobs:
         git add news_*.md
         git diff --staged --quiet || git commit -m "Daily industry news $(date +'%Y-%m-%d')"
         git push || true
+
+    - name: Show news preview
+      run: |
+        echo "📰 今日新闻预览："
+        head -50 news_$(date +'%Y%m%d').md

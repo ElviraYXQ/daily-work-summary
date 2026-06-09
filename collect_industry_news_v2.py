@@ -451,35 +451,69 @@ def generate_fallback_summary(all_news: Dict) -> str:
 
 # ===== 发送 =====
 
-def send_to_lark(content: str) -> bool:
-    """发送到飞书"""
-    print("\n📤 发送到飞书...")
+def get_tenant_access_token(app_id: str, app_secret: str) -> str:
+    """获取tenant_access_token"""
+    url = "https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal"
+    payload = {"app_id": app_id, "app_secret": app_secret}
 
     try:
-        process = subprocess.Popen(
-            ['lark-cli', 'im', '+messages-send',
-             '--user-id', LARK_USER_ID,
-             '--text', content,
-             '--as', 'bot'],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True
-        )
-
-        stdout, stderr = process.communicate(timeout=30)
-
-        if process.returncode == 0 and stdout:
-            result = json.loads(stdout)
-            if result.get('ok'):
-                print("   ✅ 推送成功")
-                return True
-            else:
-                print(f"   ❌ 推送失败: {result.get('error', {})}")
-                return False
+        resp = requests.post(url, json=payload, timeout=10)
+        data = resp.json()
+        if data.get("code") == 0:
+            return data.get("tenant_access_token")
         else:
-            print(f"   ❌ 推送失败: {stderr[:200]}")
-            return False
+            print(f"   ❌ 获取token失败: {data.get('msg')}")
+            return None
+    except Exception as e:
+        print(f"   ❌ 获取token异常: {e}")
+        return None
 
+
+def send_to_lark(content: str) -> bool:
+    """发送到飞书（使用API，不依赖lark-cli）"""
+    print("\n📤 发送到飞书...")
+
+    # 从环境变量获取配置
+    app_id = os.environ.get('LARK_APP_ID', '')
+    app_secret = os.environ.get('LARK_APP_SECRET', '')
+    user_id = LARK_USER_ID
+
+    if not all([app_id, app_secret, user_id]):
+        print("   ❌ 缺少飞书配置（LARK_APP_ID/LARK_APP_SECRET）")
+        return False
+
+    # Step 1: 获取token
+    token = get_tenant_access_token(app_id, app_secret)
+    if not token:
+        return False
+
+    # Step 2: 发送消息
+    url = "https://open.feishu.cn/open-apis/im/v1/messages"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json; charset=utf-8"
+    }
+
+    # 转义JSON中的特殊字符
+    content_escaped = content.replace('"', '\\"').replace('\n', '\\n')
+
+    payload = {
+        "receive_id": user_id,
+        "msg_type": "text",
+        "content": f'{{"text":"{content_escaped}"}}'
+    }
+    params = {"receive_id_type": "open_id"}
+
+    try:
+        resp = requests.post(url, headers=headers, json=payload, params=params, timeout=30)
+        data = resp.json()
+
+        if data.get("code") == 0:
+            print("   ✅ 推送成功")
+            return True
+        else:
+            print(f"   ❌ 推送失败: {data.get('msg')}")
+            return False
     except Exception as e:
         print(f"   ❌ 推送异常: {e}")
         return False
