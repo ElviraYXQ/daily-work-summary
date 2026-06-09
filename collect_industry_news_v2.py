@@ -487,20 +487,23 @@ def send_to_lark(content: str) -> bool:
     if not token:
         return False
 
-    # Step 2: 发送消息
+    # Step 2: 发送消息（使用post类型支持更长内容）
     url = "https://open.feishu.cn/open-apis/im/v1/messages"
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type": "application/json; charset=utf-8"
     }
 
-    # 转义JSON中的特殊字符
-    content_escaped = content.replace('"', '\\"').replace('\n', '\\n')
-
+    # 使用post类型，支持markdown格式
     payload = {
         "receive_id": user_id,
-        "msg_type": "text",
-        "content": f'{{"text":"{content_escaped}"}}'
+        "msg_type": "post",
+        "content": json.dumps({
+            "zh_cn": {
+                "title": "Savana 业内动态",
+                "content": [[{"tag": "text", "text": content}]]
+            }
+        })
     }
     params = {"receive_id_type": "open_id"}
 
