@@ -24,7 +24,7 @@ jobs:
 
     - name: Install lark-cli
       run: |
-        npm install -g @larksuiteoapi/lark-cli
+        npm install -g @larksuite/cli
 
     - name: Configure lark-cli
       env:
